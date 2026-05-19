@@ -444,20 +444,72 @@
       </div>
     </div>
 
-    <!-- AI 리포트 -->
-    <div class="panel full-width">
-      <div class="panel-header">
-        <span class="panel-title">Gemini AI 분석 리포트 (최신)</span>
-        <span class="panel-badge green">AI GENERATED</span>
-      </div>
-      <div class="report-body" id="ai-report">
-        <div class="empty-state">LOADING...</div>
-      </div>
-    </div>
-
+<!-- AI 리포트 섹션 (날짜 탭 포함) -->
+<div class="section">
+  <div class="section-header">
+    <span>🤖 Gemini AI 분석 리포트</span>
   </div>
+
+  <!-- 날짜 탭 목록 -->
+  <div id="report-tabs" style="
+    display:flex; gap:6px; flex-wrap:wrap; margin-bottom:12px;
+    padding:0 4px;
+  "></div>
+
+  <!-- 리포트 본문 -->
+  <div id="ai-report" style="
+    background:#0d1f2d; border-radius:8px; padding:16px;
+    line-height:1.7; font-size:13px;
+  ">로딩 중…</div>
 </div>
 
+/* ── 리포트 날짜 탭 ── */
+async function loadReportTabs() {
+  try {
+    const idxResp = await fetch('./reports-index.json?t=' + Date.now());
+    if (!idxResp.ok) return; // 파일 없으면 탭 숨김
+    const { dates } = await idxResp.json();
+    if (!dates || dates.length === 0) return;
+
+    const tabContainer = document.getElementById('report-tabs');
+    tabContainer.innerHTML = '';
+
+    dates.forEach((date, i) => {
+      const btn = document.createElement('button');
+      btn.textContent = date;
+      btn.dataset.date = date;
+      btn.style.cssText = `
+        padding:4px 10px; border-radius:20px; border:1px solid #1e3a4f;
+        background:${i === 0 ? '#2a7fbf' : '#0d1f2d'}; color:#e2e8f0;
+        font-size:11px; cursor:pointer; transition:background .2s;
+      `;
+      btn.onclick = () => loadReportByDate(date, btn);
+      tabContainer.appendChild(btn);
+      if (i === 0) loadReportByDate(date, btn); // 최신 날짜 자동 로드
+    });
+  } catch(e) {
+    console.log('리포트 인덱스 없음:', e);
+  }
+}
+
+async function loadReportByDate(date, activeBtn) {
+  // 탭 활성화 스타일
+  document.querySelectorAll('#report-tabs button').forEach(b => {
+    b.style.background = b === activeBtn ? '#2a7fbf' : '#0d1f2d';
+  });
+
+  const reportEl = document.getElementById('ai-report');
+  reportEl.innerHTML = '<div style="color:#64748b;text-align:center;padding:20px">불러오는 중…</div>';
+  try {
+    const resp = await fetch(`./reports/${date}.json?t=` + Date.now());
+    if (!resp.ok) throw new Error('파일 없음');
+    const { report } = await resp.json();
+    reportEl.innerHTML = report || '<div style="color:#64748b">리포트 없음</div>';
+  } catch(e) {
+    reportEl.innerHTML = '<div style="color:#f87171">리포트를 불러올 수 없습니다.</div>';
+  }
+}
+    
 <script>
   /* ── 탭 전환 ── */
   function switchTab(id, btn) {
@@ -620,8 +672,8 @@
     renderTrendChart(data.trend);
 
     // AI 리포트
-    document.getElementById('ai-report').innerHTML = data.latestReport || '<div class="empty-state">리포트 없음</div>';
-
+    loadReportTabs(); // 날짜 탭 로드 (reports-index.json 기반)
+    
     // 로딩 → 앱 전환
     document.getElementById('loading-screen').style.display = 'none';
     document.getElementById('app').style.display = 'block';
