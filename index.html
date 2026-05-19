@@ -29,18 +29,19 @@
       --sans:      'IBM Plex Sans KR', sans-serif;
     }
 
-    html {
-  background: #0a0e17;
-}
-body {
-  background: #0a0e17;
-  background: var(--bg);
-  color: var(--text);
-  font-family: var(--sans);
-  font-size: 14px;
-  line-height: 1.6;
-  min-height: 100vh;
-}
+    html, body {
+      background: #0a0e17 !important;
+      background-color: #0a0e17 !important;
+    }
+    body {
+      background: #0a0e17;
+      color: var(--text);
+      font-family: var(--sans);
+      font-size: 14px;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
     body::before {
       content: '';
       position: fixed;
