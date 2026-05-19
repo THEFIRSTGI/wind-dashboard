@@ -671,8 +671,15 @@ async function loadReportByDate(date, activeBtn) {
     // 트렌드 차트
     renderTrendChart(data.trend);
 
-    // AI 리포트
-    loadReportTabs(); // 날짜 탭 로드 (reports-index.json 기반)
+    // AI 리포트 // 리포트 탭 — 함수 정의 확인 후 호출
+  if (typeof loadReportTabs === 'function') {
+    loadReportTabs();
+  } else {
+    // 인라인 폴백: 현재 data의 latestReport 표시
+    document.getElementById('ai-report').innerHTML =
+      data.latestReport || '<div style="color:#64748b">리포트 없음</div>';
+  }
+}  // onDataSuccess 닫는 괄호
     
     // 로딩 → 앱 전환
     document.getElementById('loading-screen').style.display = 'none';
