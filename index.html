@@ -634,10 +634,11 @@
   }
 
   /* ── Apps Script 호출 ── */
-  fetch('./data.json?t=' + Date.now())
+fetch('./data.json?t=' + Date.now())
   .then(r => r.json())
-  .then(d => onDataSuccess(d))
+  .then(d => onDataSuccess(JSON.stringify(d)))  // ← JSON.stringify 추가
   .catch(e => onDataFailure(e.message));
+  
 </script>
 </body>
 </html>
