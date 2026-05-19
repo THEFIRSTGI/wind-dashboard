@@ -634,10 +634,10 @@
   }
 
   /* ── Apps Script 호출 ── */
-  google.script.run
-    .withSuccessHandler(onDataSuccess)
-    .withFailureHandler(onDataFailure)
-    .getNewsData();
+  fetch('./data.json?t=' + Date.now())
+  .then(r => r.json())
+  .then(d => onDataSuccess(d))
+  .catch(e => onDataFailure(e.message));
 </script>
 </body>
 </html>
