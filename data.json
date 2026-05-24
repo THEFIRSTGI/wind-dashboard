@@ -1,13 +1,37 @@
 {
   "kpi": {
-    "total": 2597,
-    "domestic": 1451,
-    "global": 1146,
-    "todayNew": 2,
-    "todayDomestic": 1,
+    "total": 2606,
+    "domestic": 1455,
+    "global": 1151,
+    "todayNew": 1,
+    "todayDomestic": 0,
     "todayGlobal": 1
   },
   "domesticNews": [
+    {
+      "title": "“풍력 터빈, 주민 건강 해치지 않는다”…미국 연구 사실일까? - 강찬수의 에코파일",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RRXhrVVNyQVVzMGMxaUtzWW4xY2NEN0sxLWlHbkpDSkpFUFFhQlA3X0daYkhXeFdSbkgtRnAydXg5b0ZZSHlUZ0Y5anJtNUpCdzF6aTJPV09nZGs?oc=5",
+      "date": "2026-05-24",
+      "status": "신규"
+    },
+    {
+      "title": "위성곤 \"수원리 풍력사업 주민 참여 모델 성공 사례\" - 한라일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mREUxYUlvRlJlUlRTU1c3Q3pxaXpOLTRpTWo5U195S001LU9QcGI5OWxtVFFTVWx5cWdVXzh1aFpmS3RrS1d0VTN6cjJCSF9nUzJhSTY2VXM0ZkFfaG5XOFRzNVhUSjhxX1E?oc=5",
+      "date": "2026-05-23",
+      "status": "신규"
+    },
+    {
+      "title": "두산·LS전선·대한전선 나섰는데 풍력 발주 '공회전' : 네이버 블로그 - Naver Blog",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWlNSU1VmeWRLaEpORGRmS1VhdGMySXcwV3lrLUcxem53dzQ3a3AtcFl1bmgxWk9nNF82Q3NzQ3lsbnBtQ1JCV3lOOThBRkZ4Mi1uajRYeXZaLUhwRTJ5YUxDVV9jbko2WGY3UVRyazFFcnZ3Q0hQcHlwYm0tMFN0T3ZFM1BJRGNteFA1N3dEOA?oc=5",
+      "date": "2026-05-24",
+      "status": "신규"
+    },
+    {
+      "title": "에너지 시스템 경쟁력, 특정 전원이 아니라 구조에서 결정 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44aURJNGJzaHRaZzJwUmVLZFRsSENiWGdyYml1bzNZRGN5dUY3Yk1BZzNsbG13WWdXTEc2UUttaWxtc29KSGFfa29iWnhRRTlBTFpB?oc=5",
+      "date": "2026-05-24",
+      "status": "신규"
+    },
     {
       "title": "[격전지를 가다-진도군수]인구소멸 위기 속, 해상풍력으로 도약 ‘이상동몽’ - 무등일보",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UTnJPUjdrYlROeGMtQ0tvc2syT3ZqSTlpV3I2ZFdEWEhNN25GdjY0THlSSGZkbHlhTVNyeTJKMm9yenJLUEdia0lOcVZHeUJNZHFB?oc=5",
@@ -1783,33 +1807,39 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByTDNnSC1vTElOSTNVcEpwN3N1eXFpOVVtWm5EYjZZNXpwRnltVG04NEl2YUQ5dXJSam5tVkR3ZUZLalV3d05GZGRBUGNpbklnSVY3NWJKNEUwT29YX2lrWkUyTTV4WC01V3djaw?oc=5",
       "date": "2026-05-04",
       "status": "신규"
-    },
-    {
-      "title": "동서발전, 재생에너지 안전망 강화 노력…6개 풍력발전 출자사 ‘한자리’ - 에너지플랫폼뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UYXlRdDdsbk9HMHkxSzA0b3pMc2tJYmVzd0NZTnh5dU9pNFlrbzNid3hUb0toVEZMRU9pNmxGTnhpcnpLNHFYR1Jqb1ZfMThXaEVIUzg5eGFTU1cwWkVJazg4X3RvWi1CSnZwb9IBcEFVX3lxTFBzNi1aNnlGQnE4bmowVVVIMW85WjhaV1FQOG96RV9XUXVHRGcwNWw5Y1hnR0k3ams1Y3dWSDB4eDNtdTZOSEd4UG9pdUJlZDFoU0IxcEhWX3UxTndpODNmdHZ5UjRKTjl4emRBS1dtVnQ?oc=5",
-      "date": "2026-05-04",
-      "status": "신규"
-    },
-    {
-      "title": "NLL 턱밑 연평도 해상풍력 추진···‘평화 바람’ 혹은 ‘분쟁 씨앗’ - 인천투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JNThBNWY5UXhZY0NweWNzdVExNl9tMko0VEZkN2VmMk1CS1hVVVJNVkdjU200Wm9GaHpHWmhmZng2c3FXUmNsa1huZHpDYTJnbXVKbnhLNGhBS09uZ0VwQVNTb2l1OFE5Vnh6Y1NWNEE?oc=5",
-      "date": "2026-05-04",
-      "status": "신규"
-    },
-    {
-      "title": "육상 풍력발전기가 철새에 미치는 영향은…정량 연구 추진 - 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RM04xaDVGX2NXeHBLOUstMVZfSG5KeTc0RG5jWWduRGFXYk1rZUdHTjNWZ1NDX2ZPajI0WW9Ta3J0NFc2TVZnenI4WTk5Qnh1Vmc?oc=5",
-      "date": "2026-05-03",
-      "status": "신규"
-    },
-    {
-      "title": "불붙은 대형 터빈 전쟁 … K해상풍력 전략 시험대[풍력발전 독립의 길을 묻다]⑤(끝) - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lLVBVMDV0eEkxdWQ1RDhULTN2UVBkaVNHekJHZUNLeURWNzFXVm40OERfdkM1QmoyX1dQZkhYY2w5UURlYkRETDZnVlRGd3c?oc=5",
-      "date": "2026-05-03",
-      "status": "신규"
     }
   ],
   "globalNews": [
+    {
+      "title": "The UK Just Approved 3 Gigawatts of New Wind Farms. The Pentagon Has Stalled 165 American Projects on National Security Grounds and Trump Spent $10 Billion on the Magnets That Power Them - Autonocion.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jaFV3TzJRZUE2elYwX2dxYnFfOHJBazJ5SlB0ZEhDT2o5aDYyV1J5bFF2bE83bWdfNi11RmJvQ2J6VXIwdUxUYzg5TkdnNTliZjFfcENoc0VmdzB4bUZBVA?oc=5",
+      "date": "2026-05-25",
+      "status": "신규"
+    },
+    {
+      "title": "Floating Offshore Wind Shot: Progress and Priorities - Department of Energy (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcVk0a3lOaEtCZ20tUVhHM21RMmhTTDh3RnZYT3BveTZLeWlOV09MSURPb3dZVU1MckRBWE9IQ19LaWRlNWVROWJfdWpaeS1OQ1NJSXN3QUhjY295Q1paaDhyYzFuZzRaNE16RHZxZTd5a3p4d2h6WDR2cG9FOGhwcTlNMVMwQQ?oc=5",
+      "date": "2026-05-23",
+      "status": "신규"
+    },
+    {
+      "title": "Wind Turbine Towers Market Forecast Points Higher Toward 2035, Driven by Offshore Wind Expansion and Repowering Demand - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT0JqUlptTDh1RzlTMHhJYktUcTFyZU9QTEpEUHlXZzAyV08xZENIXzV0c21FdEJsWHMzZUF0bjBoRjBQMi1wallCVzZqR1NaWlVEVjUwTHNNUHVhbEdob0RGNks0MGZiRkxXa3BBcTdQUXgwQ0xMUXpxM0Q0QS04VjNFSFNqT3U4QzN3TVBXdE1LR0duMUtqdmlaVGRSWHFXZTlwTUF5OW1hUXlkc2UwQXhJUUVZdGFlNktnMkZWTThNNFZfWGN5MzJmc05wRTYxb0JTNjFUR3hmd0VFdUZjUg?oc=5",
+      "date": "2026-05-24",
+      "status": "신규"
+    },
+    {
+      "title": "California investigates Trump administration’s deal to end an offshore wind project - AP News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa1JrRWhDSzgxMklJZmRtUzhrd2g1UXpiV3I3a0NnWnFsNGVFNEI0TklPV1NOSDBvZndXd0pPbEQyV0pxVHk1WThKekpxeUh3SXBSZXBzNVpmc2RyZ1FkMW1GRjYzRV9XRHBnbU84cjBTMnRTclVIb3VreERPNW9tQmN1WEhoanpCZ28zdnp5Z0daQV9XbFVmTXhUUnFWeFpsUWJLOHNmSHlsLUFlX21BeVJhVGRjNGh0SGVmag?oc=5",
+      "date": "2026-05-04",
+      "status": "신규"
+    },
+    {
+      "title": "Defying Trump, California continues to bet big on offshore wind - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMDNWWXRRdjFFVTh6YTA2ZDZKOGM2NUxCR2NvQktJdzhQWnlxUmlvbGxPRWxIcklQaUxKT0pfYkoyNG4xMEFhckY1X3pxVHE3TVRjLVZtTXRmbVQzNFN1Q1lWX09QeHFHellMSWtVMkstaHlWeHozVzh0VWxaRU4tb0xoam8tU1pucWtZd0RBUjdTUWx3M3BlOUhIRGlKSW1JVlRXdDQ5T25IXy0yNk5Kb0NWOUtmdw?oc=5",
+      "date": "2026-05-24",
+      "status": "신규"
+    },
     {
       "title": "Oil, Wind Leases & Heat Pumps: The Week's Top Energy Stories - Energy Digital",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMTNQNTF2SHhQYnl2TVBCZW84Zll1bWtjMGNsYmdkRUF4Y21EMEJHb3gxZVg1SldGYlBmaHM4LXhKNTlQRmF3ekFmeTZxb1l6QmxuaTVsUnZVZVNBQjBqVng2SzNqWmd2bkhzSGtxT3dKbEZ5WWYzelVLOFRob3VyZHJwd3JLOGlUbDlv?oc=5",
@@ -3579,36 +3609,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWXVfVTBMX0VfVlctSzRqZldmVlVvRU5LU0hTbFcweW96WVo3OUJHdFpRWmhVM0pvVFZLbjJLendLR0Y2MWpXX25oZkRVMGhraXdzWWxOQWRJUlFKOXIxeDRCMG90TWxhRFV1MEpSUlROZ3FlWGRBN21TNTRybS1KZ08wU21xaWVlOWQwQk5uMEgzRVR2M29WWTVxRmNsN0tyMkdxLXVlSmhmSFZzSXlzVG5qelV3aEF1bmhoclU3clQ5WS16YlJ3VXNnSnB1bDVz?oc=5",
       "date": "2026-04-30",
       "status": "신규"
-    },
-    {
-      "title": "Ocean Winds’ First Offshore Wind Farm in France Completed, Moves into Full Operation - offshoreWIND.biz",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTTRvVUFsbmlSLVk1bGUwaWxoWUc3VlcyaEYzMVZfQVpTSTdkYUhhXzdoUzNNbENKOTFxeUQ4Z0ZzLWRlazNfYWdlanFaaFZTZDdxM1pJa0N2QnBxMlpqVWhCb0N1SmFVTE1zcnJOQlphQlcya0lTOGJWTHlIVFgxTjM3OHVQdnRDWFl4akNIX3phNjRjU2g4S18tNGJ0cGpsS0toaEZEVVB6Uk01Vmg2aWExdHZNSzU3X1JjOE5jV3g?oc=5",
-      "date": "2026-04-29",
-      "status": "신규"
-    },
-    {
-      "title": "Offshore wind farms take shape along Rhode Island’s coast, even as Trump wants to stop them - CNN",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UWVhHUEtOVTdfN3lzU0VYbFV3dDZJRHNIQ2pTdzZkMmdldExPMHJSd0ZzTkZsVlRfSnNkbDJLNUFkV1pCOU9ZeFBNSVdGUWJqSEE0eTdNMmVVVHBHTUhISTc3WWhtR2F5RXpmaXU2VWJBQ2JYRHRxNTU0VDlSQQ?oc=5",
-      "date": "2026-04-30",
-      "status": "신규"
-    },
-    {
-      "title": "Advantages and Challenges of Wind Energy - Department of Energy (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SdEU3UlRCdXpKY0VpdW9FSF9saXhDUXdjZEVzUHZleXZxbTJWNzBVOHdhYi1lU295aGprelNUVWhSZ3I1ZlVTRlNidDdBZ0tVU0xDSklaX3JPNGxKTHdXSV95TVFzeU1wbnRuaUZFOFgyWGNMNmpSRUtybm5kUQ?oc=5",
-      "date": "2026-04-23",
-      "status": "신규"
-    },
-    {
-      "title": "Massachusetts flips on power from Vineyard Wind - E&E News by POLITICO",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWlWMjVyamJvX0Fqd2lEVlh0TVotYXBFenh1ZS1TSHNWeWJYM184RW4zYThFQ2ZkWHNqNWE3a1NDZ0FmQ1Fqd3Q0TjMzSnNJTTR2TEFZdlR0ank5QmgzOHF2OGNSUWphLUZMYlRrWEZ3ZjFxU29FQkwxV0NBR3RTMFlQUnlURzRuTkE?oc=5",
-      "date": "2026-04-28",
-      "status": "신규"
-    },
-    {
-      "title": "Rain Erosion Resistant Offshore Blade Edge Coatings Market Growth Driven by Offshore Wind Capacity Additions Through 2035 - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX0RzYXBMclYtd09rcVVIYzJ3QnN3YjJ6TVRRc3VnWFRMV1lpeDBJVGJRVWxJX003bTR5bTYzLUJYQ2pGTDRsYUVxOUpwSUlsQ1hpMUtVcTM0UmJYRURWd2tHWFExR1FuM2cwb3JiTW8wZXJYbmg0ZXZFMDVUZ2hpNzZpUWp4c3pzcmhZcFRodi1EQzRvcV9tcUY0X2dOTncxSHFMLW0zNXkwYlNRRnl2cmNpODdjU0xHaDZRT0R5V3JTZ2J5VUZtVjdmc0h4ZFNkZDNCdmcycUpkcE9wMExySEpGYnlEcDQ?oc=5",
-      "date": "2026-04-29",
-      "status": "신규"
     }
   ],
   "trend": [
@@ -3896,10 +3896,15 @@
       "date": "2026-05-24",
       "domestic": 11,
       "global": 6
+    },
+    {
+      "date": "2026-05-25",
+      "domestic": 4,
+      "global": 5
     }
   ],
-  "latestReport": "\n<div>\n    <h2>주요 이슈 요약</h2>\n    <ul>\n        <li><b>풍력 발전의 사회적 수용성 및 환경 영향 논란</b>:\n            <br>풍력 터빈이 주민 건강에 미치는 영향에 대한 논쟁은 국내외적으로 지속되는 주요 이슈입니다. 미국 연구 결과가 풍력 발전의 건강상 무해함을 시사하면서 국내 풍력 프로젝트 추진에 있어 사회적 수용성을 확보하고 불필요한 논란을 해소하는 데 중요한 영향을 미칠 것으로 예상됩니다. 이는 신재생에너지 인프라 구축 시 지역 주민과의 소통 및 과학적 근거 제시의 중요성을 부각합니다.\n            <ul>\n                <li>“풍력 터빈, 주민 건강 해치지 않는다”…미국 연구 사실일까? - 에너지경제신문</li>\n            </ul>\n        </li>\n        <li><b>재생에너지 확대를 위한 전력 인프라 시장 성장</b>:\n            <br>재생에너지 발전 비중이 증가함에 따라, 생산된 전력을 안정적으로 공급하기 위한 송배전 인프라, 특히 고전압 케이블 시장의 성장이 가속화되고 있습니다. 이는 재생에너지 시스템 구축이 단순히 발전설비 확충을 넘어, 이를 뒷받침할 효율적이고 견고한 전력망 투자가 필수적임을 시사합니다. 전력 인프라 시장의 성장세는 재생에너지 전환의 핵심적인 동반 요소로 작용할 것입니다.\n            <ul>\n                <li>World High-Voltage Cables - Market Analysis, Forecast, Size, Trends and Insights - IndexBox</li>\n            </ul>\n        </li>\n    </ul>\n\n    <h2>기사 목록</h2>\n    <h3>국내 이슈</h3>\n    <ul>\n        <li>2026-05-24 | “풍력 터빈, 주민 건강 해치지 않는다”…미국 연구 사실일까? - 에너지경제신문 (<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCSGxLQVlBWFoxd3Q3eUZPbXpqMUQ4NThOU3pQSkJvY3VMV3UtOTAtdmdQNTdGR2RMTnlvQ2dnMExVM19yTU04X3hGQUZueU1hdXpNNmsxenRDTTA?oc=5\">링크</a>)</li>\n    </ul>\n    <h3>해외 이슈</h3>\n    <ul>\n        <li>2026-05-24 | World High-Voltage Cables - Market Analysis, Forecast, Size, Trends and Insights - IndexBox (<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdjJPUlJlMmpxRjdJU1pGSkY4a1Itc2JROHZjR0tPSEZtYjVXS2ZQSEZtZ09kMEZ6a1BtdThoWGZxX3dfdEczUGFPS1h3QnNwaktjSFdNblA3TkV3T1h1RHdTMmpiR0JZblh0TXBKWkppUm9CRDZ6eWxQeWduemVOaXZOeGFPY2k3dWNWVDVEdHl0cEhkcko0eHRVcFUxZjZZblliemJVRHluc0ZLVTBNbkwzTDRRQnNlaGhaTk1UYlZwV0l3cnYxXzc2X0s1THlERFpF?oc=5\">링크</a>)</li>\n    </ul>\n\n    <h2>산업 시사점</h2>\n    <ul>\n        <li>풍력 발전은 청정에너지 전환의 중요한 축이지만, 프로젝트 성공을 위해서는 과학적 근거를 바탕으로 한 사회적 수용성 확보 노력이 지속적으로 이루어져야 합니다.</li>\n        <li>재생에너지 발전량 증가에 발맞춰 고전압 케이블을 포함한 전력 인프라 투자는 필수적이며, 관련 시장의 성장과 기술 혁신 동향을 주시해야 합니다.</li>\n    </ul>\n</div>\n",
-  "lastUpdated": "2026-05-24",
+  "latestReport": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>신재생 에너지 산업 분석 보고서</title>\n    <style>\n        body { font-family: sans-serif; line-height: 1.6; }\n        h2 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; }\n        ul { list-style-type: none; padding-left: 20px; }\n        li { margin-bottom: 10px; }\n        b { color: #e74c3c; }\n    </style>\n</head>\n<body>\n\n    <h2>주요 이슈 요약</h2>\n    <ul>\n        <li>\n            <b>글로벌 풍력 에너지 개발의 양극화</b>\n            <br>영국은 3기가와트(GW) 규모의 신규 풍력 발전소 건설을 승인하며 신재생 에너지 전환에 대한 강력한 의지를 보였습니다. 반면, 미국에서는 국방부가 국가 안보를 이유로 165개에 달하는 풍력 프로젝트를 지연시키면서, 글로벌 풍력 에너지 개발 정책 및 실행에 있어 국가별로 상이한 접근 방식과 우선순위가 나타나고 있습니다.\n            <ul>\n                <li>관련 기사: The UK Just Approved 3 Gigawatts of New Wind Farms. The Pentagon Has Stalled 165 American Projects on National Security Grounds and Trump Spent $10 Billion on the Magnets That Power Them</li>\n            </ul>\n        </li>\n        <li>\n            <b>국가 안보와 신재생 에너지 개발의 충돌</b>\n            <br>미국 국방부의 대규모 풍력 프로젝트 제동은 신재생 에너지 인프라 구축에 있어 국가 안보가 중요한 변수로 작용할 수 있음을 시사합니다. 이는 풍력 터빈의 핵심 부품(자성 재료 등) 공급망에 대한 해외 의존도 또는 특정 기술의 전략적 중요성과 관련이 있을 수 있으며, 과거 트럼프 행정부가 자성 재료에 100억 달러를 투자했음에도 불구하고 현 정부에서 안보 문제를 제기하는 것은 복잡한 지정학적 및 기술적 문제를 내포하고 있습니다.\n            <ul>\n                <li>관련 기사: The UK Just Approved 3 Gigawatts of New Wind Farms. The Pentagon Has Stalled 165 American Projects on National Security Grounds and Trump Spent $10 Billion on the Magnets That Power Them</li>\n            </ul>\n        </li>\n        <li>\n            <b>정책 일관성 및 투자 효율성 문제 제기</b>\n            <br>풍력 에너지 부품에 대한 대규모 투자에도 불구하고 프로젝트가 국가 안보를 이유로 지연되는 미국 사례는 정부 정책의 일관성 부족과 투자 효율성 저하 문제를 야기할 수 있습니다. 이는 신재생 에너지 산업의 성장과 발전을 위해 예측 가능하고 일관된 정책 환경이 얼마나 중요한지를 보여주는 단적인 예시이며, 투자자 및 개발자에게 불확실성을 가중시키는 요인으로 작용할 수 있습니다.\n            <ul>\n                <li>관련 기사: The UK Just Approved 3 Gigawatts of New Wind Farms. The Pentagon Has Stalled 165 American Projects on National Security Grounds and Trump Spent $10 Billion on the Magnets That Power Them</li>\n            </ul>\n        </li>\n    </ul>\n\n    <h2>기사 목록</h2>\n    <ul>\n        <li><b>[해외 이슈]</b>\n            <ul>\n                <li>[2026-05-25] The UK Just Approved 3 Gigawatts of New Wind Farms. The Pentagon Has Stalled 165 American Projects on National Security Grounds and Trump Spent $10 Billion on the Magnets That Power Them (<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jaFV3TzJRZUE2elYwX2dxYnFfOHJBazJ5SlB0ZEhDT2o5aDYyV1J5bFF2bE83bWdfNi11RmJvQ2J6VXIwdUxUYzg5TkdnNTliZjFfcENoc0VmdzB4bUZBVA?oc=2\" target=\"_blank\">링크</a>)</li>\n            </ul>\n        </li>\n        <li><b>[국내 이슈]</b>\n            <ul>\n                <li><!-- 현재 제공된 뉴스 데이터에는 국내 이슈가 없습니다. --></li>\n            </ul>\n        </li>\n    </ul>\n\n    <h2>산업 시사점</h2>\n    <ul>\n        <li>글로벌 신재생 에너지 시장은 각국의 정책 방향, 특히 국가 안보 및 공급망 안정성이라는 비경제적 요인이 핵심 변수로 부상하고 있습니다. 따라서 신재생 에너지 프로젝트 개발 시 이러한 요인들을 면밀히 분석하고 대응하는 전략이 필수적입니다.</li>\n        <li>미국의 사례는 신재생 에너지 전환 과정에서 정책의 일관성 확보와 규제 불확실성 해소가 매우 중요함을 강조합니다. 개발사 및 투자자들은 정책 리스크를 최소화하고 안정적인 사업 환경을 보장받을 수 있는 방안을 모색해야 합니다.</li>\n        <li>핵심 기술 및 부품에 대한 자국 내 생산 또는 공급망 다변화를 통해 외부 충격에 강한 신재생 에너지 생태계를 구축하는 것이 중요해질 것입니다. 동시에, 국가 안보 우려를 해소하면서도 신재생 에너지 확대를 지향하는 유연한 정책 프레임워크 개발이 요구됩니다.</li>\n    </ul>\n\n</body>\n</html>",
+  "lastUpdated": "2026-05-25",
   "keywords": [
     {
       "sheetName": "국내",
