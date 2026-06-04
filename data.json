@@ -1,13 +1,67 @@
 {
   "kpi": {
-    "total": 2821,
-    "domestic": 1573,
-    "global": 1248,
-    "todayNew": 8,
-    "todayDomestic": 0,
-    "todayGlobal": 8
+    "total": 2841,
+    "domestic": 1582,
+    "global": 1259,
+    "todayNew": 6,
+    "todayDomestic": 1,
+    "todayGlobal": 5
   },
   "domesticNews": [
+    {
+      "title": "中 1분기 배출량 2% 증가…재생에너지 늘고 ‘버려지는 전력’도 늘어 - ESG경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Zd3cwa2hCcmYydGlFbzZiaHk0T201eVBuc3QwV2taQXpHeWUzdHhLaDU2WTQzWkJmdDVsc3o1ZkQzeUd0VEJQaTVyaVR6azRHblpBV2s4bGpaUlVZSHMyUVdCVExRME02WElaeQ?oc=5",
+      "date": "2026-06-04",
+      "status": "신규"
+    },
+    {
+      "title": "[로드픽] 풍력발전의 숨은 비용, 윤활유에서 갈린다 - 뉴스로드",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kNEM4RnBXYmpYWWhaR25MNjJjUlJIVnhCMXZGUVVWY28yb1BiWXlrNG52NzNzMkFsdnBNMVVaVmt6akFsdFRqaHZsX2pab01TTUdLQl85WlBObC1LcWJSbEp4Q2Jfc1JLWlpR0gFvQVVfeXFMUHhMeWxuckNTaEVJQlZUcURhQ1JCYVpxRjJleEVHWlZqeXluVUVsZmNLZGVRbk1YdmcyS0lLb2tHa2x2VzA2eU9ZajJjRXBkblRYMUp5OGZUOGVKVklhbV9Ibi1kaDQ4M3JXN1l4MVUw?oc=5",
+      "date": "2026-06-04",
+      "status": "신규"
+    },
+    {
+      "title": "브라질, 태양광·풍력 급증에 '출력제어' 비상 - AI타임스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fYmFWajhRRFJzTWVlQ0JFZEwxQ0ZRTlB2d2xpSU84VGxqMzU5dURXZTVBS2NkczNoc0R4TGlRRVhuQTdOQVRnWVJMOVkyblphYzRiWnJwTU50VGpUR1FHcXhiMFczY2w4VXc?oc=5",
+      "date": "2026-06-04",
+      "status": "신규"
+    },
+    {
+      "title": "동국S&C, 베스타스와 316億 풍력타워 공급계약 - 페로타임즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ld1ZzUktNSTIzYXdhdGZma0owUWs3alczNnRmSnNsbzE2dE9jWkwyNlJsT0hKNldNSkdZamQ1SmpuZmJTY1hGSlM5S3VOMU1HTnNBZEMydGFOLUluVGhDMmdjdXNnOWVPQXJlcg?oc=5",
+      "date": "2026-06-04",
+      "status": "신규"
+    },
+    {
+      "title": "해상풍력 늘자 항로 안전 비상…서해해경청, VTS 협력 강화 - 해사신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaRkxiYXUxQkMtZ1NwQlVuaEh0c3J5TlBYRHd1dUlQekphaTN0eXRFbDA5UUZFVEFMMEFmWXA2S1lvbm9CRjB3cHdoRV9JYVBiNmczTlF1R3JaMnNaTm55cWlfR3JsRXBjN3Vv?oc=5",
+      "date": "2026-06-04",
+      "status": "신규"
+    },
+    {
+      "title": "동국S&C, Vestas와 315억 규모 풍력발전기 공급 계약 체결 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VZlJiZUgwLWNSU0tsZnNpcnIwelViMlJreVZ4SWNvczRoSXRrS0luWlVQZXc0WnRnQWw5Z1RZWlgyd2VNWHJkVWN3bTk3ek9jRVB0eFZyVnExRWVrX2xncFo2VHdaWGliSXVlMi16XzZENDA?oc=5",
+      "date": "2026-06-04",
+      "status": "신규"
+    },
+    {
+      "title": "전력망ㆍ해상풍력ㆍESS 인프라 구축 속도… 건설ㆍ에너지시장 ‘새 먹거리’ 높은 관심 - 대한경제",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DVWZpOTIzOXJMMkVYRkNpeWxnbFZ5a1ZDbHZ6MlN4a2ZVTVIyX3hNRHFSVTJiRjlmZDBmcmVwamp2dkZqUzFicDBsZk43eGZSdktzVmNwWDJKQ292RU03ZGxJZkY5SXFvNlpYZHlVN1FWanRS?oc=5",
+      "date": "2026-06-05",
+      "status": "신규"
+    },
+    {
+      "title": "검은 석탄화력의 은퇴…푸른 풍력의 첫출근[디깅에너지] - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yb2MxcXJHUmFQY0J3VmdsY2k5eGNGQ3p2V1VjbC1hcEVfZTBfOWRhVE1wQXVQWm00MEFDLXowR1MtVHk3c0xZY25nelFPa2FweUc4?oc=5",
+      "date": "2026-06-04",
+      "status": "신규"
+    },
+    {
+      "title": "[인터뷰]\"태안, 해상풍력 O&M·재생에너지 산업 거점으로 육성\"…이정복 한국서부발전 사장 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WRG5aYmRiZm8tTldzZGR4a0dYamVYTWxVNFZQSm5FRzdMUDRUQ3pQUHJjQzY3YlkwX091WmpwS0huTHFwd1QtYjZ4SmtsX0k?oc=5",
+      "date": "2026-06-04",
+      "status": "신규"
+    },
     {
       "title": "트럼프 행정부 해상 풍력발전 취소에 뉴욕州 등 소송 - v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HWEM3RG9FZUtqRTFIUDVNMjUxRXREZUY3dlhfOGQxYk01T05WaXhWZG1Uck90alNRblFDU0pLTlFZeXJsOVFSYmRYSlJGdzQ?oc=5",
@@ -1753,63 +1807,75 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VZjBPdFc2MVRUVk0wSzAxVHhWRXRGc3BEelZYMHI5bGhpQXp3bGVHQnRSR3FBR3NDeHNMa0RvVHA3ZFFTSzEzU2dydC1oYkdJeHdCMEwzM1pjZUpscXNrStIBeEFVX3lxTE5BUFo3dWtnN1lENnRuaHN6b3dCY29jSHdvSTgxb1FQYnBoUGNLMTFmS09lb0dFdGhEbVc3dDRjT3RqODQ4N25KMEJUeXB5SktjQktmaHhlbUhQZGhGbllPTXYyVjIwa2RLc3huc0F6THk0UEpiNUd1eQ?oc=5",
       "date": "2026-05-14",
       "status": "신규"
-    },
-    {
-      "title": "대한전선, 1만톤급 CLV 추가 확보… 해저 턴키 경쟁력 고도화 - 전기신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KaUFuRk9zaW8xcDRRY1hTandhTHUzNU9Dd0JjTzN1NnBDdWFsRlZQSXdTQi1kdE16SERoa01hSUd5UXFoaHVUcGdvU21fZDZFc1dHRTZCVTVMOGJHM1ZhRGp2TERWWkhveUJETNIBcEFVX3lxTE81aXlvR3VZUzZMRVdlSG15VFVpbjl5c2Jzb3p4aFJkdTZ0SnBaa1hNSzhvdWQxVU1jYm1ydW9YWERyMk95R3kzTGZvTXNJX093WHV3a05maEdXSzdGeTdGUkI4VEowNmtQLWo4YndCb1o?oc=5",
-      "date": "2026-05-14",
-      "status": "신규"
-    },
-    {
-      "title": "집 280m 옆 ‘비행기 소리’ 풍력발전기…“어지럽고 무서워 약 먹을 지경” - 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12c0NEQm5YX3lFeVFVc2FwWGJOVWJ3d0ZOaG9FLVhUNDV2T3VWNmJ1N1RaV3JoRlZ3S2o0aUNrS0pUREdQd0VxZ1c5akR4SGhGeEt5X1pva0hLV2plNjJIQllpSlR1MnBkdWFtcw?oc=5",
-      "date": "2026-05-14",
-      "status": "신규"
-    },
-    {
-      "title": "박지원 “새만금 RE100 산단, 부안·서남권 해상풍력과 함께 가야” - 전라매일",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PUTB2NUV0OVVkWTFnb0s1RC1TelJ5Z2tGWjRJVTMzQXVqWDFIOGktZEJkNnpuUmVLWkNZZVhpOGM2TENKWFR1aHJ0eUEyalJmSVE?oc=5",
-      "date": "2026-05-13",
-      "status": "신규"
-    },
-    {
-      "title": "SK오션플랜트, 국내 최대 부유식 해상풍력 프로젝트에 ‘부유체 공급’ - yhjindo.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11bHE5SEpDVW9MNlBXNUdPWkJmaTNPSThaZWxBNk5PTjNMbmhXeWRKWnJEZ2xmd2IwajZpMGkxYlkzR1ljTERBanE5dnlFTFR1Y3NvbFJHT1Y5QjNqbW5adEJXNldMbFU0cWRV?oc=5",
-      "date": "2026-05-13",
-      "status": "신규"
-    },
-    {
-      "title": "한전기술-LS전선, ‘부유식 해상풍력’ 맞손… 설계부터 시공까지 ‘원스톱’ 공략 - 경북매일",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtakFScVh6bEtFbjB4TFRQN21GaVp1NldvVTBCUDJiZVVZcFZJNkxpa1N2RWJNVHlNS3Z3Zkk5Y0xKTDlOWjhveWNtRjczOEVJejRTaGVQSVdpUQ?oc=5",
-      "date": "2026-05-13",
-      "status": "신규"
-    },
-    {
-      "title": "“해상풍력 확대 성공 열쇠는 '투명한 공공기준'…공개되고 일관된 기준 필요” - 부산일보",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SSmt5MTU1c0NtNzlmMTJmYWFnRktoWnNtSk9fS19YY2N1dzBMT3gwajJUVkV3dVRMaWluc2NpMHRYcldON0tpdEhqdFgzQllMbUZqNTY0ejd3bWNTNlI3QzF4cW1LMzd0WHF5bTc4OVJ5ZXdE?oc=5",
-      "date": "2026-05-13",
-      "status": "신규"
-    },
-    {
-      "title": "대구강북소방서, 군위 풍력발전소 화재 대비 간담회ㆍ합동훈련 - 소방방재신문",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB6V3N6VjlXaUg5bnY4Q2pGV3NIeXhaOWsyanpmX3NiV0NPcjk2NlVVY2MxWW1oeWJwZ2tUZWhPS0JkRmNlWUE?oc=5",
-      "date": "2026-05-13",
-      "status": "신규"
-    },
-    {
-      "title": "[NNA] 홍콩일렉트릭, 라마섬 풍력발전소 폐쇄 - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRMER3TEtWdlVGTmU5WklxVUVWOHlLLXFaSzBReU0wSWpPbnhmQ3p6aGVyUzNFUFRDX3hwTHdrakRSR0FrNlBNS25tcm4wSE9vMTZV?oc=5",
-      "date": "2026-05-13",
-      "status": "신규"
-    },
-    {
-      "title": "LS전선·한전기술, ‘부유식 해상풍력’ 시장 선점 동맹 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vZzk3MTBjb0lZUnl2QlFJdjdkd1FSOWhPTVdScU9kVkFZMTNhdC1BT2pLX1BPQVNxQldlTHhyT3U3WXgzMXBxb0I1QVRWYlRzdHM4UjVQRHNxQdIBX0FVX3lxTE5aOERHY3htS2tyTHRJOFVuT0JRaUVWaXVhV3NST0JldExvd1hVenNpRTdLUGR3dFJlallldVpXVlMycld0ZHRRZHVod1RLR3hlRlJJcVFZVFJ6d2NkQU5N?oc=5",
-      "date": "2026-05-11",
-      "status": "신규"
     }
   ],
   "globalNews": [
+    {
+      "title": "U.S. States Sue Trump Administration Over \"Sham Deal\" Paying TotalEnergies $1 Billion to End U.S. Offshore Wind Projects - ESG Today",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVXZVT3BoX00zQ29ZaUlPWTBQY0pkRm5BZzYwYlhhY0FjNFB0YUlSSGNnSnBZdUhIX0hMYnlxZUoyTXgxdXNJTDBubjU0SVVjYThtYXkyVlpwMUduaG5DdDRDaWlDM0hoMEhVZ0MtUUlzNFRod0djYll1NWdjM3Nja3JoSWtHbm9TSXNIa0o4TDVmSlM2dm9uTkVUaWozbzYwaTJVaW1nOURSZzVZNjJBNzBMRUFHVlowTWI2cGo4VmdMNVdjaVZQV3Y3UHo4eExCRjMxNEtQVjE?oc=5",
+      "date": "2026-06-04",
+      "status": "신규"
+    },
+    {
+      "title": "Seven States Sue Feds Over $928B Offshore Wind Cancelled Lease Deal - Engineering News-Record (ENR)",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVTRDVEpFb1lNcTc2djVNOTl0LWxnb0ZuMnl4ZTFIa2hKb3MtS3I2TlYwcWlrSXk1R2pTeldCTmVhX19sYWlneHNQZWw0ZXR3UmI0NFYyMm05c3phdW5ZVl9IdFFXWUU5ZHVqdFhtRDV5dWFVdUZTWEdHczlpdUpmMGc0UE0ySGVPN0w3QjFiTld1aU5tbU9qVjlzdl9veDZnamNJ?oc=5",
+      "date": "2026-06-05",
+      "status": "신규"
+    },
+    {
+      "title": "China's New Offshore Wind Farm Is A Gamechanger For Clean Energy - bgr.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnbTBDUkdGWGZrYzFzQUs4aVhlR1FNZHp6Y2o4MzQ2ZlJiZ3NUcHNJSlpRVGRESFdhUTlvdGNqb21VbnRSRHd1a2xRMlJ5dGQzRm9neEUtSGpQa2tSTlJadlNUM2J6bGtIY2hzSkk0eGhocWw1WTNJNzRPMA?oc=5",
+      "date": "2026-06-04",
+      "status": "신규"
+    },
+    {
+      "title": "Renewable Energy Update 6.3.26 - JD Supra",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrT3pjQjNldGNsbHlVcmZjTG1OT1dqTDllVi1KMXV2X0ZPYkpPRjJ2SDlDVEdUR2g5eW9rNGRpai1ISi1UR3NCTzJlLUl1WXprbHZ1MGFPUmpJdVBWdmstNG4yMEtnOHZ1RlNGdWpNUzFkQjRDSG9OUU1rTnlQQQ?oc=5",
+      "date": "2026-06-05",
+      "status": "신규"
+    },
+    {
+      "title": "Blue States Sue Trump Over $1bn Deal to End Offshore Wind Farm - Earth.Org",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaDlQVjFNRWhvdVYyLVN6Z1FEV1hPdjFoQi1kTzgtb01xZ19tUUJwRDlyV3BhckxUanZ0WEZ2Z0xya1NqUVM0dTlHR1RVd29lSnVPX1Q5eHJGYU50LXVPYUlSQjA4UlVMUW5oWjFWVXZfNVFoZWcxQmtGeGZHOTZzdFh3QXNpei1EczlJV3hzV3RrYlQ0bld3aERTWEdybFRtWjVGYWlQTHpZU183UTBsRlVQbw?oc=5",
+      "date": "2026-06-04",
+      "status": "신규"
+    },
+    {
+      "title": "Innovative welding filler metals extend the service life of offshore wind turbine towers - Tech Xplore",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFFjTE5oM0Z4NWlUTFR3VDRDY25QSFJBWUxuakxiU1hUZVZHODJNbjJfWndpdmVXcEJaN2VsSktkUGh5X1B3OWR1QVBpeTBGd1FrNU5iTFA0T2poNkE2LTB1OUphdC1vUVJJMDdIUmY5dGUwS0RHTXpxSDFHRzQ0YTlB?oc=5",
+      "date": "2026-06-05",
+      "status": "신규"
+    },
+    {
+      "title": "Enough Wind Power for a Million Homes Was 47 Miles Off the New York Coast. The Government Paid Nearly $1 Billion to Make Sure It Never Gets Built — Now Seven States Are Suing to Stop It - Autonocion.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ucnZpMDk5UHBsM1BXVHBtQzEtN3B3cWl1SHBaLXdTQjd0bDBSaF9iVFlsaVBkY19uM3EwVmpFeDNjRGtpRENnamQzaU5ZV0xHRld6STZwdkUxMUpkcUZJclF3NnhNWF9jbVptTzVKMkhhWXc?oc=5",
+      "date": "2026-06-05",
+      "status": "신규"
+    },
+    {
+      "title": "Offshore wind power cables can affect sensory system of sharks and rays: studies - news - Mongabay",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDItNk13Y3NkQ3p4cHNwLTRmYjJ6MGRHQmVTejdYU1ZZWV9jMVpGYi1zRlFCSjlYa09kb0JPVmlJU0xmNVlTYllKV1JWbC0ybFVZbjItaVBXbUlWSGNJQTB0dmFBSEd0OVE2WVBDamwtanJ1WlB2YXlDeVNhSmxUYzl6dzlIazF0ek5lWlo5R3NCVHRHTDdtaFM1M2d2dXlyNHdHOW5Ec1o4TjlXaVRNS19TYXPSAboBQVVfeXFMTzRYUThZejdVQktCVTdTQXpqUU95YjByOURGMlk3R3JwS3o5UmVzVVJma3Itcm1yb2RCQ0ZFTlp5S3RlNXYxLVI3U0VMb2YxZXV5Y0E0LXFxdThJemotVU82SmNTNDhOMUpPQThWUVFuYTZ3Sm4xMTl1dWtxRldSblJzdTBFT0dtVWUtN0plaWxPV1FNYVFsWl9qaGdTcnMwRTZDejdrUXBKRHVfUGQtT2loazMwSDZENEln?oc=5",
+      "date": "2026-06-05",
+      "status": "신규"
+    },
+    {
+      "title": "China deploys the world's largest floating wind turbine in deep water — and it's built to survive Category 5 hurricanes - Energies Media",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SOFVMemt3bTVhODl3SEptRHcxdk5fSmZyZnd4N3JWbk5oNUFObWJWZ2p0eHUxSWc0YW5ucGtaNDJnMHNwcGNPTnJQb2Z5NVRPQ2l2c211bjJZTEU3eFM3STRlbEpQTlF1LUVIT1Z1amhxR0dKQ05EU3oza084Zw?oc=5",
+      "date": "2026-06-04",
+      "status": "신규"
+    },
+    {
+      "title": "New York, 6 other states sues over the Trump administration's deal to end an offshore wind project - PBS",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTF8xZ2NDR0g4WXdTbjJKUUF0U2l1T0V5Zk5jMnRJYjd6b2R6ZmFfVnp1aEhWTTlCVktxSFp1LXJYbXY1Y2RUSGFyTkZOU1JQVUQtUloyNGllNVZHTko5T0swQzNDU283QUt1bF90cmR2QjZpZkpjXzRNd25MN2Y0cDFIcW9aYjkzU3F2Sk5ibE1YX3pLR1VPQ3BPWWI2b0FaOHBDcnhQMHJ2bWp6c2lyWHA0WFBWMUZ2ZkJZYzZ4Tl91bnQzdnJKaGZGdVlWaFU?oc=5",
+      "date": "2026-06-03",
+      "status": "신규"
+    },
+    {
+      "title": "The Department of the Interior canceled 4 wind farm leases. The particulars are problematic - WBUR",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMHYwRlVQcDJWTHk2dnQ0SEhzbGU1RTh0UnhMd09UY211b1ZfeDhYWTFteXJnX0J1SUQwUHl1cFQ4TlRnRW51dG5WdmdMcUlXcnYyeXdQTHlVZm5TQmgzY3d1YmJBRzRNOF9BSW9kZ1JqNTRDVkM2TFJKQXpkZjVXaUV5LTA0UFpWaTA5QTZJSmtaRHE1emYxTG16VExDLTN3NnNab3BzMkVTbVE5QlE?oc=5",
+      "date": "2026-06-02",
+      "status": "신규"
+    },
     {
       "title": "Boskalis: A clean corridor for renewable offshore wind energy - DredgeWire",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU0hXbHV3VHZMMEx5eVhIU093NjZlRUpCSFViZjlMeEhSbzVuSV9ReWJxSERkQUJVQ0dfNmxnNWdxTldzNmN4RkgyRmVmVzJ4aVpTRldmVXU3bmFGdVJGeHpGdnREeWo1WW5aSTY2aFcwdTZpdUQ3QjZ3T2ZFLWZpZS1oSU9EVWowT3NiWQ?oc=5",
@@ -3543,72 +3609,6 @@
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOc1ZHUE9ndnoyWXNxOTBwYm45alB5Qk1fa1ZVaTlTUkI5azNQcGtmVzFMdkxLU3pOcEd0emhfbWlRZm1ja2dJTV8xaFUwdW1SNjVsbS03TUU0bDF0ZVR5YlhLWU9vWGMxS1Q1STA3emxLMG5VM1h3TU5KS1FWcElmYWxMM21udnI1ZENnWENIc2F5eTJ4eWZiQjNfWlJvaTJaZml4YzNoMENLX2hrTVlYZUhqSWpfSTlrcW1HeFhDVXFPZFROSHBjaldQWldQbVdvSXZJNGZoX2JHMUZLZENUUHlXUmhCN2FWMmxKTU5PVHlZT0VRWWJZeg?oc=5",
       "date": "2026-05-08",
       "status": "신규"
-    },
-    {
-      "title": "Europe's offshore wind turbine prices have soared as supplier choice dwindled - Recharge News",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUVQtOGY0ZWlKYmxWLUxWM1NXb0NHZzBoN1N2dENxT3Rtd180blRaMFNaN19CeHRKZXR4M2ZTdjRkdmxZZU1rbk5RZ2VJUTZHZFEwb0JBZ2t1dTNfNjF2ZG4zQkJpMW40c1J5QVpBQnNnUzc1QWNhb3NlN3NvR2hUcFFjczJ3d3lLWjM5VDEtMkw4V20zTFg4bjRseXIyQ05paEE3Slo5WlYwTmxWdGxHMEg4NTFva1MxeEliNjc0QVM3RE1nQkloZGNkdw?oc=5",
-      "date": "2026-05-08",
-      "status": "신규"
-    },
-    {
-      "title": "US pension fund threatens to divest TotalEnergies stake over offshore wind exit - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS1ZscGxBWXIzMVVmVWtVUVFlU3NOWlRXUVNfTFFDZ25YWXFjSGIyaTVuM1puaW5pNXgzMEZsNkxrdVNuQ2JiVTJTMTM2T2phSEJVVHN1N1EyNi1qWjBlT01sbW5hRnl5OUtBb1BxaG5NNHlLN0lEZE5KVlFJc2lhQzY1bkY?oc=5",
-      "date": "2026-05-08",
-      "status": "신규"
-    },
-    {
-      "title": "Offshore wind at center of new right whale protection lawsuit - WBOC TV",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX01hbWdSQmNNazVoOXg3Smd4VWFLNk8zbWx0VGxBdHN6OVBxSWM0eGpXUU5laF9HbGF4RVFLNVM0WlpUSllJRUtsUmdtcmJPZTAyWnRpNTVDYnFUV0huZGhkeGhMRGRXTjBsLVVMR1ZnUk45UXFQNnplR1BCMGpPb0diMXk5YVRsaXFuZkNLOGt0MmYyWVBDWUFHUWFMWDV3UzRJLVBmQm5FVUd2cTdTUndEdWdiXzEzMnZSUS13X29SQXJuRVRvSW1oekJ2TW81SmFB?oc=5",
-      "date": "2026-05-08",
-      "status": "신규"
-    },
-    {
-      "title": "SPIE Secures Cable Termination Work on Poland’s Bałtyk 2 & 3 Offshore Wind Farms - offshoreWIND.biz",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQakxGeE15V1JOQkZDeE9Bamt5Mjg5QzZqTnJIaFdlTjltNzNUN0wzczFjVW9rNkpuaTB1U0h1dkhCUm9GcTJObmdQb2FoeGQ2WlJtVWtLcVZTZEdCcVZuV05YOTluaEdNcWVkbVNFVW02VzdxVmlrUU05TGIxZ2xmQzRSNzJQMWtmeHhEVU9Md0s4Sk52ejJDV2NYY1c4Ym93bnJMRGpDWDFWaVN1S2NReGczUFNtdm1fb1E?oc=5",
-      "date": "2026-05-07",
-      "status": "신규"
-    },
-    {
-      "title": "oQ&A: How to Train a New Generation of Offshore Wind Experts - Energy Digital Magazine",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmU3UXdTTHl1ZTNLVkZ0bFZqMkQ2bU4yQ3JRaGVubHZiWElScndabW9NOHJyaGtld0NTRHRSdHI1cmhuN1NyT09zUUxRNmpFRWRsbDByWjl4MUFGSVR5azNyQVVOVWFOQmE2aHpIQTRoT3JEbU5GVFNXdzJCcTV1VDVEMS1veGp4ekNtZkJ3QkdvRnM?oc=5",
-      "date": "2026-05-07",
-      "status": "신규"
-    },
-    {
-      "title": "Ayre Offshore Wind Farm advances North Scotland operations base plans - Windtech International",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaWhIUVVCSktuOGRFVlRNb0t5ZXoySlR4MlZKb3k0QWcxOUZjaHZUU2diZ3lLeVdyUjk0Wi1rNm5kejh5eUxITlBrOEt1S2xuamM5czMwQUtIWERrSG9IUU1SbTFvY0dJbnlwWDJhaHl1RWdtV1k5NWhGT1lYaVVfRXlGQ2FseVNYeXIwNURrZlpoOWlOTFRnWUpmbmdTMzdwMnBCMTMtWmpCVnhCR1U1MTlKZnMxakx0U0JvTDh2WkU5MnVvQUhhemZtTQ?oc=5",
-      "date": "2026-05-07",
-      "status": "신규"
-    },
-    {
-      "title": "Wind projects are stalled because the Pentagon isn't completing its reviews, industry group says - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHdSLTl6cEloaUlIUDhPOVB0Wm11SUY2R01tR3ptdndkUmhVclF5bGZnUFZDcjVGNDBlT2xRTHF0Q0lPRzcwby1rUGVLZTBFM1RRb0FQVjB1cjhOaVBnUEY5emh5cVRSX3pkd0hRQURZVGs4azl5SmU0VWtDWVFiSXBNbm02V3N0NFQwMllDOGVKWm5ZMnJkUVRIS29YdkFuMXd1bnVVbmx5ZUnSAbABQVVfeXFMUHBzVEtMYTBEYjNibzlyTWVDOGp3TklFb2pzUGZHOHl1ZThyeWcwUW4wTllRVmxmT19qTTJIQ2JjVXhCdGxIVXNTWk9CTTJHTUwybTRncmNXM1pTcmx0SnJFZTdPalJJWVQtdHNkeWVZdkRPemQyRllRUklnblNtWlNHYnhpQVc5QUNKbEI0Y0RaaWFkc2tlczFBLVRjWEJiUzNnam1yZFJMelBfN25jZmE?oc=5",
-      "date": "2026-05-08",
-      "status": "신규"
-    },
-    {
-      "title": "CTG Installs World’s Largest Single-Unit Floating Wind Turbine Platform off Yangjiang - News and Statistics - IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUloxSjRMM1ZzeV9zVVBOX0JfS3hrWlA2NXpHckpScFBEWkJhYWRFRzU3bTAxYl9iRzZqZEwwcE9VTXlTNFI3Q0dMV2hobS1CWVNueC1xcHRIVmFyZE5uRjI2aHdzUHlUMGpBc1VsaXlPeUlyRnVYTGVwWnFjS2gtdklzYzhTbTI2NlR5WTBNNWxhUmptenYzZ3NSbUJQdUx3ZjRiMlU3WWhNcU9TVndXOTVMd1F2cXJ4YmFN?oc=5",
-      "date": "2026-05-07",
-      "status": "신규"
-    },
-    {
-      "title": "Could offshore wind power the Great Lakes region? - The Narwhal",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FLUlPZG8zcWw3b0JFcHJYWll4bjUxemVVcHVmdE1RcXI2SjAwMml6SUtaVXN1cUcyQ3Btc3g4TDJzUGhvcjJSSi1lc2I1dFpKZ29kMy1JM0luRks3?oc=5",
-      "date": "2026-05-08",
-      "status": "신규"
-    },
-    {
-      "title": "Ocean Winds Delivers Its First Power From Floating Offshore Wind Project In France - Ocean News & Technology",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUm9YcF9nWlV4NHQyQnIwVDQtNkkyd25fYjFIclhRUW9NdHBObkwyMVNxOUU5UVBLZ0UyOWtkNzVpR1Iyc2lURDNjWkxVd2g0LWJQN3dNU25GdWcwLUcyR1YtbGZoN05fZWMtdk9nRDJTalAtSGdwcDIxX2RFZ1RLekUtcHBhalVLN0M4RHR2T3RJeEFSazBsTHVqRDM3TlZxeFI4cjNrV3RTUi1rM0t1MzJJMks4ejBo?oc=5",
-      "date": "2026-05-08",
-      "status": "신규"
-    },
-    {
-      "title": "China deploys Goldwind 16MW floating turbine - Wind Power Monthly",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQWFjVWRaX1ZuaUtlYUJkMlFkOXhCVjd6LTU3WFFrelRCOWxRd2x6bERZWmp0Vi1HTTQ3NVBYQ1ZtN1NWaUk5T2w3QTQ4OThKZlpENU1abDFnVS00TUpyR0hRYjhWaDJhU3JVc25ONy1GdUNkS2tkUFltek9uTDRPejdidXVKZEJOUlZydGZ5TG1jYVQtbGEwcA?oc=5",
-      "date": "2026-05-07",
-      "status": "신규"
     }
   ],
   "trend": [
@@ -3951,10 +3951,15 @@
       "date": "2026-06-04",
       "domestic": 7,
       "global": 11
+    },
+    {
+      "date": "2026-06-05",
+      "domestic": 9,
+      "global": 11
     }
   ],
-  "latestReport": "\n<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>신재생 에너지 산업 분석 보고서</title>\n    <style>\n        body { font-family: 'Malgun Gothic', sans-serif; line-height: 1.6; color: #333; }\n        h1 { color: #2C3E50; border-bottom: 2px solid #3498DB; padding-bottom: 10px; }\n        h2 { color: #2980B9; margin-top: 30px; border-bottom: 1px solid #BDC3C7; padding-bottom: 5px; }\n        h3 { color: #4CAF50; margin-top: 20px; } /* Adding h3 style for sub-sections */\n        b { color: #E74C3C; } /* Emphasizing bold text with a distinct color */\n        ul { list-style-type: disc; margin-left: 20px; }\n        li { margin-bottom: 8px; }\n        a { color: #3498DB; text-decoration: none; }\n        a:hover { text-decoration: underline; }\n    </style>\n</head>\n<body>\n    <h1>신재생 에너지 산업 분석 보고서</h1>\n\n    <h2>주요 이슈 요약</h2>\n    <ul>\n        <li>\n            <b>국내 해상풍력 사업 확장 및 투자 활성화</b>\n            <ul>\n                <li>설명: 한국은 대규모 해상풍력 프로젝트 추진과 관련 투자가 활발히 이루어지고 있습니다. 신안블루 해상풍력(14조원)과 제주 해상풍력(100조원 구상) 등 조 단위 사업이 가시화되고 있으며, 유니슨과 같은 기업들은 태국계 자금 유치를 통해 재정비에 나서고 있습니다. 이는 국내 재생에너지 전환의 핵심 동력으로 작용할 것으로 보입니다.</li>\n                <li>관련 기사 제목:\n                    <ul>\n                        <li>14조원 ‘신안블루 해상풍력’ 시동… 국내 최대 공공사업 시험대</li>\n                        <li>황경남 “위성곤 100조 해상풍력 구상, 허황된 공약 아닌 제주 생존전략”</li>\n                        <li>[메자닌 투자파일] 유니슨, 태국계 자금 업고 해상풍력 재정비</li>\n                        <li>\"불닭볶음면 회사가 만든 목장이라고?\"... 풍력발전기 능선에 양 떼 노니는 600만 평 고원 목장</li>\n                        <li>서해해경, 해상풍력단지 안전관리 강화</li>\n                    </ul>\n                </li>\n            </ul>\n        </li>\n        <li>\n            <b>재생에너지 인프라 및 기술 혁신</b>\n            <ul>\n                <li>설명: 재생에너지의 확대는 전력망 인프라 확충과 새로운 기술 개발을 동반합니다. 미국 최대의 '전력 고속도로' 프로젝트는 대규모 재생에너지 전력 전송의 중요성을 보여주며, HD현대는 선박에 풍력 날개를 탑재하는 기술을 모색하는 등 다양한 분야에서 혁신적인 시도가 이루어지고 있습니다. 해상풍력 인프라 구축의 중요성도 강조되고 있습니다.</li>\n                <li>관련 기사 제목:\n                    <ul>\n                        <li>16조 '전력 고속도로' 열린다…미국 최대 선지아 프로젝트 가동</li>\n                        <li>[단독]HD현대, 英 BAR테크놀로지스와 MOU...선박에 '거대 풍력 날개' 탑재</li>\n                        <li>Boskalis: A clean corridor for renewable offshore wind energy</li>\n                    </ul>\n                </li>\n            </ul>\n        </li>\n        <li>\n            <b>미국 해상풍력 정책 혼란 및 법적 분쟁</b>\n            <ul>\n                <li>설명: 트럼프 행정부의 해상풍력 발전 프로젝트 취소 및 관련 기업에 대한 10억 달러 지급 결정이 뉴욕주를 비롯한 7개 주정부의 소송으로 이어지며 큰 파장을 일으키고 있습니다. 이는 재생에너지 정책의 불확실성과 정치적 변동성이 산업에 미치는 영향을 명확히 보여주는 사례로, 향후 미국 재생에너지 시장의 안정성에 대한 우려를 증폭시키고 있습니다.</li>\n                <li>관련 기사 제목:\n                    <ul>\n                        <li>트럼프 행정부 해상 풍력발전 취소에 뉴욕州 등 소송</li>\n                        <li>US states sue Trump administration and TotalEnergies over offshore wind cancellation</li>\n                        <li>The Trump admin paid a French company $1 billion to not build offshore wind farms. Blue states are suing</li>\n                        <li>New York sues Trump government over 'sham' offshore wind deal with TotalEnergies</li>\n                        <li>Seven states sue US for paying $1bn to make TotalEnergies exit wind power</li>\n                    </ul>\n                </li>\n            </ul>\n        </li>\n    </ul>\n\n    <h2>기사 목록</h2>\n    <h3>국내 이슈</h3>\n    <ul>\n        <li>2026-06-03 | 16조 '전력 고속도로' 열린다…미국 최대 선지아 프로젝트 가동 - 더구루 (<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wRU56SHplZDRtSldCaWx6YnFSakdNZjBJZERCN2tJQlNCb0VaUEQyVHZJMXRpRlo1THhCMU9xbnFKaXk4ZEJQcFhxSDVSamdfTkZNNFFvTW1qSS0wMEI1SlVLQQ?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | [단독]HD현대, 英 BAR테크놀로지스와 MOU...선박에 '거대 풍력 날개' 탑재 - 더트래커 (<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mMU5kb3J1SDlfMERHcWRjbWhZYnBmZGpTVnp1VXBPU3NkQ0hNU1AyQjlTRHVjYngyR1I2R3hTM1F0WVczV1Rwblc1T25ycGRMYVREZjJMS1o?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | 황경남 “위성곤 100조 해상풍력 구상, 허황된 공약 아닌 제주 생존전략” - 일간제주 (<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE82ZTJxYm5nS3NuMG9GMHBUSURCUzNkRXdmY0lFdDdBdUtWSnJEMlhhWm5Lb3pMX3JwbUxVT3ZMRThfYy1DOEVIVzN5S0RTTTl2Wno2MHB2X3RPU21qLXF2UkNod3pZNmNIYWpB?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | 트럼프 행정부 해상 풍력발전 취소에 뉴욕州 등 소송 - 연합뉴스 (<a href=\"https://news.google.com/rss/articles/CBMiW1FVX3lxTFAzekxqejY2MGttTjdIY3pINUJhdUpCcm8zNURJSnl2NTBmZmk5RHFETU5TdUtyalAybjZJMGtQa3dJMjlKdXBJTWFzbWQxMmpGZHA0V1FlNDM2Q3fSAWBBVV95cUxONFVrZTk0SmtFaGRJX1VXNHphTVNtRVVVclNiVlJMekx3S2dhQUdINkNOYWRmbUVBeFo0R3BFVWI3SlFueVlad1kzeGhHZE93ZU80UnNHcWFxVjAxWFIzTHI?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | 14조원 ‘신안블루 해상풍력’ 시동… 국내 최대 공공사업 시험대 - 아시아투데이 (<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBrZHhBaXBhVlFXNnhpYlJUUmx4R211OVN2cExCQ2Q1VUpEd3RlZkd3MUwzRmNoQmktT0M5QnNzX2NjRng2aUVyUkpuRE5WV054clJ0X2VSY2FzQXdoYmxuR19yVFgxN0hfX3VCTDRB?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | \"불닭볶음면 회사가 만든 목장이라고?\"... 풍력발전기 능선에 양 떼 노니는 600만 평 고원 목장 - 아던트뉴스 (<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9sYXpMOGxsdTNzSjk0M0NtX0twbS01S0FRTk5WX1RCWE5USXpINldRVi1YNVIwcHJpZWtmUFVMRjdWakNCMW9SeG15M1lNcVVOVGUzQ1lqVDhhY3doUzhReVh6ekJRaEpMRVROcFdxQdIBc0FVX3lxTE14WHFaSDF6Q2R4S0NoRmd6SFhOQzh1ZGZXWXlYWU5SSkNTSVVrajd0anhQRnRSY094YjcxR0NNeWpsYjRGdTgtWjJ6Q1pIZERndVdhYzN6eHNJM3JncTA3RE53b1FnNkZqTWstTEFTOXdicGc?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | 서해해경, 해상풍력단지 안전관리 강화 - 남도일보 (<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9DWF9kc01CaWtqUjFNZHFPbnZ5UlhwUzNZMnRCTGZBUVhWWW1vbUlLb3FIaFdBYURlalFEWXNzQlRGNGxZLThjUDNGSzdxeVdpQXJLbUViZVNNSE0ySGN1VTM0MXRBbDBfZzc1aNIBcEFVX3lxTE0xeHhlWENoRVQtMkJqWU42cmR3cHlHUHJIX3R3MVV1bEJaUjJBTVpacnotYTBwMkxSVURJWUNNTE8tX3VYZkttdFo4bW42RENONDVLRzVTa3BvTUViMWNvVzFfXzVGNzNnT28xVWpfX3I?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | [메자닌 투자파일] 유니슨, 태국계 자금 업고 해상풍력 재정비 - 블로터 (<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wdnl2dzBUWTI4dUt2TF9kTl9PYXBkWjVSdGxodDZtRkhLbVpaMHVvLUxlS3lkeXlFazVGaUh1MjRkVlJNRVRlYmxrNWlhUjhyLUVwMkMta1loRjZNalNSSkRPSk9KazRW0gFsQVVfeXFMUGxxa25PMDhQRDBWd3JhcjJONlRMdWxJRVFRRmFuQjhSdUVmcTlYLWdZdTl4dFJXdWp4eDB6OTlTclNULXZUMzBsamJrZ1d3M3FyLUJ0dXpBTkJRM2E0VUNwYVdsb1laWjRfNWs1?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | 트럼프 행정부 해상 풍력발전 취소에 뉴욕州 등 소송 - 연합뉴스 (<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE40VWtlOTRKa0VoZElfVVc0emFNU21FVVVyU2JWUkx6THdLZ2FBR0g2Q05hZGZtRUF4WjRHcEVVYjdKUW55WVp3WTN4aEdkT3dlTzRSc0dxYXFWMDFYUjNMcg?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | 트럼프 행정부 해상 풍력발전 취소에 뉴욕州 등 소송 - v.daum.net (<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HWEM3RG9FZUtqRTFIUDVNMjUxRXREZUY3dlhfOGQxYk01T05WaXhWZG1Uck90alNRblFDU0pLTlFZeXJsOVFSYmRYSlJGdzQ?oc=5\">링크</a>)</li>\n    </ul>\n\n    <h3>해외 이슈</h3>\n    <ul>\n        <li>2026-06-04 | 7 states sue Trump administration over nearly $1 billion deal to halt offshore wind farm - ABC News - Breaking News, Latest News and Videos (<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNFhoclY4UWtjWEliV1VpbFF2QXhnWl84S0VaS2JjY2doT01OSHpzbWU0UUpKdGhraC1TT0Job19pTVdnYmoyVF9yR2V4QnpmZ2g0eDlJczQwY3R3WW1ER21pWnRrOFhYQVI1TF9XU1liVkgtLXJXcGNidENOSVNpTldIUU0xc3AyeTh4R2w0RG5Q0gGaAUFVX3lxTE9Bc3hZZ3YyTHRWZGRTc01LZU5zRmpUVk05R0hsWFcyZ0lGV3JoV0x2Z1c3LUlmTjhyb1MwanVTbXhmcFd1S3RLY01kZmUxQ1pKcTdVblV5QWQ0RmZOdUhSOE1LcS1FYUxfQVZJWldmZUktNi1pNk1LTGhqZEZuaEJNM3ZWcm0yQWxxcEw3UF8wcGJIRG91c3ZpNHc?oc=5\">링크</a>)</li>\n        <li>2026-06-04 | Maine among states suing over cancelled offshore wind projects - WGME (<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQTBnT3NoRl9fRzV5LTJ5X3dZYnVJT0RTeDNYa3ZJR0t1SF90SmY2UlQ5RVZvczg3c1JyeWZGMEpFalhMMEYxWGozUUpHV1ZUcnJLZU11MVpJUERDek5YOEIxSkFBMXcxR3BQdFVSOERIYkNkb1pFQjZfNGFFLUxvTTROY2pYUExmMFp3Y1Q2NVdBVnktalVSTHNicm1zNlh6OFA0YlkwYjF1TFFjUUZsT1pxckZRVnV0bzZnaUYybWhfX1JkWXZaTVhoaHZkRTlxdE5HZW9pNW9JNkhuWXpvQ1FoaFlLekU?oc=5\">링크</a>)</li>\n        <li>2026-06-04 | Mass., six states sue Trump administration over deal to end offshore wind project - The New Bedford Light (<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNQk9NOG12TmJZMktZSlZpc1BSQWxjTWRQbjVsRTFfbHA2ZUlybnB6OWhRWGVCd0VpMlItRnlfWmYxVGgyX25YWFM2TVRKTm13cVo2NU1ZQ1FXc25RMjdFdWZjVGZBS3F1Q3BTNk9JSjVhUGZmVHZDTGZsWGRyU01qZUQ1M0dpOTI4blFMdjZBVFd0bGo0c0JJb2VqS3hRcEFxd1FrTEFidVJOTDR6?oc=5\">링크</a>)</li>\n        <li>2026-06-04 | 7 states sue Trump administration over TotalEnergies offshore wind lease buyout - Utility Dive (<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOM0FrZVlocmRORUdqeldTQS1XMmZET05DcU40VkFCWTh0MTlHTnFFTjQwaDR3nkEwRjVCWnp0elFwSTR5NWQzSW5SUms5ZEkwOEJwQjVnUnFjYmJvQ2IwTVlXRE94T1VZeTFnN2RjTUVhMnl2N0hkRFBPS3pQY25XMml3UGxacElLeEJzbjJXejJneEtEZlNsQUo0bGtOc3EtMGY5SkRWSXMwYi0yc2c?oc=5\">링크</a>)</li>\n        <li>2026-06-04 | Northeast states challenge federal settlement that canceled offshore wind lease - NBC Boston (<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOUJ2ZEJoMHllRlRqQXhVQnkwNjlIbGhQbzhNUVZ5enRRQkdrN25iTkJ2Q2xKRHJOcGFHNUZzT0Y0c0M3S2hOYWtIZ19mdUtGSldmWC1MTlZ5MlFjY2FNeFB1OHZuYkx2bGt2OVVfWHo2X0Y4ckZ2bWZRMmxzbGVCcFRoUE1pQUpQSG1ZLUtUa2hUNldqMlZPRFgyYldnRGVpbXY2NVhqTE9MN0YzNzRHdjgwZl91QTctMXlUS2xrSDV0SzDSAcsBQVVfeXFMTUpONVFrVEF1XzE2TVhXODI5bkt0YjBSTW1ieGx0MnJFOEhuN2pSZ0tLNFVieDNKM2VhV2FqN3FMT01OTG00LUdwejNyakpVSDVjSUp4aXFWZldrTjE4UGhxV1ZtaHFrZlpqaFRVSnRDUzhaMWpual9VTGs5MFdmc21xZ3FObk9obkpTNFRFdWFfTTF4MTBpSmRQa29Db1FaU1ZkU1BKZEFDUzh2NFd6QktDekc0eEd6UnhJRjVaQ2huZldHU28wN1RBaWM?oc=5\">링크</a>)</li>\n        <li>2026-06-04 | States Take Trump to Court Over Offshore Wind Cancelations - Crude Oil Prices Today | OilPrice.com (<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUFduR25WVjVSLUVtWlZqenYyaWxoZTU4NlhiQVVndUVyQTdFU0l5VENaTlFNUk9iaXluVVhqSjROQkVPaTB4NzdWVVZBWkJGckU3VEx2S3BFRERwcjU4Y0JSVWx6ZmxTMFNNSTYzWkJyWTdob3ZQcWhpdGI1czdCOEoyTGo2elBjWEpyWHo1Uy1kTkF2QTVsOV9XcWRyUy1HX2szVUZfalUtZ9IBrwFBVV95cUxNdkp6WXZPQlg4VTItdEZlRXNGRmFiZ3l5bG5Jbmloc1FNWG40YUo2eHgxd0d5NkxRU0VkdUNDVjAxRFhmWEt3RVdlU2t4eUNvRkM1U2N6SEpNRWZYVFFla19xSEgwUFU3bklQNXFlazRWOGVVVVFzWGhtMmVkVFUwdUN0M2R4OW9Kc2VOal9KNFl2b3hmUm16R29zVlRfRVZIQUhCZVAzUTU0d1BFUWt3?oc=5\">링크</a>)</li>\n        <li>2026-06-04 | New Jersey joins lawsuit over canceled offshore wind leases - NJBIZ (<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBVSTJBejI2dzVRTzFadzhjWjNBSWstTTUtOVNyQnVhaGJyWUxieU5Fa2xhWkdvV1RyUXZRNTZuNERHM0ktY29mUS01T2h2U0lTOU5BRDdHc2Q0Z2Y1NThlelFoN2RGNm5OZ1FPeDdBajJZQ0xudEE?oc=5\">링크</a>)</li>\n        <li>2026-06-04 | Boskalis: A clean corridor for renewable offshore wind energy - DredgeWire (<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQU0hXbHV3VHZMMEx5eVhIU093NjZlRUpCSFViZjlMeEhSbzVuSV9ReWJxSERkQUJVQ0dfNmxnNWdxTldzNmN4RkgyRmVmVzJ4aVpTRldmVXU3bmFGdVJGeHpGdnREeWo1WW5aSTY2aFcwdTZpdUQ3QjZ3T2ZFLWZpZS1oSU9EVWowT3NiWQ?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | US states sue Trump administration and TotalEnergies over offshore wind cancellation - Reuters (<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ0U2WnM2a2ZsS2ItS3pjLVVUSVFazmmrX0dfdTVVT2xEcFhzempTdllSSWVwUGI4QXUxQk1iNTExcTR2WHZpZTFXckZ6U0szSHRodjFwS2Y3QTFWUnhyeUdfMFFwbzJGd3pDS29UY1E5dTROSnRXejJEcWI4eE1MU2hxLWpvMmJ3aFBMcXF4bHhUU2RfX2ZMcUVvZzlCbW5FZWV6OWdzc1oxYjFWaTNqaVZncVhZcS0wa0N4Sw?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | The Trump admin paid a French company $1 billion to not build offshore wind farms. Blue states are suing - CNN (<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPZlFIb01jMVRCYTdUMXRBY3hnVVlTZkV6VmtiamVrM1o5VUV3OGRuM2hYMnJXUDExeDdsUGdfREZ5R2czd1FYcWFRaGxrQlcxUkZ3S09pRnZmM3RWMG55SU9UNHB4SDZTSDBGbzJXaFJ3Q0ExY1ZXV19DckN2STg4ODg2d054UTg?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | This administration cooked up a sham deal': New York sues Trump administration for refunding foreign company $1 billion to end offshore wind project - Fortune (<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNQV9FbEhQWkExeWlxYUlQeEZxNklSWXdybExUNHhXSWRycDc4bnBEOTMzYVFFZkVYUFB4aHNUTUt4VXJ0dnNVQWhZY1VuNlJpOXVTcDJLcmhKMlhYeWtUaFM5T1BSeUZ5SDZrNlp0U2RyUGppdkY0UVkzWnQ5a2E4UXJRYUZzd1d0OXBrbkM1WkxZUQ?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | Six US states sue Trump administration over deal to kill windfarm project - The Guardian (<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNSGlXRHhZRzlCUHhaVVFDalRjSzQzSndGdHI2VkJxRFJJWFJ6UXlieEZJU05FeGdYSUNDOWphbG9OX2l3eEthd1dmM0hwNnN1cmZ2MVo1QjBuTVBtaDRZb2xDVWZJLTBqZFkzOTBjMVdfbGFYZjQyYlhfaHRUX20tUFJfcG9QLUFxX0R3dWloVG9Wc3Z4YmpV?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | Maine, 6 other states sue Trump over deal to end offshore wind project - Portland Press Herald - Maine Sunday Telegram (<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPSHh3WjVuNDlMdWh0azQ0d1p1YkMxMC1NbW01TEF4RjgxakNGYURoT2FTc2dRaE1qOEV1eWtpaWc2THpnbDExcC1YNVBjTENGc2hPaHRrb01pOGFqbV9RVmxHVTJGS2ZHNW4tUzV2ODRja3pRdVk0ejRvN00tdTgzeXlzR19aVVQtQmFRRFE2YllCZmFrV2FrVnZ3NEVkd0JjU0NfRS05RGgwLVNZX2c?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | States sue Trump administration over offshore wind deal - Axios (<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbG4tMjNqUjVwclhYb2ZFcW56RzBBS1VCLVNMY2RlVWlJMDRCamRRUWVkdEx0YXNXRXJSbVd3QmJnaTFOWDdqZ2dKaGNSS1RwQkRoQ2lkSGF6eF9wQ3pILXBQQWN4NG1pdjhvX2hzWFRmbjZTZy11dWlvZ1lETmF3dklXU3JnemYwOWFr?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | New York sues over the Trump administration's deal to end an offshore wind project - ABC News - Breaking News, Latest News and Videos (<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPRGJCRWtQYm9YVURzY3BvWG5BdXJiRFhMOUtqeWxrOWZfWVdrQUE1Rkh6MGkyeHRWRGY1dTBVU2UtWENVYWpfOXdWWXpjTFpwWjF2ZmlyU1hmQkhua0pHX2c5b1ZPYjVUOUFIVVo5WTdSZVZHS0N5cHV4Z1lucE1jc2ZwQWxIZDNsaGg2dTc0V2hDS0dEREVNckZTRFRJUmR6TWd5U9IBqgFBVV95cUxNYTRfOG1Zdmc3S0x3UFNxd2duQk1GWXJBRGFRcGRld0RKaWhVbThtR0pBTnYwb3BDM0J5dVNtNUs1bHJ2WG8zZlZTLVhpbEtDWHFCbXU4N1hEU3ZtQ2g5dHd1azhYMUVicnRMZmw5SXVVUXJiamxNVlI4WXJyRHR2bmtzYzh0Z2RVTFozOEJHTFY1TW96MGRyRUJZdVpPbDNqU3dyckpNcGFjQQ?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | CT Joins Six Northeastern States In Lawsuit Against Trump Administration Over Offshore Wind Project In NY - CT News Junkie (<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYnQ1Q0RJQWVqN0hYYTN2S19vVm8xX21PNWh5cXdlcTkycVpvLS1oUkRZd0t6NDhORDQybEZzUDdhWmFfZVFsb19LR19Hb05VWEVMQ29IZy13Tk1DbUMwXzlyU1dtUjhiQTNaalpYX2I0NkJjUGtzR0dydUVMRHVjbGdOVFRQRjJxamJoV29pZDh5Qm0yQ0V4ODVRMVZua2ZYMHhqYlYzOHVqeHU5RDFIcDhrdFhBRWp2V0N0ZENoQ0hzNW9uS2FSZXJnM1dmX2tLU2dGbDZZT3NBQQ?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | US states sue Trump administration over ‘sham’ offshore wind deal with TotalEnergies - Wind Power Monthly (<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPS0NnaEdBU1pMX2ZoeFFyc1RUdDA1V1JGUzFCczRucmVCRm1tVmMwSTlzQjJidnFfc09GdkNkOUVTdG9PT1RaaDc4dFRsRnNSLW9mRW9fNjY0dmo0clVZZ2UtdFlKMVJhd2pXWVplYkQyMmhHeEJZYldDX2hZdzdZbmNPeWU0RzhOUHhNTDJzc05ZNi0xdlZBM1RLdEVtR0NxTUpDQXctODM5LTRZNkZ3UDN5a1JXYnBOcm40SEtn?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | Seven states sue Trump over terminated offshore wind project in New York - Courthouse News (<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOSU53OXg1YmdjWGZWSWt5eHBfR2UwRElNNU1zUjRqME1SS092ejR4WE92MW5Qb3pTWm9CUzVkQnNGb1A3NTcwLWw4R0JCajljYV9WOUJrbFlUdjFQZ3Vkd2Y4T1lsY1huZE9PdzFNaWRwdE8yaV9VRFdzUFJMYzBZb1Eya1luU09oaThsTGtBZWw3X3lnZldHd0JxR3haekFSbDhCQ2RJZw?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | CT joins NY suit over Trump deal to end TotalEnergies wind project - CT Mirror (<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVG04dDkxX0h0SlEzbnBlTWxBUzBXTWxtakhXc3NKVTNjSmZoaGRYRndheHU4Y05WZEF3YVk3VXFwYmVnTDM1N2ZZN1NwYkFZNEdaX2V2di1PR09sQl9lbEhxa3BQZnVxZG1kazNJc01JZlhsNWNNT1BHMGFEVTRTNzRhXzlwU1VjVWtHTjZB?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | Lawsuit alleges Trump used 'illegal' deal to scuttle offshore wind projects - The Center Square (<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQWWlUUnB4OVVrWEFRU2ZUMFd6MHNIem1LTXZEYkVXLV9yQXpObmYtUHF2OXpXdFRyTDdRQmIwSzBsSWROcDJyMFp6WExpOGtPOU5zMWJzZnFEZWYwUGdsNW1XWHlKZ2NJR19jcVRyYy1fYll4V05wTEZMZHJVUGdZN0xHVHp0UUk5UmxUU2g1VHcxTGNY0gGaAUFVX3lxTE9KUHlhOU1jM21NSHd2NmprLXJ0ejRKbGJ1MnZEb2pKNV8xUC1Zb1E5TUZKS3o3eEhUeHJEajZUMEwxQnlGRnFiOV9CalR6Q05tUmJHYmxFTFhmdEFmSmR6N19UZDVVc2cxQ0J0X1p1azU4Z1FobXh6a3ZaSHB2TUY0anRaMHNzaFZ6LXludzNXbW5YOHJxMjlxWFE?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | State Attorneys General Sue Trump Administration Over Payment Ending Offshore Wind Projects - WSJ (<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS05OdHhjZkI1M0R1dmZGOThPX09USlgxU2JGczdKN0VsNHQ3Q2tneWpDS1R2OVc1UFNmaGJoeWJqejNoS1QxcEpPWGxvcnVURjZFdHBjM0EzdF9Gd2k1NjduZTRsa2wwaFh1MmNPa1FwQ0hUZWdCTVpyald0WUlRMG43RER4TkVCNTM3aFJHcl9qNXNjSXZHSkJ0aEtYNk5zSXpfS0I0cUtkVlhtYlV5QlJxa1VJbnpXQmZSX0RfUm5zNmhWaFRqWWZMWlJ3TEp4cEdzOXR2UUo4Z1JYTXc?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | New York sues Trump government over 'sham' offshore wind deal with TotalEnergies - Recharge News (<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdjdVNmRHT3l6VC1ENnFJUDBRTWtUUnNBTTZwRThhblZEei1OWWhQM1lMUDVRa3l3WDdpOEVjOTBMSnl2QVpDWEQ5RlU5OFdtTFRudFNDUGgzSjBXXzdKM2ppc2UyeEpSbDc2MU5oMml4STgwcERxSUlsRkZpZ3dRc3NBQm82cGU1dm5TUzlJRDM1OXBsWTJBcDJsWGJGTTdxVU12UXZ4MUtzVWxhSlNkbDR6UzR1eXNQdkpTUlhLcy02ak0?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | Seven states sue US for paying $1bn to make TotalEnergies exit wind power - Financial Times (<a href=\"https://news.google.com/rss/articles/CBMicEFVV3lxTE5DYy1RVWJkNGdJNnh2d3VQX2QteDJ4RjZJQ1VDbHVpcmxiNnFQV0V2RUZVYXB6TXo3NVJLOGFtR1hfWG1zWDdfLU5QOWJqMkxVZEVvdTViU2tOdUdZYmliYnlQRGg5dzU4VE1HMEFlZGU?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | Seven states sue US for paying $1bn to make TotalEnergies exit wind power - Financial Times (<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNQmE5ZlB3VXNpV1FfRzA3WklOaFNHR0ZYck5RVkNkdm5EMnhkZnFKQmJKY0tCTWwzcEprdGZDcHFXbEtBZXYxMDdGQ2w5dDV2RTlIQzFoNnUyT3lZakVMdVJFUVJ5R1JEaW95MTZPVUZ0UUEzelI0VzA5THM0dUM0UGpnZWg?oc=5\">링크</a>)</li>\n        <li>2026-06-03 | Six States Are Suing the Trump Administration Over Its Deal to Kill an Offshore Wind Project - Mother Jones (<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxONDVFa0hIVWV0VnNpMVVJM3J6aTVlekxLaHpWN0I0aTFaRkhBc0Z5bkstZjZranVFUkdZbjBtWDZobXdBMXRoY1ZWOUdZRFNfR25BbmpVZTFmMkRDZFJjSEdxMXBnYTExekxHUHhPUXRyMG5HMkVfSWRMcTd3dkJIOXZMN0RxbmxQVXAwTHJCMW82Wi1yU0VERDJkNEk4ZVRFMGh3czN2Q0RqU082QjFUNEVVR2tBSDRoODFVWXZNMzRnTlB5VW5odDR1Yk93dw?oc=5\">링크</a>)</li>\n    </ul>\n\n    <h2>산업 시사점</h2>\n    <ul>\n        <li>\n            <b>글로벌 신재생 에너지 전환의 복합적 양상</b>: 국내외 뉴스들을 종합해 볼 때, 신재생 에너지 산업은 거대한 투자와 기술 혁신을 통해 지속적으로 성장하고 있으나, 동시에 정치적 불확실성과 정책 변화에 매우 민감하게 반응하는 복합적인 양상을 보입니다. 특히 미국에서의 해상풍력 정책 혼란은 대규모 프로젝트 추진에 있어 예측 가능성의 중요성을 강조합니다.\n        </li>\n        <li>\n            <b>국내 해상풍력 시장의 성장 기회와 과제</b>: 한국은 조 단위 대규모 해상풍력 사업들을 적극적으로 추진하며 잠재력이 큰 시장임을 입증하고 있습니다. HD현대의 선박용 풍력 날개 기술 개발과 같은 혁신적인 시도는 국내 기업들의 경쟁력 강화에 기여할 것입니다. 그러나 이러한 성장은 안정적인 정책 지원, 지역사회와의 상생, 그리고 안전 관리 강화가 뒷받침될 때 비로소 지속 가능할 것입니다.\n        </li>\n        <li>\n            <b>기술 및 인프라 투자의 중요성 부각</b>: 대규모 신재생 에너지 프로젝트는 단순한 발전량 증가를 넘어, 이를 뒷받침할 전력망 인프라 확충과 차세대 기술 개발이 필수적임을 보여줍니다. 이는 관련 기업들에게 새로운 사업 기회를 제공하며, 에너지 전환의 성공을 위한 핵심 요소로 작용할 것입니다.\n        </li>\n    </ul>\n</body>\n</html>\n",
-  "lastUpdated": "2026-06-04",
+  "latestReport": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>신재생 에너지 산업 분석 보고서</title>\n    <style>\n        body { font-family: 'Malgun Gothic', '맑은 고딕', sans-serif; line-height: 1.6; color: #333; margin: 20px; }\n        h1 { color: #2C3E50; border-bottom: 2px solid #3498DB; padding-bottom: 10px; }\n        h2 { color: #2980B9; margin-top: 25px; border-bottom: 1px solid #BDC3C7; padding-bottom: 5px; }\n        ul { list-style-type: disc; margin-left: 20px; padding-left: 0; }\n        li { margin-bottom: 8px; }\n        b { color: #E74C3C; } /* 강조 텍스트 색상 */\n        a { color: #3498DB; text-decoration: none; }\n        a:hover { text-decoration: underline; }\n    </style>\n</head>\n<body>\n\n    <h1>신재생 에너지 산업 분석 보고서</h1>\n\n    <h2>주요 이슈 요약</h2>\n\n    <ul>\n        <li>\n            <h2>해상풍력 인프라 확장 및 국내외 투자 활성화</h2>\n            <p>국내에서는 한국서부발전이 태안 지역을 해상풍력 O&M 및 재생에너지 산업 거점으로 육성하려는 계획을 발표하며 지역 경제 활성화에 대한 기대감을 높였습니다. 전력망과 ESS 인프라 구축에 속도를 내면서 건설 및 에너지 시장의 새로운 성장 동력으로 주목받고 있으며, 동국S&C는 Vestas와 대규모 풍력발전기 공급 계약을 체결하며 국내 공급망의 강점을 보여주었습니다. 해외에서는 Boskalis가 해상풍력 에너지 운송을 위한 효율적인 방안을 제안하고, 중국이 세계 최대 부유식 풍력 터빈을 심해에 배치하는 등 기술 혁신을 통한 인프라 확장에 주력하며 글로벌 시장의 활발한 움직임을 보이고 있습니다.</p>\n            <p><b>관련 기사:</b></p>\n            <ul>\n                <li><b>[인터뷰]\"태안, 해상풍력 O&M·재생에너지 산업 거점으로 육성\"…이정복 한국서부발전 사장</b></li>\n                <li><b>전력망ㆍ해상풍력ㆍESS 인프라 구축 속도… 건설ㆍ에너지시장 ‘새 먹거리’ 높은 관심</b></li>\n                <li><b>동국S&C, Vestas와 315억 규모 풍력발전기 공급 계약 체결</b></li>\n                <li><b>동국S&C, 베스타스와 316億 풍력타워 공급계약</b></li>\n                <li><b>Boskalis: A clean corridor for renewable offshore wind energy</b></li>\n                <li><b>China deploys the world's largest floating wind turbine in deep water — and it's built to survive Category 5 hurricanes</b></li>\n                <li><b>China's New Offshore Wind Farm Is A Gamechanger For Clean Energy</b></li>\n            </ul>\n        </li>\n        <li>\n            <h2>재생에너지 계통 안정성 및 운영 효율성 증대 과제</h2>\n            <p>재생에너지 보급이 확대되면서 계통 안정성 및 효율적 운영에 대한 도전이 부각되고 있습니다. 브라질과 중국에서 태양광·풍력 발전량 급증으로 인한 '출력제어' 비상이 발생했으며, 이는 전력망 통합의 중요성을 강조합니다. 국내에서는 해상풍력 증가에 따른 항로 안전 문제와 풍력발전 윤활유 같은 숨겨진 운영 비용에 대한 논의가 이루어지고 있습니다. 이는 재생에너지 발전량 증가와 함께 안정적인 전력 공급 시스템 구축 및 효율적인 유지보수 전략이 필수적임을 시사합니다.</p>\n            <p><b>관련 기사:</b></p>\n            <ul>\n                <li><b>검은 석탄화력의 은퇴…푸른 풍력의 첫출근[디깅에너지]</b></li>\n                <li><b>해상풍력 늘자 항로 안전 비상…서해해경청, VTS 협력 강화</b></li>\n                <li><b>브라질, 태양광·풍력 급증에 '출력제어' 비상</b></li>\n                <li><b>[로드픽] 풍력발전의 숨은 비용, 윤활유에서 갈린다</b></li>\n                <li><b>中 1분기 배출량 2% 증가…재생에너지 늘고 ‘버려지는 전력’도 늘어</b></li>\n            </ul>\n        </li>\n        <li>\n            <h2>해외 해상풍력 프로젝트 정책 불확실성 및 법적 리스크</h2>\n            <p>미국에서는 트럼프 행정부가 TotalEnergies와의 약 10억 달러 규모의 해상풍력 프로젝트 취소 합의에 대해 7개 주정부가 소송을 제기하는 등 정치적 변동성에 따른 정책 리스크가 크게 부각되고 있습니다. 이는 대규모 재생에너지 프로젝트의 성공적인 추진에 있어 정부의 일관된 정책 지원과 법적 안정성이 얼마나 중요한지를 보여주는 사례입니다. 향후 정책 방향과 법적 공방의 결과가 해상풍력 시장의 투자심리에 상당한 영향을 미칠 것으로 예상됩니다.</p>\n            <p><b>관련 기사:</b></p>\n            <ul>\n                <li><b>7 states sue Trump administration over nearly $1 billion deal to halt offshore wind farm</b></li>\n                <li><b>Maine among states suing over cancelled offshore wind projects</b></li>\n                <li><b>Mass., six states sue Trump administration over deal to end offshore wind project</b></li>\n                <li><b>7 states sue Trump administration over TotalEnergies offshore wind lease buyout</b></li>\n                <li><b>Northeast states challenge federal settlement that canceled offshore wind lease</b></li>\n                <li><b>States Take Trump to Court Over Offshore Wind Cancelations</b></li>\n                <li><b>New Jersey joins lawsuit over canceled offshore wind leases</b></li>\n                <li><b>Enough Wind Power for a Million Homes Was 47 Miles Off the New York Coast. The Government Paid Nearly $1 Billion to Make Sure It Never Gets Built — Now Seven States Are Suing to Stop It</b></li>\n                <li><b>Blue States Sue Trump Over $1bn Deal to End Offshore Wind Farm</b></li>\n                <li><b>Seven States Sue Feds Over $928B Offshore Wind Cancelled Lease Deal</b></li>\n                <li><b>U.S. States Sue Trump Administration Over \"Sham Deal\" Paying TotalEnergies $1 Billion to End U.S. Offshore Wind Projects</b></li>\n            </ul>\n        </li>\n        <li>\n            <h2>재생에너지 기술 혁신과 환경 지속가능성 연구</h2>\n            <p>재생에너지 기술은 효율성과 수명 연장을 위한 혁신을 지속하고 있습니다. 풍력 터빈 타워의 서비스 수명 연장을 위한 혁신적인 용접 충전재 금속 개발이 대표적입니다. 동시에, 해상풍력 발전이 환경에 미치는 영향에 대한 연구도 활발히 진행 중입니다. 해상풍력 전력 케이블이 상어와 가오리의 감각 시스템에 영향을 미칠 수 있다는 연구 결과는 재생에너지 개발 시 환경적 지속가능성을 함께 고려해야 함을 강조합니다.</p>\n            <p><b>관련 기사:</b></p>\n            <ul>\n                <li><b>Offshore wind power cables can affect sensory system of sharks and rays: studies</b></li>\n                <li><b>Innovative welding filler metals extend the service life of offshore wind turbine towers</b></li>\n            </ul>\n        </li>\n    </ul>\n\n    <h2>기사 목록</h2>\n\n    <h2>[국내 이슈]</h2>\n    <ul>\n        <li>2026-06-05 <b>전력망ㆍ해상풍력ㆍESS 인프라 구축 속도… 건설ㆍ에너지시장 ‘새 먹거리’ 높은 관심</b> (<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5DVWZpOTIzOXJMMkVYRkNpeWxnbFZ5a1ZDbHZ6MlN4a2ZVTVIyX3hNRHFSVTJiRjlmZDBmcmVwamp2dkZqUzFicDBsZk43eGZSdktzVmNwWDJKQ292RU03ZGxJZkY5SXFvNlpYZHlVN1FWanRS?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>[인터뷰]\"태안, 해상풍력 O&M·재생에너지 산업 거점으로 육성\"…이정복 한국서부발전 사장</b> (<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WRG5aYmRiZm8tTldzZGR4a0dYamVYTWxVNFZQSm5FRzdMUDRUQ3pQUHJjQzY3YlkwX091WmpwS0huTHFwd1QtYjZ4SmtsX0k?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>검은 석탄화력의 은퇴…푸른 풍력의 첫출근[디깅에너지]</b> (<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yb2MxcXJHUmFQY0J3VmdsY2k5eGNGQ3p2V1VjbC1hcEVfZTBfOWRhVE1wQXVQWm00MEFDLXowR1MtVHk3c0xZY25nelFPa2FweUc4?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>동국S&C, Vestas와 315억 규모 풍력발전기 공급 계약 체결</b> (<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9VZlJiZUgwLWNSU0tsZnNpcnIwelViMlJreVZ4SWNvczRoSXRrS0luWlVQZXc0WnRnQWw5Z1RZWlgyd2VNWHJkVWN3bTk3ek9jRVB0eFZyVnExRWVrX2xncFo2VHdaWGliSXVlMi16XzZENDA?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>해상풍력 늘자 항로 안전 비상…서해해경청, VTS 협력 강화</b> (<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBaRkxiYXUxQkMtZ1NwQlVuaEh0c3J5TlBYRHd1dUlQekphaTN0eXRFbDA5UUZFVEFMMEFmWXA2S1lvbm9CRjB3cHdoRV9JYVBiNmczTlF1R3JaMnNaTm55cWlfR3JsRXBjN3Vv?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>동국S&C, 베스타스와 316億 풍력타워 공급계약</b> (<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5ld1ZzUktNSTIzYXdhdGZma0owUWs3alczNnRmSnNsbzE2dE9jWkwyNlJsT0hKNldNSkdZamQ1SmpuZmJTY1hGSlM5S3VOMU1HTnNBZEMydGFOLUluVGhDMmdjdXNnOWVPQXJlcg?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>브라질, 태양광·풍력 급증에 '출력제어' 비상</b> (<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5fYmFWajhRRFJzTWVlQ0JFZEwxQ0ZRTlB2d2xpSU84VGxqMzU5dURXZTVBS2NkczNoc0R4TGlRRVhuQTdOQVRnWVJMOVkyblphYzRiWnJwTU50VGpUR1FHcXhiMFczY2w4VXc?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>[로드픽] 풍력발전의 숨은 비용, 윤활유에서 갈린다</b> (<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1kNEM4RnBXYmpYWWhaR25MNjJjUlJIVnhCMXZGUVVWY28yb1BiWXlrNG52NzNzMkFsdnBNMVVaVmt6akFsdFRqaHZsX2pab01TTUdLQl85WlBObC1LcWJSbEp4Q2Jfc1JLWlpR0gFvQVVfeXFMUHhMeWxuckNTaEVJQlZUcURhQ1JCYVpxRjJleEVHWlZqeXluVUVsZmNLZGVRbk1YdmcyS0lLb2tHa2x2VzA2eU9ZajJjRXBkblRYMUp5OGZUOGVKVklhbV9Ibi1kaDQ4M3JXN1l4MVUw?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>中 1분기 배출량 2% 증가…재생에너지 늘고 ‘버려지는 전력’도 늘어</b> (<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1Zd3cwa2hCcmYydGlFbzZiaHk0T201eVBuc3QwV2taQXpHeWUzdHhLaDU2WTQzWkJmdDVsc3o1ZkQzeUd0VEJQaTVyaVR6azRHblpBV2s4bGpaUlVZSHMyUVdCVExRME02WElaeQ?oc=5\" target=\"_blank\">링크</a>)</li>\n    </ul>\n\n    <h2>[해외 이슈]</h2>\n    <ul>\n        <li>2026-06-05 <b>Offshore wind power cables can affect sensory system of sharks and rays: studies</b> (<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDItNk13Y3NkQ3p4cHNwLTRmYjJ6MGRHQmVTejdYU1ZZWV9jMVpGYi1zRlFCSjlYa09kb0BPVmlJU0xmNVlTYllKV1JWbC0ybFVZbjItaVBXbUlVSGNJQTB0dmFBSEd0OVE2WVBDamwtanJ1WlB2YXlDeVNhSmxUYzl6dzlIazF0ek5lWlo5R3NCVHRHTDdtaFM1M2d2dXlyNHdHOW5Ec1o4TjlXaVRNS19TYXPSAboBQVVfeXFMTzRYUThZejdVQktCVTdTQXpqUU95YjByOURGMlk3R3JwS3o5UmVzVVJma3Itcm1yb2RCQ0ZFTlp5S3RlNXYxLVI3U0VMb2YxZXV5Y0E0LXFxdThJemotVU82SmNTNDhOMUpPQThWUVFuYTZ3Sm4xMTl1dWtxRldSblJzdTBFT0dtVWUtN0plaWxPV1FNYVFsWl9qaGdTcnMwRTZDejdrUXBKRHVfUGQtT2loazMwSDZENEln?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-05 <b>Innovative welding filler metals extend the service life of offshore wind turbine towers</b> (<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFFjTE5oM0Z4NWlUTFR3VDRDY25QSFJBWUxuakxiU1hUZVZHODJNbjJfWndpdmVXcEJaN2VsSktkUGh5X1B3OWR1QVBpeTBGd1FrNU5iTFA0T2poNkE2LTB1OUphdC1vUVJJMDdIUmY5dGUwS0RHTXpxRzFHRzQ0YTlB?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-05 <b>Enough Wind Power for a Million Homes Was 47 Miles Off the New York Coast. The Government Paid Nearly $1 Billion to Make Sure It Never Gets Built — Now Seven States Are Suing to Stop It</b> (<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5ucnZpMDk5UHBsM1BXVHBtQzEtN3B3cWl1SHBaLXdTQjd0bDBSaF9iVFlsaVBkY19uM3EwVmpFeDNjRGtpRENnamQzaU5ZV0xHRld6STZwdkUxMUpkcUZJclF3NnhNWF9jbVptTzVKMkhhWXc?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-05 <b>Renewable Energy Update 6.3.26</b> (<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBrT3pjQjNldGNsbHlVcmZjTG1OT1dqTDllVi1KMXV2X0ZPYkpPRjJ2SDlDVEdUR2g5eW9rNGRpai1ISi1UR3NCTzJlLUl1WXprbHZ1MGFPUmpJdVBWdmstNG4yMEtnOHZ1RlNGdWpNUzFkQjRDSG9OUU1rTnlQQQ?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-05 <b>Seven States Sue Feds Over $928B Offshore Wind Cancelled Lease Deal</b> (<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNVTRDVEpFb1lNcTc2djVNOTl0LWxnb0ZuMnl4ZTFIa2hKb3MtS3I2TlYwcWlrSXk1R2pTeldCTmVhX19sYWlneHNQZWw0ZXR3UmI0NFYyMm05c3phdW5ZVl9IdFFXWUU5ZHVqdFhtRDV5dWFVdUZTWEdHczlpdUpmMGc0UE0ySGVPN0w3QjFiTld1aU5tbU9qVjlzdl9veDZnamNJ?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>7 states sue Trump administration over nearly $1 billion deal to halt offshore wind farm</b> (<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNFhoclY4UWtjWEliV1VpbFF2QXhnWl84S0VaS2JjeGNnZ2hPTU5IenNtZTNRSkp0a2hoLVNPRmhvX2lNV2diamoyVF9yR2V4QnpmZ2g0eDlJczQwY3R3WW1ER21pWnRrOFhYQVI1TF9XU1liVkgtLXJXcGNidENOSVNpTldIUU0xc3AyeTh4R2w0RG5Q0gGaAUFVX3lxTE9Bc3hZZ3YyTHRWZGRTc01LZU5zRmpUVk05R0hsWFcyZ0lGV3JoV0x2Z1c3LUlmTjhyb1MwanVTbXhmcFd1S3RLY01kZmUxQ1pKcTdVblV5QWQ0RmZOdUhSOE1LcS1FYUxfQVZJWldmZUktNi1pNk1LTGhqZEZuaEJNM3ZWcm0yQWxxcEw3UF8wcGJIRG91c3ZpNHc?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>Maine among states suing over cancelled offshore wind projects</b> (<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQTBnT3NoRl9fRzV5LTJ5X3dZYnVJT0RTeDNYa3ZJR0t1SF90SmY2UlQ5RVZvczg3c1JyeWZGMEpFalhMMEYxWGozUUpHV1ZUcnJLZU11MVpJUERDek5YOEIxSkFBMXcxR3BQdFVSOERIYkNkb1pFQjZfNGFFLUxvTTROY2pYUExmMFp3Y1Q2NVdBVnktalVSTHNicm1zNlh6OFA0YlkwYjF1TFFjUUZsT1pxckZRVnV0bzZnaUYybWhfX1JkWXZaTVhoaHZkRTlxdE5HZW9pNW9JNkhuWXpvQ1FoaFlLekU?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>Mass., six states sue Trump administration over deal to end offshore wind project</b> (<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNQk9NOG12TmJZMktZSlZpc1BSQWxjTWRQbjVsRTFfbHA2ZUlybnB6OWhRWGVCd0VpMlItRnlfWmYxVGgyX25YWFM2TVRKTm13cVo2NU1ZQ1FXc25RMjdFdWZjVGZBS3F1Q3BTNk9JSjVhUGZmVHZDTGZsWGRyU01qZUQ1M0dpOTI4blFMdjZBVFd0bGo0c0JJb2VqS3hRcEFxd1FrTEFidVJOTDR6?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>7 states sue Trump administration over TotalEnergies offshore wind lease buyout</b> (<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOM0FrZVlocmRORUdqeldTQS1XMmZET05DcU40VkFCWTh0MTlHTnFFTjQwaDR3bkEwRjVCWnp0elFwSTR5NWQzSW5SUms5ZEkwOEJwQjVnUnFjYmJvQ2IwTVlXRE94T1VZeTFnN2RjTUVhMnl2N0hkRFBPS3pQY25XMml3UGxacElLeEJzbjJXejJneEtEZlNsQUo0bGtOc3EtMGY5SkRWSXMwYi0yc2c?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>Northeast states challenge federal settlement that canceled offshore wind lease</b> (<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOUJ2ZEJoMHllRlRqQXhVQnkwNjlIbGhQbzhNUVZ5enRRQkdrN25iTkJ2Q2xKRHJOcGFHNUZzT0Y0c0M3S2hOYWtIZ19mdUtGSldmWC1MTlZ5MlFjY2FNeFB1OHZuYkx2bGt2OVVfWHo2X0Y4ckZ2bWZRMmxzbGVCcFRoUE1pQUpQSG1ZLUtUa2hUNldqMlZPRFgyYldnRGVpbXY2NVhqTE9MN0YzNzRHdjgwZl91QTctMXlUS2xrSDV0SzDSAcsBQVVfeXFMTUpONVFrVEF1XzE2TVhXODI5bkt0YjBSTW1ieGx0MnJFOEhuN2pSZ0tLNFVieDNKM2VhV2FqN3FMT01OTG00LUdwejNyakpVSDVjSUp4aXFWZldrTjE4UGhxV1ZtaHFrZlpqaHRVSnRDUzhaMWpual9VTGs5MFdmc21xZ3FObk9obkpTNFRFdWFfTTF4MTBpSmRQa29Db1FaU1ZkU1BKZEFDUzh2Nld6QktDekc0eEd6UnhJRjVaQ2huZldHU28wN1RBaWM?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>States Take Trump to Court Over Offshore Wind Cancelations</b> (<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUFduR25WVjVSLUVtWlZqenYyaWxoZTU4NlhiQVVndUVyQTdFU0l5VENaTlFNUk9iaXluVVhqSjROQkVPaTB4NzdWVVZBWkJGckU3VEx2S3BFRERwcjU4Y0JSVWx6ZmxTMFNNSTYzWkJyWTdob3ZQcWhpdGI1czdCOEoyTGo2elBjWEpyWHo1Uy1kTkF2QTVsOV9XcWRyUy1HX2szVUZfalUtZ9IBrwFBVV95cUxNdkp6WXZPQlg4VTItdEZlRXNGRmFiZ3l5bG5Jbmloc1FNWG40YUo2eHgxd0d5NkxRU0VkdUNDVjAxRFhmWEt3RVdlU2t4eUNvRkM1U2N6SEpNRWZYVFFla19xSEgwUFU3bklQNXFlazRWOGVVVVFzWGhtMmVkVFUwdUN0M2R4OWpOYkY0WXZvZmZSbXpHb3NWVF9FVkhBSEJFUzNQNTQ0d1BFUWt3?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>New Jersey joins lawsuit over canceled offshore wind leases</b> (<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBVSTJBejI2dzVRTzFadzhjWjNBSWstTTUtOVNyQnVhaGJyWUxieU5Fa2xhWkdvV1RyUXZRNTZuNERHM0ktY29mUS01T2h2U0lTOU5BRDdHc2Q0Z2Y1NThlelFoN2RGNm5OZ1FPeDdBajJZQ0xudEE?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>Boskalis: A clean corridor for renewable offshore wind energy</b> (<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQU0hXbHV3VHZMMEx5eVhIU093NjZlRUpCSFViZjlMeEhSbzVuSV9ReWJxSERkQUJVQ0dfNmxnNWdxTldzNmN4RkgyRmVmVzJ4aVpTRldmVXU3bmFGdVJGeHpGdnREeWoyWW5aSTY2aFcwdTZpdUQ3QjZ3T2ZFLWZpZS1oSU9EVWowT3NiWQ?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>China deploys the world's largest floating wind turbine in deep water — and it's built to survive Category 5 hurricanes</b> (<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5SOFVMemt3bTVhODl3SEptRHcxdk5fSmZyZnd4N3JWbk5oNUFObWJWZ2p0eHUxSWc0YW5ucGtaNDJnMHNwcGNPTnJQb2Z5NVRPQ2l2c211bjJZTEU3eFM3STRlbEpQTlF1LUVIT1Z1amhxR0dKQ05EU3oza084Zw?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>Blue States Sue Trump Over $1bn Deal to End Offshore Wind Farm</b> (<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNaDlQVjFNRWhvdVYyLVN6Z1FEV1hPdjFoQi1kTzgtb01xZ19tUUJwRDlyV3BhckxUanZ0WEZ2Z0xya1NqUVM0dTlHR1RVd29lSnVPX1Q5eHJGYU50LXVPQWlSQjA4UlVMUW5oWjFWVXZfNVFoZWcxQmtGeHZHOTZzdFh3QXNpei1EczlJV3hzV3RrYlQ0bld3aERTWEdybFRtWjVGYWlQTHpZU183UTBsRlVQbw?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>2026-06-04 <b>U.S. States Sue Trump Administration Over \"Sham Deal\" Paying TotalEnergies $1 Billion to End U.S. Offshore Wind Projects</b> (<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVXZVT3BoX00zQ29ZaUlPWTBQY0pkRm5BZzYwYlhhY0FjNFB0YUlSSGNnSnBZdUhIX0hMYnlxZUoyTXgxdXNJTDBubjU0SVVjYThtYXkyVlpwMUduaG5DdDRDaWlDM0hoMEhVZ0MtUUlzNFRod0djYll1NWdjM3Nja3JoSWtHbm9TSXNIa0o4TDVmSlM2dm9uTkVUaWozbzYwaTJVaW1nOURSZzVZNjJBNzBMRUFHVlowTWI2cGo4VmdMNVdjaVZQV3Y3UHo4eExCRjMxNEtQVjE?oc=5\" target=\"_blank\">링크</a>)</li>\n    </ul>\n\n    <h2>산업 시사점</h2>\n    <ul>\n        <li>\n            <b>정책적 안정성의 중요성 증대:</b> 미국의 해상풍력 프로젝트 취소 사례는 재생에너지 시장에서 정부 정책의 일관성과 안정성이 투자 결정에 미치는 지대한 영향을 보여줍니다. 국내외 투자자들은 정치적 리스크를 면밀히 분석하고, 장기적인 관점에서 안정적인 정책 지원을 확보하는 것이 중요해질 것입니다.\n        </li>\n        <li>\n            <b>계통 통합 및 효율적 운영 기술 수요 증가:</b> 브라질과 중국의 출력제어 문제에서 보듯이, 재생에너지 보급 확대는 전력망의 유연성과 안정성을 확보하는 기술(ESS, 스마트 그리드, 가상발전소 등)에 대한 수요를 더욱 촉진할 것입니다. 유지보수 및 운영 효율성을 높이는 기술(예: 윤활유, 용접 기술) 개발 또한 중요합니다.\n        </li>\n        <li>\n            <b>글로벌 경쟁 심화 및 기술 혁신 가속화:</b> 중국의 대형 부유식 풍력 터빈 개발과 같은 소식은 재생에너지 기술 경쟁이 심화되고 있음을 시사합니다. 국내 기업들은 기술 격차를 줄이고, 차세대 기술 개발에 적극적으로 투자하여 글로벌 시장에서의 경쟁력을 확보해야 합니다.\n        </li>\n        <li>\n            <b>ESG 및 지속가능성 고려 강화:</b> 해상풍력 케이블의 해양 생물 영향 연구는 재생에너지 프로젝트 추진 시 환경적, 사회적 영향을 면밀히 평가하고 관리해야 할 필요성을 강조합니다. 환경 친화적인 기술 개발 및 책임 있는 사업 관리가 기업의 핵심 가치로 부상할 것입니다.\n        </li>\n        <li>\n            <b>지역 경제 활성화 및 공급망 강화:</b> 국내 태안 사례처럼 재생에너지 산업은 지역 경제 활성화와 고용 창출에 기여할 수 있는 잠재력이 큽니다. 국내 공급망 강화와 전문 인력 양성을 통해 산업 생태계를 견고히 하는 전략이 필요합니다.\n        </li>\n    </ul>\n\n</body>\n</html>",
+  "lastUpdated": "2026-06-05",
   "keywords": [
     {
       "sheetName": "국내",
