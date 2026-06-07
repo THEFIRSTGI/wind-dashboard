@@ -1,13 +1,55 @@
 {
   "kpi": {
-    "total": 2868,
-    "domestic": 1599,
-    "global": 1269,
-    "todayNew": 0,
-    "todayDomestic": 0,
+    "total": 2877,
+    "domestic": 1606,
+    "global": 1271,
+    "todayNew": 1,
+    "todayDomestic": 1,
     "todayGlobal": 0
   },
   "domesticNews": [
+    {
+      "title": "유럽 해상 풍력 '노스윈드 메가' 건설 중단 사태…EIA 조작 혐의로 수십억 유로 프로젝트 위기 - 뉴스N연합",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1SYXVLTXNZNXFvd1VzLU1UU0FFRXNNS3NwX3ItNlFhc3RWU2FpYkRsU2VOdFVMQmZHZmpyODIzLUcyUTJhcTBwazdn?oc=5",
+      "date": "2026-06-07",
+      "status": "신규"
+    },
+    {
+      "title": "[경제/에너지] 베트남 ‘글로벌 독수리’ 유치의 핵심, 박닌에 6조 동 규모 풍력발전소 2기 건설 - 굿모닝베트남미디어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkRm93OGJHdkFqeTU0V1kwNFlKYUhCNUpYd2hrb2dMcndMam1sZlV0WEtBMjluQTYyUVBLLUhJT21vS3NDYmI5YVBrS1RmSy1qaEtVLWotOEFvaktRUTlDaE1kWFk1NWlEcFd6V3Q0S3o?oc=5",
+      "date": "2026-06-07",
+      "status": "신규"
+    },
+    {
+      "title": "10MW 풍력터빈 넘어 15MW 개발하는 유니슨…\"국산 키우려면 기술 도입 필요\" - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53MGVwN0lBX0tKckRPeFJBeFg0cmVuc2RmUlJZSEVLTUdKVHZvMnhGam1zNmZKUTZRUGJtUGpZVFRzcmx6emVQR011ejRneE15cnhj?oc=5",
+      "date": "2026-06-07",
+      "status": "신규"
+    },
+    {
+      "title": "\"해상풍력, 대립 아닌 협업으로\"…계획부터 국방·에너지 맞손 잡아야 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VcTV4RlJyQUdsMFM0aW9DZG9jaGxhaGtsWTZqaFQzXzcxWGJHZ0JqRzJHR25wRndxNDNFNGJrWjc4eTNvVkZNSjg1SnJFNktUSkdr?oc=5",
+      "date": "2026-06-05",
+      "status": "신규"
+    },
+    {
+      "title": "삼성중공업 '바람으로 달리는 선박' 앞세워 탄소 규제 정면 돌파 - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10Nm5TYjFOMGpQcWI3eWtUTldiLXl1dGNvQTdpaFNVeHl6akp5aDNSeHdLVDVpM3FqVXRpZ3dJT2JaMkxRWi1rYjhMUkJNWnE5bGFucWlzRnFteHJJOWdoRjJCSQ?oc=5",
+      "date": "2026-06-07",
+      "status": "신규"
+    },
+    {
+      "title": "‘사업비 4조’ 넘긴 완도금일 해상풍력… 국민성장펀드 활용 추진 - 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02ZkxBa0xJT003MC0zMl9OX1Nrd25uMm8zSDNDUWgwcDNhbkV4dk5tMklDeG10Um5HczRUaUp5YU1xUnctdE1NdFZ3WVkwc0xhSG5Dc2h6U1lfR2xmMEh6d0tvd04ta285bnZJM0ZR?oc=5",
+      "date": "2026-06-07",
+      "status": "신규"
+    },
+    {
+      "title": "10㎿ 국산 풍력터빈 실증 나선 유니슨 “해외기업과 손잡고 상용화 서두를 것” - 서울신문",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oYUQ3b19DaGFxZV9xT2dyMHNHcHdYcl9lMkU1UEEtRkxNMVFCNkFnNHRidWRRaks5UThzTEZrUHk4amJLY19GZ3BuUV9reXJVdFRoWE1nbkF5LUkzYXozRUZOZzN2cnhxMi12aDBSMVVWZEhWOEYxQkVHdw?oc=5",
+      "date": "2026-06-08",
+      "status": "신규"
+    },
     {
       "title": "서근배 한림해상풍력 대표 “공공주도 개발이 2030 해상풍력 목표 달성의 핵심 동력” - 전기신문",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45VGs0U3BzZW9BSlljUUlrWHpqbmctc09Ba3hrWWtNRVFzc3cwR3o3dWx0Q2ZUV1FIeTM1UkZPR3pfemFyLWRlOU9nU201SnhrT2cxUVkwd1FTWmlKSU1JelpMMHQ3MTQ4MXA2TtIBcEFVX3lxTE9rNXJzaGNYdDUwVXFaTGpjZkN0NTRBZHh5TTJuSTZLNVRrYXY4MTBmM28xanFHLWFsNDl6ejFTR19hTHBSOF9RRDd3eXZGMjRTc0lWYTY5ZWlMa3FYalE1VG1BVjhyUWxYdEV6SWY0NFA?oc=5",
@@ -1765,51 +1807,21 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54aS1qUWltOHIyMHc5blFEcVpLbDd1U05oTnNiNkZGcnQ4R1NyTVF4eXVFLWJFb1YzclFFa21ZVVB1by1CdUROODlNenVmMTA4cTNsY0dYUGFMTnBx?oc=5",
       "date": "2026-05-15",
       "status": "신규"
-    },
-    {
-      "title": "한전, 해상풍력 송전망 공동접속 전환…416km 줄이고 3.6조 절감 기대 - 뉴스;트리",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9URThhRmlkbG9zVVZkQTQ5Qm1ndkdwSmtrSTRySC1Ba0w0cExqTGpDLWxuSFBONXRJLXRJbGdpQ05KNnFZMzJPUHZjc3FqQjNWS2NIMDJzT1VveDJU?oc=5",
-      "date": "2026-05-15",
-      "status": "신규"
-    },
-    {
-      "title": "해상풍력 공동접속설비, 공공주도로 추진 - 아틀라스뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UeFAwd3VFVFFRVktJTHYzajVkWThpQnRNaHZpbTJIUlJJMVIyMFFNM2NvNzFXb0VnVTFHWGVGTjBhYl90dk41ZTZ1Sl9xd3BYTC1LdEg3bGp0bVRhT3oyeGhCRG8yaW9vUGJlMQ?oc=5",
-      "date": "2026-05-15",
-      "status": "신규"
-    },
-    {
-      "title": "기후부, 해상풍력 공동접속설비 추진…투자비 3.6조 절감 - 전기신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBydjIwaHlXUG00d0QwRnBqaU5US09TSUZUYk5xdWhfcnoxcUZVR3RqdUNNZk5KU01ObjJxV2F4Yy15U2pxUDl2MVlSekg0eFhEcWN4UXBoYmxhSWN3cE1UeThCVTFlRy01ZFBhMdIBcEFVX3lxTFB4MXlPdU96OEo4WjcwaVRHVUVxTWVjN1FUOURLTWkyb1EwWTFKcllUTzNNQ0Z2TEVqMGdoMzhnVnBVNEVrOHNUenA2eW4xMGFmZGhwcmZ0Q1VtRjYxc200a2t2QkdScVZqdU1iRFd4cUg?oc=5",
-      "date": "2026-05-15",
-      "status": "신규"
-    },
-    {
-      "title": "“해상풍력 계통 부족, 공동접속으로 해결한다” - 에너지데일리",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pdU1rOHRhbVFmRDM4bExIeDlfcHNRZGhNNk5XbzQ4d1dOcGltVGtMOFQ3NlhwUXZuLWR0YjFKODdRNG94cFhRV2dHWDRmWTdmUHYxYVdRNmdfNXo1UTlWeUs0X25saDhockdXVEdZczQ?oc=5",
-      "date": "2026-05-15",
-      "status": "신규"
-    },
-    {
-      "title": "해상풍력 확대 위해 공동접속 체계 구축…비용·절차 단축 기대 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vRHhfNTgzZ01QenVqQUs4cFo5TTBCRlppUjJJYW9nYzRxWHNySG5jb19OTnhGSG9qQmRyOHNHRERPeGlkUks3ZTlabVdjaWc?oc=5",
-      "date": "2026-05-15",
-      "status": "신규"
-    },
-    {
-      "title": "해남 해상풍력 공동접속 업무협약…투자비 3.6조원 절감 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxdEh1TE5Hal9kdkdsM1pkaWM4d3J0SEhrVDN2ZzRHYXJ0dG1TblVwRFZMMnhXclFKQlU4TlFuWGNsUl94Rk9Iem12Q2RaR25aT3V4aURIdEp3SVHSAWBBVV95cUxNdUtQb094cmNBVHVoa05zVWNqbDE5ekNKdEJseXVGQS1KVzFDcXpzRlRvQUpDMzVhSVFxREs0WEctbjlDaWs3eGV1ZVNNNV8xOGR0ZThQdEIxU1lqdjQwLWs?oc=5",
-      "date": "2026-05-15",
-      "status": "신규"
-    },
-    {
-      "title": "[사진] 풍력발전기 터빈 점검 중인 中 작업자 - 내외뉴스통신",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtdy1WbEU1TjExTW5vWjk3aXdENVBqRzVRMTR1YUJmNjJnQ0ozczF3YUZmQmJyS0QwUFRGVUNIaWNVX0IzSlMwNlhmajhNaGxuUUEteE02elpOOFUwZ1FXM1NRRkZGMmVPOVUxedIBcEFVX3lxTE90eTNLX3lDMzZjSV9Ja1hPcW1KUXBHdWRCZi1uU3JWc1ktVldFMURQMmVFMkpwa1o3ZlZ5aFNXWnNEVWY2dDFWXy03RXUzWTRvTkNBMUFVYW5SR1l0OTBmTl83RU1VYXZ2TnhWOG9XeTQ?oc=5",
-      "date": "2026-05-15",
-      "status": "신규"
     }
   ],
   "globalNews": [
+    {
+      "title": "Virginia offshore wind panel discusses Dominion, potential for future projects - WHRO",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT29vSmJvVTQwUXBaLXBDMUpUQjlPMVhiRzBhbHhvQWsxV24wNF9xTnRESUhjTFY1ZU5EdGo5ZzJ6OGZZdHVXbWt5YTJJOHZIbi1rZkJfcGZCSmo5ZkFUNDhxQ1ZhWmZXelRhcVFqWko4dk4yTEs0NWl3RUQzbDBLT0p2SFhlOEgzMDBaWURtdXQyUVQ4WkdjZDdBN3dqR1hQVG1ucnNfRzFMQ1hnWnc?oc=5",
+      "date": "2026-06-06",
+      "status": "신규"
+    },
+    {
+      "title": "What it’s like to repair wind turbines — 50 miles out at sea - The Times",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRU0tS1RnRU80M0Mzcmg5d0hjNlRQTC01ZTYyVzQtZThEN1BMc3NiNmRKbTdwTTR1Q243d0hWWC16VGZsaGhLX0hwZHFkRTFQY1EwYWJzcnRuTGgtRU15eHlKNHVMQnA4cTNfMjBlb0NSWGhPMlBIMGNiR09LMGsxaFIySDhCZ0pGQnNJNWEyaEVoUHFFeEZSMUd1eTBwZlgzNFQxdA?oc=5",
+      "date": "2026-06-07",
+      "status": "신규"
+    },
     {
       "title": "Jera Nex bp in talks with Germany on future of massive offshore wind sites - Recharge News",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV2tEdGxiNUhJY3pNVHo2VjdSN0hNYW9mY3VXLU5SQk9hOWdialVZQlN5QWtubkFhd2Q1YXBLclZFS0djczU1MU12TVBxNkV1TXlXcjh1ZVdOT2RfM0RLRnVjZm5qV3BJNlBMU2w0SG1ibm5hVHhGRmhCbVJxaFJPcUtLN2dxbDd3VkM1SkFIVkNJYk5WUXdlNDVRMjlHbDJNdlJPS2Zyb1pZRHNhY3hMdms4djZORk5JOW5mRkRybkZsYmh3T0Z0Zw?oc=5",
@@ -3597,18 +3609,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSG55cjhJQ3RnYUVLdm02ajdJQUNxaHgzdHozZDFmY19HRTBoYTdEQU9vTF9lcF9nb21lbDNwNjZQb3hKWkpWZmVWb1NSTi0xLUNOajJEUjl3Q05GakhYR05UR2k1TXpJVXNjNTdvNGdQYWxvRzdMZEREbWVSYlZ1V1BkTDJZWTZyMVpHeVk1eXVmQjg?oc=5",
       "date": "2026-05-09",
       "status": "신규"
-    },
-    {
-      "title": "Philippines’ First Offshore Wind Zones Could Generate 11 TWh A Year, But When? - CleanTechnica",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejZhU05uLVU0aXdxNzdMM3YxYmhhX1huMS1YSnZXY1NZR2VjNklSRlBOYlhyS3lnaWEzUjgxYl9lMGo4eG9ZYzQzS2NtaVYzZi1wWG9MTFJ5LW54eE11TFNRX3ZvYkJIaWtuN1J5SGdwRkZSTFltcmUtblhBamRJNVpsNjl5ZlUtZVk2UF9aQmtieFVKREZNSERKa1hTalNlc0lFX0E3Vi02R1FBa1hITUdFRdIBuwFBVV95cUxOX1NFUnZqeVMxcDRKTFNSXzctcjBVaE9Gc1paUHBmMWNUUm03NWJROFVCM2tqZzhZOVNTUmhLVEZ5UGFHNjVLQ0x3OGMwRUhTeEZrNHhYc3BaQVl6akdxTkJ0NjhNcm5OVWNQNFVlLW5uMFhiUDNJVWoxbGlxY2ZVcHdfcUJJN080Rm5mNFJ5YnZ5a3ZTX0g5LUUzZU9GYWF1a0lRN3FrWVYzYkZfQ0gwa1FYYWdLX3plZGVN?oc=5",
-      "date": "2026-05-10",
-      "status": "신규"
-    },
-    {
-      "title": "Blowback Is Building Against Trump’s Cash-For-Quitting Offshore Wind Scheme - Heatmap News",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EOThNa1ZHWE5NTGVfTGJJVnRfRVJhVTdqX0c4M1liU2U0c0c5SmpkNEhub1RDMUVZU0MwdmhaeThxQmktcml0SHhNVGtmbTk3a2NjQjRn?oc=5",
-      "date": "2026-05-08",
-      "status": "신규"
     }
   ],
   "trend": [
@@ -3966,10 +3966,15 @@
       "date": "2026-06-07",
       "domestic": 6,
       "global": 2
+    },
+    {
+      "date": "2026-06-08",
+      "domestic": 7,
+      "global": 2
     }
   ],
-  "latestReport": "<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>신재생 에너지 산업 분석 보고서</title>\n</head>\n<body>\n\n    <h2><b>신재생 에너지 산업 분석 보고서</b></h2>\n\n    <h2><b>1. 주요 이슈 요약</b></h2>\n    <ul>\n        <li>\n            <b>정책 및 규제 환경의 불확실성 증대</b>\n            <ul>\n                <li>국내에서는 20년 이상 운영된 1세대 재생에너지 설비가 규정 미비로 인해 '좌초 자산'으로 전락할 위기에 처해 있으며, 이는 재생에너지 정책의 장기적인 안정성 확보가 시급함을 시사합니다. 해외에서는 미국의 트럼프 행정부의 풍력 에너지 프로젝트 취소 사례와 에너지 수요 증가에 따른 허가 절차 개혁 요구 등 정치적 개입과 규제 환경의 변화가 신재생 에너지 프로젝트의 사업 불확실성을 가중시키고 있습니다.</li>\n                <li>관련 기사:\n                    <ul>\n                        <li>20년 버틴 1세대 재생에너지, 규정 미비에 ‘좌초 자산’ 위기 - 전기신문</li>\n                        <li>Trump admin’s cancellation of wind energy projects causes business turmoil - Al Jazeera</li>\n                        <li>Escalating energy demands bring calls for permitting reform - WorkBoat</li>\n                    </ul>\n                </li>\n            </ul>\n        </li>\n        <li>\n            <b>기술 혁신 및 운영 효율성 강화 노력</b>\n            <ul>\n                <li>풍력 발전소의 안정적인 운영을 위한 고장 진단 기술에 대한 국제 교육이 진행되고 있으며, 한국남부발전은 건물일체형태양광(BIPV)과 풍력발전기 점검용 드론을 선보이는 등 신재생 에너지 설비의 유지보수 및 효율 증대를 위한 기술적 진보가 활발하게 이루어지고 있습니다. 이는 운영 비용 절감과 발전 효율 향상에 기여할 것으로 보입니다.</li>\n                <li>관련 기사:\n                    <ul>\n                        <li>풍력 발전소 고장 진단 기술에 대한 국제 교육. - Vietnam.vn</li>\n                        <li>한국남부발전, '기후행동 출범 행사'에서 건물일체형태양광(BIPV)·풍력발전기 점검용 드론 선봬 _ 공존경영 - 자투리경제</li>\n                    </ul>\n                </li>\n            </ul>\n        </li>\n        <li>\n            <b>신재생 에너지와 환경 영향에 대한 논쟁 지속</b>\n            <ul>\n                <li>오스트리아 숲 풍력 발전 사례에서 볼 수 있듯이, 신재생 에너지가 친환경 목표를 달성함과 동시에 주변 생태계에 미치는 영향에 대한 논의가 활발합니다. 이는 신재생 에너지 프로젝트 추진 시 환경 보전과의 균형점을 찾는 것이 중요함을 강조합니다.</li>\n                <li>관련 기사:\n                    <ul>\n                        <li>친환경인가 생태계 파괴인가, 오스트리아 숲 풍력 발전의 명과 암 - 쿠쿠쿠뉴스</li>\n                    </ul>\n                </li>\n            </ul>\n        </li>\n        <li>\n            <b>해상 풍력 발전 프로젝트의 지속적인 추진</b>\n            <ul>\n                <li>버지니아 해상 풍력 프로젝트에 대한 논의가 진행되고 있으며, 해상 풍력 단지 건설을 위한 이상 중량물 운송 사례가 보고되는 등 해상 풍력 발전이 주요 투자 및 개발 분야로 자리매김하고 있습니다. 이는 대규모 재생에너지 공급원으로서 해상 풍력의 잠재력을 보여줍니다.</li>\n                <li>관련 기사:\n                    <ul>\n                        <li>Virginia offshore wind panel discusses Dominion, potential for future projects - WVTF</li>\n                        <li>Abnormal load to be escorted for offshore wind farm - BBC</li>\n                    </ul>\n                </li>\n            </ul>\n        </li>\n    </ul>\n\n    <h2><b>2. 기사 목록</b></h2>\n    <h3><b>[국내 이슈]</b></h3>\n    <ul>\n        <li>[2026-06-06] 친환경인가 생태계 파괴인가, 오스트리아 숲 풍력 발전의 명과 암 - 쿠쿠쿠뉴스 (<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2b25jaG42NDBOZ3hSVm0yQWduN1ZfVTVsRk1jMEhTRk1NUW5CZGR6VzBHaWxXbnhnS0NweWZTdG5MaDRDcGFCN2htSXRpQzZQbWh3RG05YmtQQQ?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>[2026-06-06] 풍력 발전소 고장 진단 기술에 대한 국제 교육. - Vietnam.vn (<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxMMnpiR0FzRHFzRmlubjd2M09xZk5OVk4xRXVtNXQ4eVhWYS1LRFRQcnBXZDZVOU9HQW9ycUtEQkpHekRVeWhrVEJUVmtzOVRYMkFVZnVqUFE2Tkx1Y2swd2sxd3g2ZnJqOE9QTE10Ykh5RjhaQWZ1M2RJZUJEdEVUMHRsd0pPNXlyR0tpNldJNXRZNG1q?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>[2026-06-06] 한국남부발전, '기후행동 출범 행사'에서 건물일체형태양광(BIPV)·풍력발전기 점검용 드론 선봬 _ 공존경영 - 자투리경제 (<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5leHdKejlNN290TWxWaFZudGp4cWh5VW9BT244TkZHTlJOMDh2VHhtZGN2T1ozby1nMmp1a013RzIxSHU5OXRhbEQxQ2J3WDlTUDJfeDQ3ajN0T1lhTmdOMWxiZ2gtUQ?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>[2026-06-06] 20년 버틴 1세대 재생에너지, 규정 미비에 ‘좌초 자산’ 위기 - 전기신문 (<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE0zekIxQ2xTMVAtSWUwTVZRZEV6SEV3Y0M1Zm51ZlJycXRYcXVnRXZxaDJjT0ZNeFRhTG5CZFgzZWxuLWRjNGVHTWJwZkdpWFpxdXZpcWxzU3RZLWozM0JnOU1qVUNJa2NEMkF4SNIBcEFVX3lxTE52bE1QcklWWkdHWlV6MXZhWW5ld3RjRDVibFRjVGF0TTBETmo0MmFJRV84NjVpaEdPa0xqa2cwUFpQaWc0R2VmVEkzeTBoQWYxbGtlTUduUmkyeFhFLWlFbHdZZDRWZjJBTWJzSTNnS2c?oc=5\" target=\"_blank\">링크</a>)</li>\n    </ul>\n\n    <h3><b>[해외 이슈]</b></h3>\n    <ul>\n        <li>[2026-06-06] Trump admin’s cancellation of wind energy projects causes business turmoil - Al Jazeera (<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXdRVHdiS1pLSUFPY3A3ekgybTFFMk1QWmNVa1JPU0VYR2EyOEpSM01na0tPS2xUdXJyX1FENkd1LWhtUGJwcGNWc2ttTkJYT00zSi1GYmlaVGFBX21uNG1laURnb2kycHBja3JQeFExUGdLTGhFaGFDTFB1UE0yNU45SjYxVnpVbnZlS1FBNEd1b3o5Qk4tcFczVUtFOFF0X1FTeVJETEJKX2ZPVjVaaTdGSnJuT2fSAbwBQVVfeXFMTmxaenJzNVh5LWYxaWtKN0pNNXZVVWVOZ2VzbVFqVlJseGIyLTRYVE12RG15QXBfODlIM1ZEZUhVSEJFWVRkR0J0VWxBOFJ6TVZ3V1otb2xVaVZJdEFVX3pubjhnNjBMNW5YVXBKOUhzLUd2UVlZNHdEam1YT3ZyU3R4eExTd25WVVBTVEFyQlFoWTNfQWl0VjhyTkpmNFhpZVVlOE83SkIzMGU2dHJESjl3ejZJWGRDNGVkZzY?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>[2026-06-06] Virginia offshore wind panel discusses Dominion, potential for future projects - WVTF (<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0F5NXZBem1iT3dwM2YxSmJZMHI3MkVhS29jTGF4eUQ3UU1QRTlhbllrYmxtX1c4bWVNMXhqZE5hR1prbFFzVVRQWjBfeDFRWmVoWUhheXNwcFhpNlNxZlZxQnVfd0hCREJtdlpMT1NhNUIxQlFUV3NRS2s1TUk0ZnVJd2FURnJiU2pXemx3c1RPVkYyeEF1VXFpZ3dNODNzNnI4UlNMSV9IdWlrUzRzcTA4ejY?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>[2026-06-06] Escalating energy demands bring calls for permitting reform - WorkBoat (<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONGVYZThxV1dzT01hMTlmYWdpWS1uNzFxUGF0RkU5YzhXZGJueDA0Z1RQZXVPOThXN0NPX1VlS3ZNQjhTZ3RHZFZnNHZvZFZzQVQxSDVXc21GeGtuSVVsLTJsN2ltNy11Q1FHZHpYUS1wSVh2ZVhIa19NSlRuTWFIN18zVUFOUnBrY205Ng?oc=5\" target=\"_blank\">링크</a>)</li>\n        <li>[2026-06-06] Abnormal load to be escorted for offshore wind farm - BBC (<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNcDV6dVlhSlFtRldlYk9FYTlwTF9fT3VBbC1PUW9PeVZlZXdXMV8wMWI2SjhQcGJjTDVJM3p5REFVWnAwaFBZYUZTZXBjTmZoV2xZRE05YTh6UQ?oc=5\" target=\"_blank\">링크</a>)</li>\n    </ul>\n\n    <h2><b>3. 산업 시사점</b></h2>\n    <ul>\n        <li>신재생 에너지 산업은 기술 혁신과 해상 풍력 등 대규모 프로젝트 추진을 통해 성장을 지속하고 있습니다. 그러나 <b>정책 및 규제 환경의 불확실성</b>, 특히 <b>기존 설비의 노후화 및 운영 지속 가능성 문제</b>는 중대한 도전 과제입니다. 친환경 목표 달성과 생태계 보전 간의 균형점 모색도 필수적입니다. 향후 안정적이고 예측 가능한 정책 프레임워크 구축, 기술 고도화를 통한 운영 효율성 확보, 그리고 환경적 지속 가능성을 고려한 프로젝트 개발이 산업의 핵심 성공 요인이 될 것입니다.</li>\n    </ul>\n\n</body>\n</html>",
-  "lastUpdated": "2026-06-07",
+  "latestReport": "\n<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>신재생 에너지 산업 분석 보고서</title>\n    <style>\n        body { font-family: 'Malgun Gothic', sans-serif; line-height: 1.6; margin: 20px; color: #333; }\n        h2 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 30px; }\n        ul { list-style-type: disc; margin-left: 25px; padding-left: 0; }\n        li { margin-bottom: 8px; }\n        b { color: #e74c3c; } /* 강조 텍스트 색상 */\n        a { text-decoration: none; color: #007bff; }\n        a:hover { text-decoration: underline; }\n    </style>\n</head>\n<body>\n\n    <h2>신재생 에너지 산업 분석 보고서</h2>\n\n    <h2>주요 이슈 요약</h2>\n    <ul>\n        <li>\n            <b>국내 풍력 터빈 기술 개발 및 상용화 가속화</b><br>\n            국내 기업 유니슨이 10MW급 국산 풍력터빈 실증을 추진하며, 나아가 15MW급 개발 계획을 밝히는 등 대형 풍력 터빈 기술 개발에 박차를 가하고 있습니다. 이는 국내 기술 자립도를 높이는 동시에, 해외 기업과의 협력을 통한 상용화 및 선진 기술 도입의 중요성을 동시에 강조하고 있습니다.\n            <ul>\n                <li><a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9oYUQ3b19DaGFxZV9xT2dyMHNHcHdYcl9lMkU1UEEtRkxNMVFCNkFnNHRidWRRaks5UThzTEZrUHk4amJLY19GZ3BuUV9reXJVdFRoWE1nbkF5LUkzYXozRUZOZzN2cnhxMi12aDBSMVVWZEhWOEYxQkVHdw?oc=5\">10㎿ 국산 풍력터빈 실증 나선 유니슨 “해외기업과 손잡고 상용화 서두를 것”</a></li>\n                <li><a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE53MGVwN0lBX0tKckRPeFJBeFg0cmVuc2RmUlJZSEVLTUdKVHZvMnhGam1zNmZKUTZRUGJtUGpZVFRzcmx6emVQR011ejRneE15cnhj?oc=5\">10MW 풍력터빈 넘어 15MW 개발하는 유니슨...\"국산 키우려면 기술 도입 필요\"</a></li>\n            </ul>\n        </li>\n        <li>\n            <b>대규모 해상 풍력 프로젝트 추진 및 투자 활성화</b><br>\n            완도금일 해상풍력 사업이 4조 원 규모를 넘어서며 국민성장펀드를 활용하는 등 대규모 자금 조달 방안을 모색하고 있습니다. 이는 국내외 대규모 재생에너지 프로젝트 추진에 있어 안정적이고 다양한 재원 확보가 핵심적인 과제임을 시사합니다.\n            <ul>\n                <li><a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE02ZkxBa0xJT003MC0zMl9OX1Nrd25uMm8zSDNDUWgwcDNhbkV4dm5tMklDeG10Um5HczRUaUp5YU1xUnctdE1NdFZ3WVkwc0xhSG5Dc2h6U1lfGxmMEh6d0tvd04ta285bnZJM0ZR?oc=5\">‘사업비 4조’ 넘긴 완도금일 해상풍력… 국민성장펀드 활용 추진</a></li>\n            </ul>\n        </li>\n        <li>\n            <b>글로벌 해상 풍력 시장의 기회와 리스크 공존</b><br>\n            베트남에서 대규모 풍력발전소 건설이 추진되는 등 아시아 시장에서의 재생에너지 수요가 확대되고 있어 국내 기업의 해외 진출 기회를 보여줍니다. 반면, 유럽의 대형 해상 풍력 프로젝트가 환경영향평가(EIA) 조작 혐의로 건설이 중단되는 사태가 발생하는 등, 글로벌 프로젝트 추진 시 규제 및 환경적 리스크 관리의 중요성이 부각되고 있습니다. 또한, 해상 풍력 터빈의 원활한 유지보수 또한 지속적인 운영을 위한 중요한 과제입니다.\n            <ul>\n                <li><a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBkRm93OGJHdkFqeTU0V1kwNFlKYUhCNUpYd2hrb2dMcndMam1sZlV0WEtBMjluQTYyUVBLLUhJT21vS3NDYmI5YVBrS1RmSy1qaEtVLWotOEFvaktRUTlDaE1kWFk1NWlEcFd6V3Q0S3o?oc=5\">[경제/에너지] 베트남 ‘글로벌 독수리’ 유치의 핵심, 박닌에 6조 동 규모 풍력발전소 2기 건설</a></li>\n                <li><a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE1SYXVLTXNZNXFvd1VzLU1UU0FFRXNNS3NwX3ItNlFhc3RWU2FpYkRsU2VOdFVMQmZHZnpyODIzLUcyUTJhcTBwazdn?oc=5\">유럽 해상 풍력 '노스윈드 메가' 건설 중단 사태…EIA 조작 혐의로 수십억 유로 프로젝트 위기</a></li>\n                <li><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQRU0tS1RnRU80M0Mzcmg5d0hjNlRQTC01ZTYyVzQtZThEN1BMc3NiNmRKbTdwTTR1Q243d0hWWC16VGZsaGhLX0hwZHFkRTFQY1EwYWJzcnRuTGgtRU15eXlKNHVMQnA4cTNfMjBlb0NSWGhPMlBIMGNiR09LMGsxaFIySDhCZ0pGQnNJNWEyaEVoUHFFeEZSMUd1eTBwZlgzNFQxdA?oc=5\">What it’s like to repair wind turbines — 50 miles out at sea</a></li>\n            </ul>\n        </li>\n        <li>\n            <b>해양 운송 부문의 탄소 중립 전환 가속화</b><br>\n            삼성중공업이 '바람으로 달리는 선박' 기술을 통해 해운 산업의 탄소 규제에 적극적으로 대응하고 있습니다. 이는 재생에너지 기술이 발전 분야를 넘어 운송 등 다양한 산업으로 확산되어 탄소 중립 달성에 기여하고 있음을 보여주며, 새로운 시장 창출 가능성을 시사합니다.\n            <ul>\n                <li><a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE10Nm5TYjFOMGpQcWI3eWtUTldiLXl1dGNvQTdpaFNVeHl6akp5aDNSeHdLVDVpM3FqVXRpZ3dJT2JaMkxRWi1rYjhMUkJNWnE5bGFucWlzRnFteHJJOWdoRjJCSQ?oc=5\">삼성중공업 '바람으로 달리는 선박' 앞세워 탄소 규제 정면 돌파</a></li>\n            </ul>\n        </li>\n    </ul>\n\n    <h2>기사 목록</h2>\n    <h2>국내 이슈</h2>\n    <ul>\n        <li>[2026-06-08] <a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9oYUQ3b19DaGFxZV9xT2dyMHNHcHdYcl9lMkU1UEEtRkxNMVFCNkFnNHRidWRRaks5UThzTEZrUHk4amJLY19GZ3BuUV9reXJVdFRoWE1nbkF5LUkzYXozRUZOZzN2cnhxMi12aDBSMVVWZEhWOEYxQkVHdw?oc=5\">10㎿ 국산 풍력터빈 실증 나선 유니슨 “해외기업과 손잡고 상용화 서두를 것” - 서울신문</a></li>\n        <li>[2026-06-07] <a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE02ZkxBa0xJT003MC0zMl9OX1Nrd25uMm8zSDNDUWgwcDNhbkV4dm5tMklDeG10Um5HczRUaUp5YU1xUnctdE1NdFZ3WVkwc0xhSG5Dc2h6U1lfGxmMEh6d0tvd04ta285bnZJM0ZR?oc=5\">‘사업비 4조’ 넘긴 완도금일 해상풍력… 국민성장펀드 활용 추진 - 아시아투데이</a></li>\n        <li>[2026-06-07] <a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE10Nm5TYjFOMGpQcWI3eWtUTldiLXl1dGNvQTdpaFNVeHl6akp5aDNSeHdLVDVpM3FqVXRpZ3dJT2JaMkxRWi1rYjhMUkJNWnE5bGFucWlzRnFteHJJOWdoRjJCSQ?oc=5\">삼성중공업 '바람으로 달리는 선박' 앞세워 탄소 규제 정면 돌파 - 더구루</a></li>\n        <li>[2026-06-07] <a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE53MGVwN0lBX0tKckRPeFJBeFg0cmVuc2RmUlJZSEVLTUdKVHZvMnhGam1zNmZKUTZRUGJtUGpZVFRzcmx6emVQR011ejRneE15cnhj?oc=5\">10MW 풍력터빈 넘어 15MW 개발하는 유니슨...\"국산 키우려면 기술 도입 필요\" - 네이트</a></li>\n        <li>[2026-06-07] <a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBkRm93OGJHdkFqeTU0V1kwNFlKYUhCNUpYd2hrb2dMcndMam1sZlV0WEtBMjluQTYyUVBLLUhJT21vS3NDYmI5YVBrS1RmSy1qaEtVLWotOEFvaktRUTlDaE1kWFk1NWlEcFd6V3Q0S3o?oc=5\">[경제/에너지] 베트남 ‘글로벌 독수리’ 유치의 핵심, 박닌에 6조 동 규모 풍력발전소 2기 건설 - 굿모닝베트남미디어</a></li>\n        <li>[2026-06-07] <a href=\"https://news.google.com/rss/articles/CBMiSkFVX3lxTE1SYXVLTXNZNXFvd1VzLU1UU0FFRXNNS3NwX3ItNlFhc3RWU2FpYkRsU2VOdFVMQmZHZnpyODIzLUcyUTJhcTBwazdn?oc=5\">유럽 해상 풍력 '노스윈드 메가' 건설 중단 사태…EIA 조작 혐의로 수십억 유로 프로젝트 위기 - 뉴스N연합</a></li>\n    </ul>\n    <h2>해외 이슈</h2>\n    <ul>\n        <li>[2026-06-07] <a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQRU0tS1RnRU80M0Mzcmg5d0hjNlRQTC01ZTYyVzQtZThEN1BMc3NiNmRKbTdwTTR1Q243d0hWWC16VGZsaGhLX0hwZHFkRTFQY1EwYWJzcnRuTGgtRU15eXlKNHVMQnA4cTNfMjBlb0NSWGhPMlBIMGNiR09LMGsxaFIySDhCZ0pGQnNJNWEyaEVoUHFFeEZSMUd1eTBwZlgzNFQxdA?oc=5\">What it’s like to repair wind turbines — 50 miles out at sea - The Times</a></li>\n    </ul>\n\n    <h2>산업 시사점</h2>\n    <ul>\n        <li>\n            <b>기술 고도화와 국제 협력의 중요성</b>: 국내 풍력 산업은 10MW를 넘어 15MW급 터빈 개발을 목표로 하는 등 기술 고도화에 주력하고 있습니다. 동시에 해외 선진 기술 도입 및 글로벌 기업과의 전략적 협력을 통해 빠르게 경쟁력을 확보하고 시장을 선점하려는 노력이 더욱 중요해질 것입니다.\n        </li>\n        <li>\n            <b>대규모 프로젝트의 자금 조달 및 리스크 관리</b>: 수조 원대의 해상 풍력 프로젝트가 활발히 추진되고 있으며, '국민성장펀드'와 같은 혁신적인 자금 조달 방식이 도입되고 있습니다. 그러나 유럽 사례에서 보듯이, 환경영향평가와 같은 규제 준수 및 투명하고 철저한 리스크 관리가 프로젝트의 지속가능한 성공을 위한 핵심 요소입니다.\n        </li>\n        <li>\n            <b>재생에너지의 산업 전반으로의 확산</b>: 풍력 에너지가 발전 분야를 넘어 해운 산업의 탄소 중립 솔루션으로 활용되는 등, 재생에너지 기술이 다양한 산업 부문의 탈탄소화를 가속화하는 핵심 동력으로 작용하고 있음을 보여줍니다. 이는 재생에너지 시장의 확장 가능성과 새로운 비즈니스 모델 창출을 의미합니다.\n        </li>\n        <li>\n            <b>글로벌 시장의 기회 포착 및 전략적 접근</b>: 베트남과 같은 아시아 신흥 시장에서의 대규모 프로젝트는 국내 기업들에게 새로운 성장 기회를 제공합니다. 하지만 국제 프로젝트는 복잡한 규제, 환경 문제, 그리고 유지보수와 같은 운영상의 난제를 동반하므로, 철저한 사전 조사와 현지 맞춤형 전략적 접근이 필수적입니다.\n        </li>\n    </ul>\n\n</body>\n</html>\n",
+  "lastUpdated": "2026-06-08",
   "keywords": [
     {
       "sheetName": "국내",
