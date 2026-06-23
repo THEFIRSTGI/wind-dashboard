@@ -1,13 +1,79 @@
 {
   "kpi": {
-    "total": 3273,
-    "domestic": 1852,
-    "global": 1421,
-    "todayNew": 10,
-    "todayDomestic": 6,
+    "total": 3286,
+    "domestic": 1863,
+    "global": 1423,
+    "todayNew": 20,
+    "todayDomestic": 16,
     "todayGlobal": 4
   },
   "domesticNews": [
+    {
+      "title": "한빛해상풍력, 입찰 결과 앞두고...공급망·안보 검증 강화요구 확산 - 포인트경제",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tUGFtaDJQRlJzdUNNSlB2YmFjclBpdndZRTZVQUFaRGRtdnZGcVAyaUpfSWZ1UUtEeVFrMnZHY3Q1QnNOU1BUcFdMUl9oWm9aRG9JdDYydHJkbl9UZ1oxWVFLaUd2SjFsa1E?oc=5",
+      "date": "2026-06-23",
+      "status": "신규"
+    },
+    {
+      "title": "부유식 해상풍력산업 ... 조선산업의경험이 열어갈 새 역사(1) - 제이누리",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sVE9qcXBWbzdFSUpGVzI5SmNQZTZMWVhydU1RcUFUbzFsemxpN3MzVDJEWnVqWWF6Q3R1NVhiYm4yVkZhNzVCbGtfemx5N0NnZ2g0bUNMekVDcTlZ?oc=5",
+      "date": "2026-06-23",
+      "status": "신규"
+    },
+    {
+      "title": "풍력·태양광으로 몰리는 은행권 자금 - 뉴스톱",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4ZV91OTdUSGRFWHhCV0ZGZ1lSa0dhVHB6UEZGS3Btclc3OW5Ma1JVTUFFcmgzVC0wS2dVYTJYNU96TDV3U3pOYzdDQk5nR1ZWOUtQVm10cDFwcXA4QzVNWG9ETmhuRVFVbkJyWkd6UQ?oc=5",
+      "date": "2026-06-23",
+      "status": "신규"
+    },
+    {
+      "title": "현대스틸산업, 초대형 해상풍력 전용 기지 구축 - Hyundai Motor Group",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMEJQWG00NmJFaEUxbXJsb2UwTWdndjgzSlN2MzNUVXpJSXZzd0t3bEJpUE5IM3lPcHRQSjUwTHhzdkpnWi1LQUVqTkRlckVwRS16cDgxNzRPanVpd0JBZmZoazFrdFBKbmp2NXNXYjlnV2FBT1BhYzVjdUJacngzaTZpVF9oV3BFcW9j?oc=5",
+      "date": "2026-06-23",
+      "status": "신규"
+    },
+    {
+      "title": "부산해상풍력발전, 미래 세대와 바다를 잇다 - 일렉트릭파워",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wbTlFcXVjTkx3WGtUd3JyWGV5RXBaX2dpMUpRcXF0cVh3ZkxIUVoweTloeWJmSEdtYk1oN2Z3MWVqazM5d2EyOS0wdDA4eXBwaXdWLUkxalFmZWhscjJqOWQ4WHU?oc=5",
+      "date": "2026-06-23",
+      "status": "신규"
+    },
+    {
+      "title": "동서발전, ‘풍력 전문인력 양성’ 기술교류회 개최 - 매일건설신문",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE4zTF9DLXJreHVIb0QyRENzMm84clZ2OVkzRlRXTUE3OXI2N3B1SXBfaUM3OUhVdVJET2xtRjBhclhqRFk?oc=5",
+      "date": "2026-06-23",
+      "status": "신규"
+    },
+    {
+      "title": "美해상풍력 취소 도미노···CS윈드·SK오션플랜트 북미 전선 ‘비상’ - 뉴스프리존",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3U2xDa3FwMUhyc0xBYUJjeF9KMGlBZ0IzNnF6U0Q4SU1ycE1PNjlCQ0thZU1wYW5jdHgxMEdyOXgzSFluU1AySDhZeDFBeWRmVkxnVWxxdElIMU03LXVhbUk4X2UyNFE5YjROdE8ya0thQVXSAXdBVV95cUxNR21WUGMwVl9GX2F2MjM4bHZJUHRrRzRQeGUyWkVfaU0xOEVmbXRjWlV6bFoxcHVyc3NVYm1VRUYxUFBmTkg3Nm1GcC00QUZMekhFUzhLcXZ6NURhRmhQdHhjWG80WndCZktPUUgxclI5NkpseUhOaw?oc=5",
+      "date": "2026-06-23",
+      "status": "신규"
+    },
+    {
+      "title": "한빛해상풍력, 입찰 결과 앞두고…공급망·안보 검증 강화요구 확산 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DcHJwUGotcTdMWWpWbHVEWVZteUZ3QVBPUHVtc3Vmb0dPQkZKQXFXajZ5aTZCaHRqVjlZV3dVekNSQ2lhenpfai1FY2hzMUE5blNJ?oc=5",
+      "date": "2026-06-23",
+      "status": "신규"
+    },
+    {
+      "title": "동서발전, 풍력 운영 전문인력 양성 위한 기술교류회 개최 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03bDlzNzJfRXlzc3B0MEpOcWpJc1pjOTZ2Y2JwbVJuQnVndHoxNU9uVmNqWm4yNXNGUGtYMDU0WFlzdlRxWFFMNURkY3pEYWM?oc=5",
+      "date": "2026-06-22",
+      "status": "신규"
+    },
+    {
+      "title": "(2026 풍력학회 춘계학술대회) 김상렬 학회장 “실기했던 풍력 산업, 지금이 도약 기회” - 전기신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pNG1nWVdzcVdBeklTNG9USkx2Q3Y0cUdPdHpYRkhmczFLR0dWc3M5N0ZwdDB5ZlA2eDJoaExtb2lCOXI5dHJVN1UzQWJ4QnE4cnZEaTZWXzZxVlRfMjVaZGRYNmU5YmhjTTBKedIBcEFVX3lxTE9ERjhaWDNDenUwYkROdlRxS2VtSmRDRTFIZk84Y3h3THFtUkZlYWdHUFdVS3NOb25WbUwzaGJueFhOeHpsdTJEZ01FNnA4b282OUFsUlJuMmtVQ1N3YUdQY3B6RERWNGZPazczNk9UZ0Y?oc=5",
+      "date": "2026-06-23",
+      "status": "신규"
+    },
+    {
+      "title": "부산해상풍력발전, 해양 기후변화 · 에너지 전환 특강 - 투데이에너지",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SMHp1c0FOMVRiZ3dhdGplc1Z6Y2E1bGpyYzZCUTJncDlFczZIVU80RWpJZ1F1Tm9Ya09mUUZFZ19XSlNNUW5pXzFQTzQxRlhkODcxOUY4eS1pRTUtZV9Ba0xLc0lVWWVHYlNZU19n?oc=5",
+      "date": "2026-06-23",
+      "status": "신규"
+    },
     {
       "title": "동서발전, 풍력발전 현장 기술역량 강화 방안 논의 - 디스커버리뉴스(DISCOVERYNEWS)",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82RXNpZ1p3X0ltY3gyZnc3SzRjaDV5eFJSVi1ZUjVFOUt2a1ZUd3c5WWo0dUNyTmFnSzZETUg2R0VWcmxHNnlIbmxUNmVRVDhPY2FoaEo1UWlYRC1zQlZYNGlnZ3FFdVlHem5wMmRoX3FtUQ?oc=5",
@@ -1741,75 +1807,21 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05dTlIVkl0ajh2ZERWQjE1ejZfbE03RzdySEQ0VzJXc3ZVU2RFNV9Ga1R4TFBYc1VVQk13UVJCcmVwZ1VxVEx1WXhid0dKUXo1dEluQ1kyUmRGeXBtUW9DdGxR?oc=5",
       "date": "2026-06-02",
       "status": "신규"
-    },
-    {
-      "title": "남부발전 신입사원 102명 현장 중심 입사교육…6주간 고육 돌입 - 부산일보",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YQ0d2a3ByX1ZWd3J5WWpCaTNILWdNSWpoQUR3NU54WUJWMk1tLVNMYXJCVUFSTFc1QU5WLUdZZ3VvcFQ0ZTVRX1kzazlxbkxTbnFkSmExaHZvdDJ0Qmd0MmNEenEyeGRMWElMcFFvaFAzMEg5?oc=5",
-      "date": "2026-06-02",
-      "status": "신규"
-    },
-    {
-      "title": "중부발전, 보령 녹도에 320MW 해상풍력 '30년 1월 착수 - 디스커버리뉴스(DISCOVERYNEWS)",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12aG80Qm1ZOGZMTWxEU0k4clZSVDBTUW9wRFlnUF9VVTZlSDM3NXZTLVFFTkdnSmZmNUNvLTdyZ2U2ZUMxOGdXVC0zNGVrNFVyTDBMc2F0dTRlVjZ1MzdHQjJVQlJqUE5TRTZUZ2Vzc0pDdw?oc=5",
-      "date": "2026-06-02",
-      "status": "신규"
-    },
-    {
-      "title": "에코웬데, 북해에 첫 15MW급 해상풍력 발전기 설치 개시 - 2news.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzNVhiZVJlUl9pM3BaWXphTTg5eEJmTGJlY2FPb3dUXzh0ajF2TGg1RDlXR0lWa3pMX0pjTGQ4dVdMZjRKSFFLMWhtVF9Nd3BSVzMxdVpNaDBUc0NRVV9Ob3VFR1BLek0?oc=5",
-      "date": "2026-06-02",
-      "status": "신규"
-    },
-    {
-      "title": "황경남 “위성곤 100조 해상풍력 구상, 허황된 공약 아닌 제주 생존전략” - 일간제주",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82ZTJxYm5nS3NuMG9GMHBUSURCUzNkRXdmY0lFdDdBdUtWSnJEMlhhWm5Lb3pMX3JwbUxVT3ZMRThfYy1DOEVIVzN5S0RTTTl2Wno2MHB2X3RPU21qLXF2UkNod3pZNmNIYWpB?oc=5",
-      "date": "2026-06-03",
-      "status": "신규"
-    },
-    {
-      "title": "[단독]HD현대, 英 BAR테크놀로지스와 MOU...선박에 '거대 풍력 날개' 탑재 - 더트래커",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mMU5kb3J1SDlfMERHcWRjbWhZYnBmZGpTVnp1VXBPU3NkQ0hNU1AyQjlTRHVjYngyR1I2R3hTM1F0WVczV1Rwblc1T25ycGRMYVREZjJMS1o?oc=5",
-      "date": "2026-06-03",
-      "status": "신규"
-    },
-    {
-      "title": "16조 '전력 고속도로' 열린다…미국 최대 선지아 프로젝트 가동 - 더구루",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wRU56SHplZDRtSldCaWx6YnFSakdNZjBJZERCN2tJQlNCb0VaUEQyVHZJMXRpRlo1THhCMU9xbnFKaXk4ZEJQcFhxSDVSamdfTkZNNFFvTW1qSS0wMEI1SlVLQQ?oc=5",
-      "date": "2026-06-03",
-      "status": "신규"
-    },
-    {
-      "title": "동서발전, 풍력발전 출자회사와 협력 재생에너지 안전망 강화 - 전기저널",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByZXZmUnVTSk51ZmtsUndXUjNqb0hYZ0dBSUVDakxfUTZzZkRtQmlieUdyUGl1N09XdmNTNlpMNXFsMGlwdnhNYnFEcURtRGtDYzAwN3htWmlCWlV6SWd3OFhR?oc=5",
-      "date": "2026-06-02",
-      "status": "신규"
-    },
-    {
-      "title": "코오롱글로벌, '축소' 아닌 '선택과 집중'…건설·풍력 등 반등 동력 건재 - 미디어펜",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zTXJXdmNJMEFGbGZmWldrVU1RaTlXbmdMSmRVSkFuSmFyVklGRVhNSzJKbk1DczVudEl2Ti1Vd0xXQUZoMU45RjdzX00xdmlsMlBQWtIBWEFVX3lxTE5RRmlQYWRXNWo4Q2NVNW1wenNEd3gtWXhIWTlLbzhFREpUclZwNmNqcEpEelJpczFaUUk1N3d4a3RoX3NiSWxpQXprVG5FX2VvSXlvMTE1VXI?oc=5",
-      "date": "2026-06-02",
-      "status": "신규"
-    },
-    {
-      "title": "이재두 RWE 한국 공동 대표 \"韓, 해상풍력 아시아 거점…강력한 파트너십 구축\" - 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWTXJNTThLYmlOSFR4YTZVbEN3OFVDWkE3QS11aTFuQWlUdy0ycHV3MFIwOFQ1dlhiQmxMb0E1VTB4RUx6Tzg2UGNMXzZlc3J0Sm9R?oc=5",
-      "date": "2026-06-02",
-      "status": "신규"
-    },
-    {
-      "title": "서해해경청 목포광역VTS, 해상풍력단지 안전관리 강화 간담회 개최 - 일간투데이",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yX2NxUjN4TW5CZFBQbC1aS29FcWhfNEotUktvZzd1ZHc1cXFkbUdMVlNyc0lrV3FlZlNVTXNTRFJSMDVQTkY4ZGZWcWVZaTFFbWVRLThKZ2JpakFRcFZNTVExM0RnR3BleV9N?oc=5",
-      "date": "2026-06-02",
-      "status": "신규"
-    },
-    {
-      "title": "유니슨, 10MW급 국산 해상풍력터빈 실증기 설치 - 기후에너지데이터뱅크",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ETjZqNVkzamMyWWZLQXcxREVYN3BrTUs1VV9wajc0N0RISUl1bXdmWVJxWTVrREJSY0JQTV9vWS1zb0U4dUowWV9od3Q3aWxSMGRLWm9tM0p1Q19BV2c?oc=5",
-      "date": "2026-05-27",
-      "status": "신규"
     }
   ],
   "globalNews": [
+    {
+      "title": "OEG Clearing East Anglia Two Seabed - offshoreWIND.biz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc19xcElmbGF2Tkw2NDVuLTM2dHZjUE42ZnptRHNsVnVKSXVHeDc4dmJETmVzUzF1RGVmWnE3Rkp3SlZxYTJfMHd4S28zOGpFZXNUYWdjOFNFd2JQVVhkNmMySmFya19fd1ZwaUhhT3k2dmZFdFJiN2diQklXcVNfSkZR?oc=5",
+      "date": "2026-06-22",
+      "status": "신규"
+    },
+    {
+      "title": "Poland's first offshore wind farm nears completion - Renewables Now",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQTJkd1VmN2RfNkpGTmhCR3E5ZkNRVzJRQlFQYkhkMGJkbUdkX0hMaTF5Y2ZxUkxFYVNQQ0EzcWY4WUJMMWpPeVZnZkhiUVRJMm1zSDhGYUhXMUpnLWtISlI3cWVadmNET0Z5M3hieVhaOFI1ZmVKUnlMeDl1SGdfX19UVFFZU0FmQkZwOVZRQXg1NVk?oc=5",
+      "date": "2026-06-22",
+      "status": "신규"
+    },
     {
       "title": "Montrose Offshore Skills Academy to support offshore wind workforce development in Scotland - Windtech International",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUUR4bEpGcG0yQ0hBdmsxczV5ZGJ2SHM1cWFBWDkzTkF2VVVMS0g4cGpKeGZBZThrZ1dXUTladGZLc3doaU5HRXcydVAzSVdva3VpQ0Z1OVZ6cDVocWVuMlFuaVdNWmdaTTFoUHkzQm5xR3RLT0k0R2tVd0NzWVl5QTIxTE14QVFIMXlocjFUa2JjZl9SMEdZTURFOEdtYl96aGRxbWp0Ymk4Smk1VHRiSE5Bbkd1bjB2UkEtcHV5RzlXM3k0czZSUWRfeDhNajVvTU5QMXJUMTBudUE?oc=5",
@@ -3597,18 +3609,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWlJ5dlhnNzRUalZQUkdKSW5UVHpsWnVzY2x4UlM2QzJKOWYtUUM1OVVBNlUzWVhLb2pJOTZLMjZvYmJQa3NjUFNtN3ZjM3pBTmxQaTdqWllyWGExUVJQajhzRmdHQm1zckg4SmVsRU5MT0JSZm81LVE5S0pxX0xWaTcyR2o5MW5SWEZJQ0Z3U3R3aHlsSzVSUDJsSk1mRHh6ODhUS05RV3U4Q1VpRTJVWU15RF95Y0lMQThjcTgyY29HUGFRZGRpQWc2TXFqZw?oc=5",
       "date": "2026-05-22",
       "status": "신규"
-    },
-    {
-      "title": "China Installs World’s Largest Floating Wind Turbine for Deep-Water Offshore Wind Energy - Nature World News",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSURkWTFjRENqNFJZdU1KUG5yeFBHbDVFT3drM2VOWXU3NmNxcmYwTm5za0lZNUtmM2FjRENlRnpIX0hGS1loRjdoSHo5TWxZeTBxcVpGZk5WcVc3TGJlT0JkRnlsNmZGVXRQNjdZNHFvWkFjTlB3TVVPQ0ZmOUlJaHU3TklDRld6UjcwdGJQVlFNVlBfblhkU09qZ0VkWC1rYmFOR2QwRkNsY3AzNnFtWTc3X3ZjV0tlXzl6Szk5X240c1VobC1MLUVXbDV3NUpHSFQzT1lGdkdGUHM?oc=5",
-      "date": "2026-05-21",
-      "status": "신규"
-    },
-    {
-      "title": "California reaffirms its floating offshore wind leadership and 25 GW target for 2045 - Review Energy",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaTNNZjB6el9UeHBDS2hreUFsZWl5MEF4dUxsMEI4MHo4dklYUHg5ZWJSa01PZV9yVEJFLXRXUTlZNDBicWtCdElfc3BZMk9LaWVkVUxCME9McFBMdE9STWM5Z3hjTklQUDZtVGNFelNTLXd0SnZwV0Z1S1ZUOXFQMnFQcEtuakR4UlIxVHZVYTNQeXpSM0YzcDlZSHVQa09DYzEwZ040TFRac0JvMlphblJ3Z3hRSlNhQlZRRTBn?oc=5",
-      "date": "2026-05-21",
-      "status": "신규"
     }
   ],
   "trend": [
@@ -3628,73 +3628,368 @@
       "global": 1
     },
     {
-      "date": "2026-02-26",
+      "date": "2026-01-18",
       "domestic": 0,
       "global": 1
     },
     {
-      "date": "2026-03-23",
+      "date": "2026-01-21",
+      "domestic": 0,
+      "global": 1
+    },
+    {
+      "date": "2026-01-27",
+      "domestic": 0,
+      "global": 3
+    },
+    {
+      "date": "2026-01-28",
       "domestic": 0,
       "global": 2
     },
     {
-      "date": "2026-03-24",
+      "date": "2026-02-02",
+      "domestic": 1,
+      "global": 9
+    },
+    {
+      "date": "2026-02-03",
       "domestic": 0,
       "global": 1
     },
     {
-      "date": "2026-03-26",
+      "date": "2026-02-04",
       "domestic": 0,
+      "global": 2
+    },
+    {
+      "date": "2026-02-07",
+      "domestic": 0,
+      "global": 2
+    },
+    {
+      "date": "2026-02-09",
+      "domestic": 0,
+      "global": 4
+    },
+    {
+      "date": "2026-02-10",
+      "domestic": 13,
+      "global": 6
+    },
+    {
+      "date": "2026-02-11",
+      "domestic": 15,
+      "global": 8
+    },
+    {
+      "date": "2026-02-12",
+      "domestic": 15,
+      "global": 10
+    },
+    {
+      "date": "2026-02-13",
+      "domestic": 28,
+      "global": 13
+    },
+    {
+      "date": "2026-02-14",
+      "domestic": 5,
+      "global": 7
+    },
+    {
+      "date": "2026-02-15",
+      "domestic": 6,
+      "global": 0
+    },
+    {
+      "date": "2026-02-16",
+      "domestic": 10,
+      "global": 10
+    },
+    {
+      "date": "2026-02-17",
+      "domestic": 5,
+      "global": 15
+    },
+    {
+      "date": "2026-02-18",
+      "domestic": 8,
+      "global": 9
+    },
+    {
+      "date": "2026-02-19",
+      "domestic": 18,
+      "global": 19
+    },
+    {
+      "date": "2026-02-20",
+      "domestic": 25,
+      "global": 12
+    },
+    {
+      "date": "2026-02-21",
+      "domestic": 4,
+      "global": 8
+    },
+    {
+      "date": "2026-02-22",
+      "domestic": 7,
+      "global": 2
+    },
+    {
+      "date": "2026-02-23",
+      "domestic": 21,
+      "global": 9
+    },
+    {
+      "date": "2026-02-24",
+      "domestic": 10,
+      "global": 13
+    },
+    {
+      "date": "2026-02-25",
+      "domestic": 11,
+      "global": 12
+    },
+    {
+      "date": "2026-02-26",
+      "domestic": 21,
+      "global": 15
+    },
+    {
+      "date": "2026-02-27",
+      "domestic": 28,
+      "global": 13
+    },
+    {
+      "date": "2026-02-28",
+      "domestic": 4,
+      "global": 4
+    },
+    {
+      "date": "2026-03-01",
+      "domestic": 5,
+      "global": 1
+    },
+    {
+      "date": "2026-03-02",
+      "domestic": 5,
+      "global": 10
+    },
+    {
+      "date": "2026-03-03",
+      "domestic": 16,
+      "global": 14
+    },
+    {
+      "date": "2026-03-04",
+      "domestic": 18,
+      "global": 12
+    },
+    {
+      "date": "2026-03-05",
+      "domestic": 12,
+      "global": 11
+    },
+    {
+      "date": "2026-03-06",
+      "domestic": 17,
+      "global": 13
+    },
+    {
+      "date": "2026-03-07",
+      "domestic": 2,
+      "global": 5
+    },
+    {
+      "date": "2026-03-08",
+      "domestic": 13,
       "global": 3
     },
     {
+      "date": "2026-03-09",
+      "domestic": 24,
+      "global": 11
+    },
+    {
+      "date": "2026-03-10",
+      "domestic": 8,
+      "global": 17
+    },
+    {
+      "date": "2026-03-11",
+      "domestic": 14,
+      "global": 7
+    },
+    {
+      "date": "2026-03-12",
+      "domestic": 9,
+      "global": 8
+    },
+    {
+      "date": "2026-03-13",
+      "domestic": 17,
+      "global": 11
+    },
+    {
+      "date": "2026-03-14",
+      "domestic": 4,
+      "global": 15
+    },
+    {
+      "date": "2026-03-15",
+      "domestic": 14,
+      "global": 19
+    },
+    {
+      "date": "2026-03-16",
+      "domestic": 20,
+      "global": 10
+    },
+    {
+      "date": "2026-03-17",
+      "domestic": 21,
+      "global": 15
+    },
+    {
+      "date": "2026-03-18",
+      "domestic": 17,
+      "global": 14
+    },
+    {
+      "date": "2026-03-19",
+      "domestic": 19,
+      "global": 15
+    },
+    {
+      "date": "2026-03-20",
+      "domestic": 16,
+      "global": 6
+    },
+    {
+      "date": "2026-03-21",
+      "domestic": 3,
+      "global": 4
+    },
+    {
+      "date": "2026-03-22",
+      "domestic": 13,
+      "global": 2
+    },
+    {
+      "date": "2026-03-23",
+      "domestic": 23,
+      "global": 6
+    },
+    {
+      "date": "2026-03-24",
+      "domestic": 16,
+      "global": 31
+    },
+    {
+      "date": "2026-03-25",
+      "domestic": 17,
+      "global": 14
+    },
+    {
+      "date": "2026-03-26",
+      "domestic": 16,
+      "global": 18
+    },
+    {
       "date": "2026-03-27",
-      "domestic": 0,
-      "global": 1
+      "domestic": 19,
+      "global": 11
+    },
+    {
+      "date": "2026-03-28",
+      "domestic": 3,
+      "global": 9
+    },
+    {
+      "date": "2026-03-29",
+      "domestic": 10,
+      "global": 5
+    },
+    {
+      "date": "2026-03-30",
+      "domestic": 23,
+      "global": 7
+    },
+    {
+      "date": "2026-03-31",
+      "domestic": 10,
+      "global": 15
+    },
+    {
+      "date": "2026-04-01",
+      "domestic": 18,
+      "global": 13
+    },
+    {
+      "date": "2026-04-02",
+      "domestic": 12,
+      "global": 14
+    },
+    {
+      "date": "2026-04-03",
+      "domestic": 22,
+      "global": 8
+    },
+    {
+      "date": "2026-04-04",
+      "domestic": 9,
+      "global": 4
+    },
+    {
+      "date": "2026-04-05",
+      "domestic": 13,
+      "global": 0
     },
     {
       "date": "2026-04-06",
-      "domestic": 0,
+      "domestic": 22,
       "global": 3
     },
     {
       "date": "2026-04-07",
-      "domestic": 0,
+      "domestic": 12,
       "global": 11
     },
     {
       "date": "2026-04-08",
-      "domestic": 0,
+      "domestic": 18,
       "global": 14
     },
     {
       "date": "2026-04-09",
-      "domestic": 0,
+      "domestic": 20,
       "global": 14
     },
     {
       "date": "2026-04-10",
-      "domestic": 0,
+      "domestic": 15,
       "global": 17
     },
     {
       "date": "2026-04-11",
-      "domestic": 0,
+      "domestic": 3,
       "global": 12
     },
     {
       "date": "2026-04-12",
-      "domestic": 0,
+      "domestic": 9,
       "global": 3
     },
     {
       "date": "2026-04-13",
-      "domestic": 0,
+      "domestic": 17,
       "global": 14
     },
     {
       "date": "2026-04-14",
-      "domestic": 1,
+      "domestic": 15,
       "global": 11
     },
     {
@@ -3795,7 +4090,7 @@
     {
       "date": "2026-05-04",
       "domestic": 16,
-      "global": 11
+      "global": 12
     },
     {
       "date": "2026-05-05",
@@ -3864,191 +4159,191 @@
     },
     {
       "date": "2026-05-18",
-      "domestic": 23,
-      "global": 10
-    },
-    {
-      "date": "2026-05-19",
-      "domestic": 40,
-      "global": 11
-    },
-    {
-      "date": "2026-05-20",
-      "domestic": 11,
-      "global": 15
-    },
-    {
-      "date": "2026-05-21",
-      "domestic": 13,
-      "global": 15
-    },
-    {
-      "date": "2026-05-22",
-      "domestic": 15,
-      "global": 16
-    },
-    {
-      "date": "2026-05-23",
-      "domestic": 13,
+      "domestic": 24,
       "global": 12
     },
     {
+      "date": "2026-05-19",
+      "domestic": 53,
+      "global": 22
+    },
+    {
+      "date": "2026-05-20",
+      "domestic": 14,
+      "global": 18
+    },
+    {
+      "date": "2026-05-21",
+      "domestic": 12,
+      "global": 13
+    },
+    {
+      "date": "2026-05-22",
+      "domestic": 16,
+      "global": 13
+    },
+    {
+      "date": "2026-05-23",
+      "domestic": 9,
+      "global": 10
+    },
+    {
       "date": "2026-05-24",
-      "domestic": 11,
-      "global": 6
+      "domestic": 5,
+      "global": 3
     },
     {
       "date": "2026-05-25",
-      "domestic": 4,
-      "global": 5
+      "domestic": 5,
+      "global": 4
     },
     {
       "date": "2026-05-26",
-      "domestic": 10,
-      "global": 5
+      "domestic": 25,
+      "global": 11
     },
     {
       "date": "2026-05-27",
       "domestic": 19,
-      "global": 10
+      "global": 7
     },
     {
       "date": "2026-05-28",
-      "domestic": 15,
+      "domestic": 16,
       "global": 10
     },
     {
       "date": "2026-05-29",
-      "domestic": 15,
-      "global": 14
+      "domestic": 13,
+      "global": 18
     },
     {
       "date": "2026-05-30",
-      "domestic": 15,
-      "global": 13
+      "domestic": 1,
+      "global": 6
     },
     {
       "date": "2026-05-31",
       "domestic": 5,
-      "global": 6
-    },
-    {
-      "date": "2026-06-01",
-      "domestic": 9,
       "global": 3
     },
     {
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "domestic": 10,
-      "global": 8
+      "global": 5
+    },
+    {
+      "date": "2026-06-02",
+      "domestic": 12,
+      "global": 7
     },
     {
       "date": "2026-06-03",
       "domestic": 13,
-      "global": 17
+      "global": 19
     },
     {
       "date": "2026-06-04",
-      "domestic": 7,
-      "global": 11
+      "domestic": 10,
+      "global": 13
     },
     {
       "date": "2026-06-05",
-      "domestic": 9,
-      "global": 11
+      "domestic": 8,
+      "global": 9
     },
     {
       "date": "2026-06-06",
-      "domestic": 11,
-      "global": 8
+      "domestic": 4,
+      "global": 5
     },
     {
       "date": "2026-06-07",
-      "domestic": 6,
-      "global": 2
+      "domestic": 5,
+      "global": 1
     },
     {
       "date": "2026-06-08",
-      "domestic": 7,
-      "global": 2
+      "domestic": 18,
+      "global": 5
     },
     {
       "date": "2026-06-09",
-      "domestic": 18,
-      "global": 11
+      "domestic": 22,
+      "global": 13
     },
     {
       "date": "2026-06-10",
-      "domestic": 18,
-      "global": 7
+      "domestic": 15,
+      "global": 11
     },
     {
       "date": "2026-06-11",
-      "domestic": 15,
-      "global": 12
+      "domestic": 18,
+      "global": 10
     },
     {
       "date": "2026-06-12",
-      "domestic": 17,
+      "domestic": 18,
       "global": 14
     },
     {
       "date": "2026-06-13",
-      "domestic": 16,
-      "global": 12
-    },
-    {
-      "date": "2026-06-14",
-      "domestic": 10,
-      "global": 5
-    },
-    {
-      "date": "2026-06-15",
-      "domestic": 14,
-      "global": 3
-    },
-    {
-      "date": "2026-06-16",
-      "domestic": 18,
-      "global": 14
-    },
-    {
-      "date": "2026-06-17",
-      "domestic": 17,
-      "global": 13
-    },
-    {
-      "date": "2026-06-18",
-      "domestic": 18,
-      "global": 18
-    },
-    {
-      "date": "2026-06-19",
-      "domestic": 18,
-      "global": 12
-    },
-    {
-      "date": "2026-06-20",
-      "domestic": 16,
+      "domestic": 5,
       "global": 7
     },
     {
-      "date": "2026-06-21",
-      "domestic": 13,
+      "date": "2026-06-14",
+      "domestic": 14,
       "global": 4
     },
     {
+      "date": "2026-06-15",
+      "domestic": 15,
+      "global": 8
+    },
+    {
+      "date": "2026-06-16",
+      "domestic": 16,
+      "global": 13
+    },
+    {
+      "date": "2026-06-17",
+      "domestic": 21,
+      "global": 7
+    },
+    {
+      "date": "2026-06-18",
+      "domestic": 22,
+      "global": 26
+    },
+    {
+      "date": "2026-06-19",
+      "domestic": 24,
+      "global": 14
+    },
+    {
+      "date": "2026-06-20",
+      "domestic": 7,
+      "global": 4
+    },
+    {
+      "date": "2026-06-21",
+      "domestic": 4,
+      "global": 2
+    },
+    {
       "date": "2026-06-22",
-      "domestic": 11,
-      "global": 5
+      "domestic": 22,
+      "global": 8
     },
     {
       "date": "2026-06-23",
-      "domestic": 27,
-      "global": 13
+      "domestic": 17,
+      "global": 6
     }
   ],
-  "latestReport": "<html>\n<head>\n    <title>신재생 에너지(풍력) 산업 분석 보고서</title>\n    <meta charset=\"UTF-8\">\n</head>\n<body>\n    <h2>신재생 에너지(풍력) 산업 분석 보고서</h2>\n\n    <h2>주요 이슈 요약</h2>\n    <ul>\n        <li>\n            <b>국내 풍력 발전 프로젝트 추진 및 과제</b>\n            <ul>\n                <li>해상 및 육상 풍력 발전 프로젝트가 활발히 추진되고 있으나, 환경영향평가, 주민 수용성, 높은 발전 단가에 대한 논란, 전력망 연결 문제 등으로 인해 사업 추진에 난항을 겪고 있습니다. 특히, 전력망 '알박기' 문제와 비현실적인 해상풍력 발전단가 목표가 지적되며 제도 개선의 목소리가 커지고 있습니다.</li>\n            </ul>\n            <b>관련 기사:</b>\n            <ul>\n                <li>한림해상풍력, 국내 해상풍력 선순환 모델 제시</li>\n                <li>안산 풍도 해상풍력 발전사업 환경영향평가 ‘변수’</li>\n                <li>[단독] \"국민 도움 안 돼\" 신안우이 해상풍력, 내부 반대 있었다 [비싼 바람 ①]</li>\n                <li>‘알박기’에 묶인 전력망… 40%가 해상풍력</li>\n                <li>(기자의 눈) 해상풍력 발전단가 150원은 비현실적 목표</li>\n            </ul>\n        </li>\n        <li>\n            <b>풍력 산업 기술 개발 및 인프라 역량 강화</b>\n            <ul>\n                <li>국내외적으로 풍력 발전 설비의 운영 및 정비(O&M) 기술 교류와 전문 인력 양성에 대한 관심이 높습니다. 데이터 기반의 해상풍력 개발 분석과 부유식 해상풍력 등 새로운 기술 융합 시도도 활발하며, 국내 기업의 지속적인 투자를 통해 기술 자립도 및 경쟁력 확보 노력이 이어지고 있습니다.</li>\n            </ul>\n            <b>관련 기사:</b>\n            <ul>\n                <li>한국동서발전, 풍력발전 운영·정비 기술교류회 개최</li>\n                <li>비전플러스, 데이터로 해상풍력 개발 전 과정 분석한다</li>\n                <li>Global Airborne 풍력 터빈 상위 25위 시장 크기 보고서 2035</li>\n                <li>동서발전, 국내 최대 규모 국산 풍력 운영 경험 공유</li>\n                <li>세아제강지주, 세아윈드에 711억 투입…혼시3 해지 딛고 정상화 승부수</li>\n            </ul>\n        </li>\n        <li>\n            <b>글로벌 풍력 시장의 정책적 변동성 및 확산</b>\n            <ul>\n                <li>미국에서는 트럼프 행정부의 풍력 리스 취소 및 매입 움직임이 지속되며 정책적 불확실성이 커지고, 이로 인해 풍력 산업의 투자 환경이 불안정해지고 있습니다. 반면, 대규모 송전망 구축('선지아' 프로젝트)과 PPA(전력구매계약) 확산(아마존의 독일 PPA) 등 시장 확대 노력도 이어지고 있으며, 유럽은 에너지 안보 차원에서 해상풍력의 중요성을 강조하고 있습니다.</li>\n            </ul>\n            <b>관련 기사:</b>\n            <ul>\n                <li>Trump Offshore Wind Buyout Deals Grow to $2.5B, With More Tumult</li>\n                <li>AI 시대 전력 고속도로 열렸다…美 초대형 풍력 송전망 '선지아' 가동</li>\n                <li>아마존, 독일 최대 해상풍력 PPA 체결…겐나커 600MW 전력 구매</li>\n                <li>Legal, project buyout whipsaw leaves US wind industry in limbo</li>\n                <li>What Europe’s energy dependence really costs, and why offshore wind matters</li>\n            </ul>\n        </li>\n        <li>\n            <b>풍력 산업의 경제성 및 경쟁력 제고 요구</b>\n            <ul>\n                <li>세계 1위 풍력 기업의 주가 하락 소식에서 보듯이, 풍력 산업은 반도체 등 다른 산업 대비 투자 매력이 약화될 수 있다는 우려를 안고 있습니다. 발전 단가 현실화와 정부 및 사업자가 공유하는 표준원가모델 마련이 시급하다는 지적이 제기되며, 산업의 지속 가능한 성장을 위한 경제성 확보 방안 모색이 중요해지고 있습니다.</li>\n            </ul>\n            <b>관련 기사:</b>\n            <ul>\n                <li>반도체에 밀린 세계 1위 풍력기업…주가는 '반값'</li>\n                <li>(2026 풍력학회 춘계학술대회) ‘정부와 사업자가 공유하는 표준원가모델 마련 시급’</li>\n                <li>미국, 태양광·풍력 막으면 전기요금 최대 6% 오른다</li>\n            </ul>\n        </li>\n    </ul>\n\n    <h2>기사 목록</h2>\n    <h3>[국내 이슈]</h3>\n    <ul>\n        <li>2026-06-23: ‘알박기’에 묶인 전력망… 40%가 해상풍력 - 세계일보 (<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZRnNwdE9WYXdFYUtJNGNTWEszaWR5QVlvSlIzcU9lRnhrRjgxVGZkTEFPVHlNZjViWkl6UVBobkpoYzFMWnhQOC10WkJjUUdXd0ZvOE5yeE3SAVRBVV95cUxPeHFHUXlsYmxYaG00Wk9vOUw4WVF5LWZTXzZCSkk4VlplcGpGa2pZM3drbWdSNGZ2ZjE0MGVtNFdPZE1Dakc3QmJKc1VUam5GSko0c1Q?oc=5\">링크</a>)</li>\n        <li>2026-06-23: 비전플러스, 데이터로 해상풍력 개발 전 과정 분석한다 - 일렉트릭파워 (<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pRmRXUWtaenhNZ0VRY2ZqR2RUMHR5OE9VcDJYa0xqSUZsTjNIektaYW5jbTNmUW01X2txZFdldzdNMWVFZ1JETnB3V3pwcVF6Vy1RUjVaOF9ySndodmtCT05JaUI?oc=5\">링크</a>)</li>\n        <li>2026-06-23: (2026 풍력학회 춘계학술대회) ‘정부와 사업자가 공유하는 표준원가모델 마련 시급’ - 전기신문 (<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBpbFB4Z1dnTEhxVUVUUkFZZHN0RW9BYXlYX3c5anRYTEpOUnJmZVh0b2F0VkxnX3dzUnB1RTBwUGhGU2V0TDlXd2lJSHdDMjhqanRtRk5WYXFRam1MOExGaWNuUjRwbFpTOFFiSNIBcEFVX3lxTFB2TWdMMDAtbXdlV3hZQUJfejg0LXpoVmlGWlFVZEx4VzZQRGdHcVN1VHQzdUlqalI1c1lMejVwcXNrcklFQXdMMzR0dHlBVDh3cXQ5bFNNdUNlSmdsRTNZYk5ZZzZnNGpoNlNGYU1xLUY?oc=5\">링크</a>)</li>\n        <li>2026-06-23: (2026 풍력학회 춘계학술대회) 지속가능한 도약으로 풍력 ‘황금기’ 연다 - 전기신문 (<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBOUmphOHZxVnhla2FaNm02eXh2WENhZnA0R2MxaGUxLVF5bEtQZE5tdGtVYmJvbE5vTjRUMVlBNnVDYkN3eXFKaXEyNjNka1RpclNkX1ZYUkpEbzdZNmZ3OVY3LVNGczJ0TUxaUtIBcEFVX3lxTFBRZHk4em9ZRG1yQk02OUNzV2tqQXhaMzBGMEE2Nl9YbGtwUHQ1cUt3Y1FwbHBaQi02eWlWQndiOGpuR1FWVVc1X2FkRWYyUnM4MXBKanQ1YWVDWU1OUzZMZ3p4by1MTFpFcFlIRXowekc?oc=5\">링크</a>)</li>\n        <li>2026-06-23: (기자의 눈) 해상풍력 발전단가 150원은 비현실적 목표 - 전기신문 (<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1zbXVmR29VYmZKbnhwYktYdGRtcGs4OVBYcnlnSi1LNW5oN0lycHpidjBtYTh4eVdoVS1TaVZZM1VWM25vNkx2V1A3WGF0Qm9ObENGSmdEQnpSRGJEOWhyZ3Fzc1lMVHRQNjdTNtIBcEFVX3lxTE1NRTZuUDh4U2gyd1ZfcmFSQlozb2NXTVRDanZxQ0FkTUktY29Ta0ZsZHB5VjAyelVuMjkyMDR2NV9lZURBcUFRTHNMZFY4SExGWjRoa0xZVGJ1NUxKb3hyaEpWZzNwVFc5bzNmZDBaZHo?oc=5\">링크</a>)</li>\n        <li>2026-06-23: [단독] ‘전력망 알박기’ 해상풍력 3GW 용량 회수…관리대상 확대 추진 - 세계일보 (<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlU3VxQ1FRamV5THJzb0hZOFNOemwxOXVnU01INXZjbHhqUENwVjRYOEdmUGQ2eWl4VWVTR1FBYk1BZllQOXpMX1ljaHJHakhpeE5feG1VUS3SAVRBVV95cUxNX1JyT1hmTHZHUXF0aEpwMWFCRFpoREx6V1BDYktBUHZlQ0ktdlBrQWwyc20xb1lWY1NNYXpMYkdsbDR5Y3hxbDhlRkJ0R0c5NkZDT28?oc=5\">링크</a>)</li>\n        <li>2026-06-23: 부산해상풍력발전, 미래세대와 소통 확대…장림초 특별수업 - 국토일보 (<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE96bUZwQVZjOXpsaTRmekpMbDJCNzZ5Q2NKU2ZSZnRldUpxRlBwTFZ1MFNCV0xieEcwUmQ4TXlCWmZmenNLbFFBaThpZXlpN2N6Wm1xUmsxVjJxUTlRaEtjOEJTSQ?oc=5\">링크</a>)</li>\n        <li>2026-06-22: 한림해상풍력, 국내 해상풍력 선순환 모델 제시 - 일렉트릭파워 (<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CR2xzTjlJZlJuRmZtQkNKYW8zRG5vZXZmWWZLanVXTGlYTlpxek1QbTI2eXVBRkFINF9Mdi1HZ291eTNnOGJya2JvajY3WnBJd25KUndxbmVKendxUWVaSGszMXY?oc=5\">링크</a>)</li>\n        <li>2026-06-22: Global Airborne 풍력 터빈 상위 25위 시장 크기 보고서 2035 - Spherical Insights (<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdGFZS09TZjREaVNUQ2RHYWRsejJGcmdkSmVDY0FQaGhOQmRjSllMdlE1YjFHRnNRMjhsUUlXN28ySHFuRzczTWppbklMZmMtS1c5UDVRdlRTbDNLWlNjSHJQMUlfYUNNZ1p3X05hOGRFVVlIX1NYVkh4ZnlCQ3lWckN3aEctbTVSSTYxdUJQYVNxdTdTM0FzblMyM2Z1dTYzRmZJY0s3WE00cDlyWGJCMkJnTzVDd2dTeFpGTHAtNDcyMm9HalI2Um5ta2ZUS3lBMmphcg?oc=5\">링크</a>)</li>\n        <li>2026-06-22: 한국동서발전, 풍력발전 운영·정비 기술교류회 개최 - 울산종합일보 (<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE00WDFNOThXbHdhNTlLZmJPVkpqbklBN0swVXlsUEY2djhwMmcwZzVVdFB2MlNsSnFzWWNFQlVLTENfbVdPWTRCclI4RWhwcnZRdFpPQktiRkJUREVKWTR6LUFfUndCWl9HdUZ0bzdn?oc=5\">링크</a>)</li>\n        <li>2026-06-22: 안산 풍도 해상풍력 발전사업 환경영향평가 ‘변수’ - 경인일보 (<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Mb09nWjdlUTAyZ0ctcTVwazVvdjBqQjdaX1RYWVd4STZTQnNJOGdBTkwyYWNNeDYyVDJWRHFJX2NLdEdBeW1OYm92eEtxWURObVE?oc=5\">링크</a>)</li>\n        <li>2026-06-22: 김천시 어모면에 풍력발전단지 조성 - 뉴데일리 대구경북 (<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE50OHdwS0NKeXJmLVY0akJ5LS12dmZoaEtJMF9Ua3FTT0JJOEhWR1RkNktFeUJidTNMTjBUdTJWaUFYVXNCZlpCM0dPT2d5UkhETzRVcXRTQmxzaFV6cTVqakcwdTkwVFR1MFhmM2pqWEdvMkJJMFAwRjFR0gF_QVVfeXFMT0otT1hTRE4yaWdJYWdudjhwVTZobVgxSkNrT1AxZk1MVU9OT21uNEljeUZsVXM5dW1wR3dVYnljOEgzZXJoc1FpN1c1SGJXS0xMb00tdS1VcmdiV0plVl9IVE5zOWlPWWUzeUpSekh5NnBKNkVlZ2FBUDJmMEpMOA?oc=5\">링크</a>)</li>\n        <li>2026-06-22: [단독] \"국민 도움 안 돼\" 신안우이 해상풍력, 내부 반대 있었다 [비싼 바람 ①] - MTN 머니투데이방송 (<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ST0NjamtGU2hhV0lsZERIVmF4Z2U0N0RfQzNLWnlId3hXTXVXdDlRRkczdmhyY0EzM1JYZ0xLbk95ZkY5dmpVdzlGZHlqMHlncUNIYnVyU3Q2c1pOY01DOV9YMTU?oc=5\">링크</a>)</li>\n        <li>2026-06-22: 반도체에 밀린 세계 1위 풍력기업…주가는 '반값' - 리드경제 (<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE8xS1FPcFd3ZFZCNGQ4WFdNRVNlTnlWYldfdzRkMlJUU0FjV0lzS0x1NlZOQkRUbDRfX0xqSXE4dEllVGRmNzVMTmotTUJMOEdIc2ZxNmJpc1NpVUxQZVZJcXpiV2pnODBfcERIcHVfWQ?oc=5\">링크</a>)</li>\n        <li>2026-06-22: 세아제강지주, 세아윈드에 711억 투입…혼시3 해지 딛고 정상화 승부수 - 글로벌이코노믹 (<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxONW5WYXRJdTk2S09hTXhEY0psdTBMaVhUVU4yTmxSQXBIUGp3TjhGaG1pd2xuRHlPRzNLajd3N3VWczhycFk0bDFvMEFqVDVrWkpMSndsQWVLOGRWajJvYzZ6Wl9DRFVhVUZ2Y0VKSENITGkyNWlJenV5ci1wdWtBSmFEdTdKUQ?oc=5\">링크</a>)</li>\n        <li>2026-06-22: 동서발전, 풍력 운영 전문인력 양성 위한 기술교류회 개최 - 연합뉴스 (<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aSkxRZU4xN0NsUXMxQjZjb2Izazd4YWJtaXVTSUFVdmVNU1VvOU5sSGtFNXdCbDB3ZVQyejhOY01teEtVT3daTnpzZVhDSlBTcUdWT0UtY2c4enfSAWBBVV95cUxOSGlCMnI0OGt0M3djTDZkZ0x5aW1HajdhV25sanpCMk5WcUhDU2Mxb0lEc3gydFhOQkF0UkRCa2pfMG9sNmNVRGN3elFjMTJzNFBQdm93OC1BM2E4eDlCd1I?oc=5\">링크</a>)</li>\n        <li>2026-06-22: 동서발전, 풍력 발전설비 운영·정비 기술을 공유하다 - 에너지데일리 (<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9FZkNqVlhIc3p6TkZDTk9pMGpBTmRmWVVCdU04dk0wUGM0cXZ6bDlZbkRBXzNQR0p3cHhlLW5mZGx2NlQ4TFVaNGZNZ2Y3VHV4Z1l4bkp4c0VDTjVFR2ZKby05Z2l2QTJVeTgzR3VTQkNKZw?oc=5\">링크</a>)</li>\n        <li>2026-06-22: 동서발전, 국내 최대 규모 국산 풍력 운영 경험 공유 - 에너지신문 (<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9xN0c0QzFEQlpkajNydnp0U2FaM1JNX3ZtaDFqSEotTHhPNUhwbXB0aHlBUEI5SVBWcl9XQ0wzWk5QTnZsVEU0c3Mtdy0yckh5T0dFdzBrTGJhVUxUeEJUcHFVcXdlXzhUbnpNeE8wdXVKZw?oc=5\">링크</a>)</li>\n        <li>2026-06-22: 동서발전 포항시 땅에 2개 풍력발전사업… 헐값 대부·환경파괴 우려 - 영남경제 (<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4Y1MxOTNrbk1weXpZLXhicGFmb1hzQml0ODVZLUtTZk82S2tLYXJwNXE2VlF5b0M3cWJSWGcyV3JSU0xrbV9OX2tOODNFTnBYaV8tSGk0bDh5VUxKMzRsZnpQMGdMUGM?oc=5\">링크</a>)</li>\n        <li>2026-06-22: 동서발전, 풍력발전 운영·정비 기술교류회 개최…전문인력 육성 강화 - 팍스경제TV (<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92OThGc21JelNXX2xHd243QmRlMS1ITmc3R01wa3VHX3l0Y21kVmFRWkoxZjNnN24wT19mcXBqX1Z0R25OSGYxUldhVHNMR3lqTHJac1FqQ0pyWVp1NzVJM2ZvaXN0ZXc?oc=5\">링크</a>)</li>\n        <li>2026-06-22: 동서발전, 풍력 운영 전문인력 양성 위한 기술교류회 개최 - 에너지코리아뉴스 (<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFAwb0J5SlFoQzZpTWtXS3MtbzU5Uy1KNW9nbGdVQi1pVmhWQXhlMjdUTkozUmtBYUxTaTBBQkNnUW9iOUlTbndXajZZUzNHM0R0VW0yX1RzQ2M0S2kzelltRE0xSGhLOXBCV2FXM3dNLXQ?oc=5\">링크</a>)</li>\n        <li>2026-06-22: 한동평대 해상풍력 본격 추진…발전사업 허가 취득 - v.daum.net (<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wbGd0QUFzcXFlbGQ3b2ZfZHdRNTBjMFFEOEU4Zm5nbncyb00wQTE3MlczcGdQY05sN0ktSW5hbHgzNkg3V2c?oc=5\">링크</a>)</li>\n        <li>2026-06-22: 동서발전, 풍력발전 현장 기술역량 강화 방안 논의 - 디스커버리뉴스(DISCOVERYNEWS) (<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE82RXNpZ1p3X0ltY3gyZnc3SzRjaDV5eFJSVi1ZUjVFOUt2a1ZUd3c5WWo0dUNyTmFnSzZETUg2R0VWcmxHNnlIbmxUNmVRVDhPY2FoaEo1UWlYRC1zQlZYNGlnZ3FFdVlHem5wMmRoX3FtUQ?oc=5\">링크</a>)</li>\n    </ul>\n\n    <h3>[해외 이슈]</h3>\n    <ul>\n        <li>2026-06-23: Blending Marine and Energy Technologies for Floating Offshore Wind - POWER Magazine (<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQdGJVdDNZc2JiNXlfTm00OW1TcG1fZ1p0MHl2cmRJX0xOWEU4QThWVUl2dk9oWHNtVE00QldVUUVVLXNBaXNwOHFFa0JKVk9RWlpKbHp6VUkyT0t1LWVmVy1SOUFaQkxac0lhYzh3VlNjbVJmX2FVOVpCWW1Deng0TUZJWEIxTmMyOWZDMVZPX0lZS01XTzgw?oc=5\">링크</a>)</li>\n        <li>2026-06-23: Indiana natural gas project set to receive funding boost after federal offshore wind cancellations - Indianapolis Business Journal (<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXFoQjhMbTVsZm5TTTloVl9TbmtpNURDZlROOUF3UEsxdXZZWG0xU2J0dDVheDhOWm5ZeHNDQ1VhZkZiNGFfN0NlUkEwX1NrYko4WkR6U1VnVE1mbVVwamtmTnFOZ3pLd1RSUVRWU0p3U0F3dzRMb2VkX1VTc2ZPa0NSTlF1SHhGNHIyakIxZGZrajh4YW9PV2Z3NDBqcEhyRHktVGw3OWxHbFY4UnR2azlYa01vSWduTVE?oc=5\">링크</a>)</li>\n        <li>2026-06-23: GUEST OPINION: Now Is the Time for Community Participation in Offshore Wind Terminal Planning - Lost Coast Outpost (<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOX09kcm8xQnJJb3czVUxjRVNZOF9WbTRnSXVxdWFTMDlaRHBrRVVsX0g1T2ZWLW1TY0Z0NDIxTXlLVGpPdS03dlFjT0FGUE0wREdhLXk0OVlaNGdMY0g1MGZJOGhIUHRwZ3k0b09HRFdEVFdtdVNUb3ZKRExfYWRwNy1leFdONUN6T0NSb3owZ0YzQ29z?oc=5\">링크</a>)</li>\n        <li>2026-06-23: Legal, project buyout whipsaw leaves US wind industry in limbo - Journal of Commerce (<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNWjRNaFlTUk9UVVRoSndRNWNSa0hRbE0tVWtDR2g2Uk5BVWdRa3pKcXZIaHU3ZFFYeENQc3dHOWZneHdOdDkwdXlGOHBKTjZDLU5ISzFpcm9JMVZFYWM4WTB0bzU4X21tODkwVENjaFl2ZjhuMUxCSFBCaExkMEFXaVZiODJ5Mkt1R2NyVzNHR0RmbENVSGNWbnhaUWVmdw?oc=5\">링크</a>)</li>\n        <li>2026-06-22: Trump Offshore Wind Buyout Deals Grow to $2.5B, With More Tumult - Engineering News-Record (ENR) (<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPa09DWjZuQy1rM1JWXzc3bEZNekJ2UDZPbnczVVd0YkF5NE5qbVhuQW5uZmIyd0owS0ZQQWRjN3F5a3Z5RlFGYWhfTEZNcWR1XzNINTQ2eWVqWkVmRXFJZkRkSnFGMmVwUGVFZVMwMUpJZUNhQk53aVcxYm5ScTRJTnRMa2VwaS1DVHl4eTUzbXFlU2NNTmxRUmFmOVU?oc=5\">링크</a>)</li>\n        <li>2026-06-22: 아마존, 독일 최대 해상풍력 PPA 체결…겐나커 600MW 전력 구매 - 에너지안전신문 (<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VeWlOZzV6dzlsejRFR3ZmZUFtV3NmWDJsY2otY2VDWVlFOFJ1RGNkOGUtdEN6MG1jOG8zM3RMaVV6dWR1QjVLTW9vN0lTc1pHRHZnd2V2eDVJdjljZVo4NFdVXzA?oc=5\">링크</a>)</li>\n        <li>2026-06-22: Skyborn to sell stake in 976-MW Gennaker offshore wind project - Renewables Now (<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQbGxUYlNieHg0Uko0MU1ScThGVWNlemZJaS1CM1EwU1R1Qmh5VWpQaFh2akoydTdGN24zSG1QZC1OeURSUTZLMTllY1E4YVgwYnF6NHUwN0hoVUowTnpwaTlTS0xMV0dWWl9EVzRiTG5lc3dNemo1NXRnOUxpMzRhZEVERjN4YmZ4UmtZaHBCdXFfa0ZGT2JvY2h1LVk1MmszWGFmNg?oc=5\">링크</a>)</li>\n        <li>2026-06-22: It's \"empty\" out there, but what is taking shape on the seabed beneath these offshore wind turbines is turning the open ocean into something almost no one expected - ecoportal.net (<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQX2xMajZVQnlZSUtLcTZ3bVpVZ1Nlcy0zTkluWjI0NWtET1lUcXE2UmE1b1RpS21kaWVJX2FQOERPTWZ4YW9KVVl5UXJQV3JNemJYclh5QVpTWW5GVWNWZUI1ekIwYlFqZjBSdXU4WE1Wd09razEzbXNrZXVTNkVzWGtmMHVJUXpJT2FpRw?oc=5\">링크</a>)</li>\n        <li>2026-06-22: Trump administration pays $765 million to kill four more wind leases - WorkBoat (<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTWg3MGltZ0FHaVkwbGN4ejJRMVFsZWt0bDRpN2FqU0s1M0Qxa0k1TElfSVd3T29FdjVuaExGRVNWak1uazRTM3NaMlF5YmdZNWxhdndvb1JqSGJkY3RqNUFUdC1IemdWQkQtNHh4bEhFVm1uQ3FJUmhoVGpySllQODRTS3JSR1lCZWs5RXhaa0hyQUs2X2Rzc2hhLXEtZw?oc=5\">링크</a>)</li>\n        <li>2026-06-22: 노르덱스 그룹, 미국서 484MW 규모 풍력 터빈 수주 - Investing.com 한국어 (<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE41dXdETjlNbW03eTRUY1NyQmZRZmZOaUtQM28tT0hQd2lrZXVHRUdjSTVfc1FvNWNPUTBxMjFOQVo3TFYzUFhleVlpLThiMERVd0RvWmwxNllzaktVeDlYSXdkWFljMzByLUk3UzlORmxVQ0w5SDM0?oc=5\">링크</a>)</li>\n        <li>2026-06-22: AI 시대 전력 고속도로 열렸다…美 초대형 풍력 송전망 '선지아' 가동 - 네이트 (<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OeHM4dWw3M1huX3hfaXptNHFhLTNfS2xhY0xrUkx3bVNTLWJmMXVyMXpRcUVlSnhwMDYyczdQdTlrTHoyXzRNWV8waVc1MTFMNmZV?oc=5\">링크</a>)</li>\n        <li>2026-06-22: Report Explains Value of Offshore Wind to PJM Grid - RTO Insider (<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEZwTVl2cXFmY3MxYk9aY3R4ZXE2dWxleGRuc09HRmgzcjROZEJ3YUdyTF9ybzlzSW1nWTJGVS1HUTNNRUFEd1lZVjJXRjhaZmdEdlMwMlJnYXh1bDNfS3YySXZrOG91Y0RxWE1HRjBINkNvNkRRVklvNzE1U0l0cTF1dGRyNW8?oc=5\">링크</a>)</li>\n        <li>2026-06-22: U.S. Settlement with Invenergy Continues Trump's War on Wind Powe... - Industrial Info Resources (<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPcXFHcFdqS0VzV3d1X1hZU2w4RmNLanBLNTFtRFVmVEJ1c0tHM0NaQkhDWjhWZXQyMXJVUzRBQkJaNmo0QVdGQkF3YnlFbU85dTNJNTFBMXgxdy0yUlhtTmhPbmExdEQwNmpoRmY1VEtZaF9kLUhKOFM3anF5RnF6djNZeFdXZEhmSHhCUFdhRnlFNFg1aHJGN0N0NnVMUFBrajVXWGZfX2tDRlBoMzZwc3p1UVdKdw?oc=5\">링크</a>)</li>\n        <li>2026-06-22: What Europe’s energy dependence really costs, and why offshore wind matters - DredgeWire (<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOaVlzcGpHSDlHenpGUHdNZ2ljaVJvb253YmctNmdUalYzSnBpeE9lYlMtZVdYSF9EOVRqSkNDQkQ5dzc5WVZuNW9sRFB1MHZmREcxSEIxOTlaTWxNN0lHOG8tYWh4RzFUVmVIb1Z4bkRGQ1RsTVFmZHYyVEhjZzhpQkVDblRxTFZZQWdpdGxQU2UxSW8weHJlTUtOVEU5Zw?oc=5\">링크</a>)</li>\n        <li>2026-06-22: 미국 최대 풍력발전 프로젝트 '선지아(SunZia)' 완공 - ESG비즈니스리뷰 (<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBUMHRDNDYzR3dYUnlhOGwwUkNSYktrY041UGlHMVNOaUF5cjNxVVhEZDU2SmluZld2THNjYUhxTWZwUmVrTW1JUmJzSmxNTFQtODFvV0tJeGVfekk1cGhZVGhHakQxQXZsT0VSOElLYTg2anM?oc=5\">링크</a>)</li>\n        <li>2026-06-22: Montrose Offshore Skills Academy to support offshore wind workforce development in Scotland - Windtech International (<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUUR4bEpGcG0yQ0hBdmsxczV5ZGJ2SHM1cWFBWDkzTkF2VVVMS0g4cGpKeGZBZThrZ1dXUTladGZLc3doaU5HRXcydVAzSVdva3VpQ0Z1OVZ6cDVocWVuMlFuaVdNWmdaTTFoUHkzQm5xR3RLT0k0R2tVd0NzWVl5QTIxTE14QVFIMXlocjFUa2JjZl9SMEdZTURFOEdtYl96aGRxbWp0Ymk4Smk1VHRiSE5Bbkd1bjB2UkEtcHV5RzlXM3k0czZSUWRfeDhNajVvTU5QMXJUMTBudUE?oc=5\">링크</a>)</li>\n        <li>2026-06-22: 미국, 태양광·풍력 막으면 전기요금 최대 6% 오른다 - AI타임스 (<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFAwSGltYVJfVDJwem1lOGJCOXA2ZDhBbEhmWmJEMlVCMURsYjB6U3ZQTklMTzhRZ2M3bGRsdllQd19VZW1BM0U5Zi1kNGdjQWpfaVdsQlJfVzN4dV9ENUdQQWFlQ1h5dW5MMEE?oc=5\">링크</a>)</li>\n    </ul>\n\n    <h2>산업 시사점</h2>\n    <ul>\n        <li>\n            풍력 산업은 국내외적으로 정책적 불확실성, 높은 발전 단가, 전력망 연계 문제 등 다양한 도전에 직면해 있습니다. 특히 미국 트럼프 행정부의 풍력 리스 취소와 같은 정책 변화는 글로벌 시장에 큰 변동성을 야기하고 있습니다.\n        </li>\n        <li>\n            그러나 동시에 기술 개발(데이터 분석, 부유식 해상풍력), 인력 양성, 그리고 효율적인 운영 및 정비(O&M)를 통한 경쟁력 강화 노력이 지속되고 있습니다. 아마존의 PPA 사례에서 보듯, 기업들의 재생에너지 구매 의지는 시장 확대의 긍정적인 신호입니다.\n        </li>\n        <li>\n            국내 풍력 산업은 환경 영향, 주민 수용성, 경제성 확보 등 복합적인 과제를 해결하며 지속 가능한 발전 모델을 모색해야 할 시점입니다. 이를 위해 표준화된 원가 모델 마련과 유연한 전력망 확충이 필수적이며, 사회적 합의를 위한 적극적인 소통도 중요합니다.\n        </li>\n        <li>\n            장기적으로는 에너지 안보와 탄소 중립 목표 달성을 위해 풍력 발전의 역할이 중요하나, 단기적인 외부 요인과 내부 과제 해결을 위한 면밀한 전략 수립이 필요합니다.\n        </li>\n    </ul>\n</body>\n</html>",
+  "latestReport": "보고서 생성 중 오류 발생",
   "lastUpdated": "2026-06-23",
   "keywords": [
     {
