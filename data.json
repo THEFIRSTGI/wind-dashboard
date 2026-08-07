@@ -1,13 +1,121 @@
 {
   "kpi": {
-    "total": 4363,
-    "domestic": 2507,
-    "global": 1856,
-    "todayNew": 21,
-    "todayDomestic": 4,
-    "todayGlobal": 17
+    "total": 4396,
+    "domestic": 2525,
+    "global": 1871,
+    "todayNew": 6,
+    "todayDomestic": 0,
+    "todayGlobal": 6
   },
   "domesticNews": [
+    {
+      "title": "에너지 취약가구에 풍력기금으로 요금 지원 - 제주의소리",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwU2JaRlhoNjlRRmtES0t5MzFnSnpwWVRGV3hlRHgwVkh3WmpXYzBockI2NVg1S0lxVnk3SlBaVlZCY2FUWm96ZmZJcFYtYVlpaEFGSkllZHdCQnR4M2xqcUQzQUlRb0tYS1Rv?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "[은행 Talk Talk] 우리銀, 전북 해상풍력 산업에 4000억원 지원 外 - DealSite경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sWi1aZVFuRlhtUUR4dng4c05DZ2JOY2NIR2M0Y1RKUjhsWHgzQWdTc1BoRzB1V3lzRFVZcXVRakw5aUNhcWxwU3VFOXdjdzNSMGRpUEpR?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "우리은행, 고창해상풍력에 4000억원 금융지원…지역산업 육성 나서 - 인더스트리뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUGdHandxdVBnTFozNEtwc2Ywc3FKMEYyN2lQMzVfbnRZcTUzRmM3U0dvdHFVbmZkT0dMei11dmFfdEVhN1hBU05DZURjZERPVkh1dzNQejRoQWJIanh4Skx0b0JKZk9mcGd6UTc3M2Z6UQ?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "우리은행-신협, 전북도·고창군과 4천억 규모 고창해상풍력 발전사업 지원 MOU - 파이낸셜신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSd3ZkMnpBclZQYkJoN21PMWgtdzBkdUFPV05XcE56YVhfSXBOdGtBWW5NMFhpQmFVaVVmZU5PajhCU0tudXVaSWZyOFF2X2xDSVExSXY2TkpORTJTNmpGd1VobGxJY3F2MGdj?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "우리은행, 4000억 고창해상풍력 금융지원…전북 첨단산업에 전력 공급 - 재외동포신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Mc3NDNmhITG1wcWNCbmMtMTJRX2lYOS03US1pNHpVWEU0NVdzRUZNLVhlUUZZYWY3bU51YVJUSFR5WjhuUGljZTNmTUtwb0NaLVFTVkRGaHlsUUhzcEJ6dm9lNkpjWml2bEVXcw?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "[은행브리핑] 우리은행, 전북 고창해상풍력에 생산적 금융 지원 외 - 서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZeXpualN3aVhjZ29uekNhdmNzN2hCTXdoLVRkbll5OGtmSF9CaFRFMzg0ajliTG5VYWc5YWhKZjRKa3dTRGF0RWE0eTVzeGktRXZ0X2VRQTJ3SGlyYml1RXZvSXRuTnRzQWc?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "우리은행, 4억원 규모 고창해상풍력 인프라 구축 지원 - 베이비타임즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtRnZjVmtNVkppem10bmZlWWRHbmh2NWk1NEZva2xtdG5uNlUzcF9Rek85bWY4UjBsQ0pfNmlVOUo4Y2EzRlRBV1RCYzlRTEx6TTdEa2FTb21xVlJMdjkydEJid0thdUswQlRhQw?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "우리은행, 전북 해상풍력 사업에 생산적 금융 4천억 투입 - 뉴스;트리",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSbzBRZ2JpVWNCUWxFTzZNZ1NyaE1FcVY1NVdFLS0yNnN1dlZVZzVRSndtajRBUnB3Rkk0dVdsdzl3dGhBbWxQSjJjQzVreWZMOWNOem9EdzZSNGpj?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "제주도 풍력발전 개발이익, 폭염 취약가구 냉방비 지원한다 - 헤드라인제주",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PMFcyeDJXcXhFa2RTZ1B0SXRVdGNVWXpUNEhYRWFiNmdIYTBvRGJsZ0xIV2J1dGpqSDk3ZG1VQzV5cVZPekgzWXVGeUt0NFNQRW9VTGctN3dOT2tLNElMd0pmUUstVGRPSEpEeklCNXlMX0U?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "우리은행, 전북 해상풍력 발전사업에 생산적 금융 투입 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hd1NxSm1rcGZhdk9fd2dtSDJSR05zeFhseUtIVFBNMWhHVjYwUWZQMEU3aG4ydmZlVHNEc281WWFDa3JCTDBKd0J4SnZrUVgzQl96MlBsX0F3d1J0Z2lYS0wyZw?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "신협, 고창 해상풍력에 1,000억 원 규모 금융지원 - 한국경제TV",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OanNIcVBpRkF1UWxvWUlHNUJpUlNJWnlIWGxkdlR1THp1R0JSbG92ZUMyQkpBSlNFNHV2M3R4Tnl4M1FIUi12OGl0UDJQVmk3SnozSmhLYXFhQmxqZW15ZDE2VldxNHJrbmRWQk1NSnR1LS1kQTBN?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "유니슨 \"국내생산세액공제·풍력 인증개편 수혜 기대\" - ER 이코노믹리뷰",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vSEcwc2Jkck9qVlBtNHl2M0cwUEdreDZtY1F4Mmx5TUhJMER1YXpyNm9VWW1aQ285Vl9SaHZ1Y2NmeERyYkRHMml6WUV0Y2FOVUFOVXY2SG14endHVkFDS1ZCYmNkb0RXc1B6bQ?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "해양수산연수원, 목포분원에 GWO 해상풍력 인증교육 거점 마련 - 데일리안",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONmc3b1BmcnctcUpVMjBIdEFFU3FIZlYwckZYZ0gyUjYwYUtNQVh0bTZZamRxeUxWNXBCdDB5OTZ0MFF3RXU3UFNPWV9MaWZ4U0tJeGdBTEMwMWxlRnlFWkY2bGYtWmVwcExZc24xMmJNWnI0cElmc2syeU5pREpEVUxGZFMxenlNbWQ4bWlCdHpaSXdPSEVPMjRYZ3pHSXRnVEVkTnY3TTVrUTJ6QUNzcTZCZ2Z6aURJZTZhQUhoMUZEcUF3UkF4TllhODNQT3B3aDd1ZFVhTlhjemxKaFVnZExhVnRSRkJpU0ZOWFI2RjZtTjNHRkF3TGF1dkU0Q1c3cTJRSS1BZmNwclNtRFE?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "트럼프 정부, 1조7400억원 주고 RWE 해상풍력 3곳 철회 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwMTgxa0swYUpnNDQyYnRlM0h5ZkZoZXR6TTJuMHNDb21QaWNjUVpFSk9KLVlfYzBmd0pMMFpmY2VZWnVteEhid201Wko4a3UyT3NMMkVxejU?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "제주도 \"풍력공유화기금으로 취약가구 냉방비 지원\" - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oQlRxWW1qTVF2d0lVRUVIY2hXMHp0WlZxdXY3MVdtVFU3SVRmOUxXdllQcWJiT0E1Rlk4dDFoQkh5SzRwd0c4T2JTQ1Y0dHdkc21fOGNoYVo4eERRaWxUR9IBeEFVX3lxTE03QzYzWmUwSmpnUTBRNXp4NGd4ejFzdHEzV0RzYndSbXotVzU0LTJPdEFVME1MQzdHSVA2ZHpuMlJWd0FGeFFxU3ZaSGlwZHVpTHY2V1pvY2VnVVFJSGw0ZmNjWGdpYUhPeDVhT1lJejhiVVRpSlI0bw?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "미국 법원 \"트럼프 정부 풍력 프로젝트 동결 조치는 위법\", 해제 명령 내려 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GbzdMRlVoalRTNnFrTDE2Y3o5bDYyME9oOG95TnhDcV9JOWl6WjhDWk1jTDI5cWpQREk1dnM4NnR1SDNxVjBFN1dyZTRPY25GNUdMQVMyTF8wbEhCRUZpdC0yOUQ2SmlFbllhU0NoelU1M00?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "우리은행, 전북 고창해상풍력 산업에 생산적 금융 지원 - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51YnhEU0NfNXNLRC1rSmdkVlMwYi0zWDNwVzRTTTJtNkUxamFVUThNQ2tuNnhubER2Wm9panAzcWJVaGxKYWNkUWE0YUdSNkRYaWVKRWJVa2tuUkNXLTcwRWNwdmF6aWU2ZEN30gFwQVVfeXFMT05sa2c2Mi1DYVp2LTJ1V0NsZV9RbzhrbF9qOUhLbjg0N1p6b1hlZHFQc3pFU1ktVnRwODNxTHpLNjJJaFo0Skx2VWdGTlRRZjNKOVJmSXZqbGk3cXZZNVdPS3NCS3JfX2t6TDVLbDhIUg?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "산업부, 국내생산세액공제 신설…태양광·풍력 등 6대 전략 산업 지원 - 전기신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oN3dCN1lQQmhRcF94YTJHQmpVUkN4eGJYb1NsZ2JubnZkam9yUVJ2ZXpZLWhycVhMc1A3OVRFcWx0SXE2WXNGYWFIcVczR1FtdHF3M3ZZdnVQc05Dd25LMkM5Z2J6ay1XUHFwVdIBcEFVX3lxTE1mYlJNaTFNWm8ta044WGpjWFpvTG5hNDdxZl9DaVlVZzFYSWpYRmZ3WDBiMWhXTTBTNHRHaU5yV2dzNkI3WlBjMW1WWHd1aDJzcF8wUWZoN1pKdXhDNHFXUmw5S3R6MWc2WmJxTm02QWY?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
     {
       "title": "전북도, 고창 '동촌 해상풍력' 금융지원 본격화…3600억원 투자 - 뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEemRkbnNabTlDR2loMkFoa253c0V5Ym44TVVtSjlpQ0VoOHVYZ2RVNjQ2dFZCWXUxTmF5M0JPWVd5UDB0ZnlldHhkMDdlTE9wdHJQTGtNVWhaZHlH?oc=5",
@@ -1699,117 +1807,99 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Hd2VHcnBkUjhDLVEyZHhJLW5EUHZKeC0xUEZKS2ZUVk5YTkpvYjg3Ymh3T3BRZ0I1TXZqeTd3clpudjFKMk1fYzBCWUU5UnhvOE91WThUSVRTYkpBdlNzS2xpVTBBZ2NlUWs4?oc=5",
       "date": "2026-07-17",
       "status": "신규"
-    },
-    {
-      "title": "[송수윤의 바람경제학4] 신형풍력발전기가 아닌 '에너지인프라 플랫폼' 개발 - 저스트 이코노믹스",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vRVVEeU11eDlUWXN5MGRQLUNsbnlFbmNtQUFSeVRPbGx1cy01aklwX3FDZ0VZdjItOEFDVG50SUxCZFp2ZUtldTlMdnRXODUwanpYc1lNMHRkaXltWWFR?oc=5",
-      "date": "2026-07-18",
-      "status": "신규"
-    },
-    {
-      "title": "신안우이 해상풍력' 착공, 호남권 반도체 팹·AI 데이터센터 안정적 전원 활용 - 더팩트",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkMjlxeHA1X2J5cm9CSWlva01JaGZfRXoyc2J3STRHQVAwOW83MElmeHBGcEllUUpVbkFPOFgxRVFSNElWS2hSSmRhQWR2M3Zhc092bUk5S2w5QzDSAVZBVV95cUxNVjdOY0M1TnFKTVc0clhrTFc4bG9KaXlYMHZ2WjZPanJ2U1JKUzRqckYzVHRxVHYyZU9VbXczYkd1LTNmN1N0dzlVRVEyNUtzanl6T25nQQ?oc=5",
-      "date": "2026-07-16",
-      "status": "신규"
-    },
-    {
-      "title": "[K조선 공급망] SK오션플랜트, '해상풍력·특수선' 다각화 통했다 - 블로터",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfRFRyOExHWkFnUzFlZ0hwNDNHVlJ1UHNZN1VOOTAzTnFVWnhnQnpxd1BCVlNpN0J3SG0tSTdYWjJCTUVaR1JhTlZfTXlmVGgxQjRoaE0wRVVoOUVKUFBiR3E0SlktM29q0gFsQVVfeXFMT1VBcEhpUERuZWpzRS15STI2ZFotdGZQWGQzRlVpVW1aZTZuMWNlZ0dmUUZIRnV0eVZydVR3N1JSbHg2a1BkUzU3alhvaGxGOHozaHVVTkRWdHZBZXNLUDRLM3h0YVhOaEM2cWJL?oc=5",
-      "date": "2026-07-16",
-      "status": "신규"
-    },
-    {
-      "title": "한화오션, ‘K해상풍력’ 닻 올렸다…신안우이 첫 삽 - 부산일보",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ua1paenRwQXpmbktwbWhhSF9hMXRjOWJsaGRuZnVBWm5ILTI2U1ZuM05jQWliOGpBd3JNQ1FVT0ZkN2dOdlRMZmhKdjlnTzF4VHhnZDAwMlpmZFB4YjlpSk1YZG9TZ0h5Qm5fZFdHMTdsbTVR?oc=5",
-      "date": "2026-07-17",
-      "status": "신규"
-    },
-    {
-      "title": "한국해양대 김예진 연구생, 해상풍력 구조 모니터링 기술로 '우수발표상' 수상 - gukjenews.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwV3dhbzk3VFBWSVc0bldSaGxzNzhTblFmNUlCMjhmYWRlYWpUb19XRmlJQTMzWFVOQXR5NzZ0el9xVnJrR1phYmxncmkzLUdJaF9LUkRJTDQ1cUc4cGg1ckIxdHlXSDRndnJpYjh3?oc=5",
-      "date": "2026-07-17",
-      "status": "신규"
-    },
-    {
-      "title": "신안우이 해상풍력, 군 레이더 교란 우려…통합의회서 지적 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yUHlveXJKRXR5UHA5Q216OUdDeXRBZHpmSTh4ajA5M0RISm5WSDVxNnhYb1ZnYnRTeEJLalIwOWpjQzlzN0g4MFc4R1JjRGM?oc=5",
-      "date": "2026-07-16",
-      "status": "신규"
-    },
-    {
-      "title": "농지·항구의 변신…지역소멸 위기가 앞당긴 에너지 전환 - 머니투데이 - 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qRHBLOWxIb0xFWGdkQ05SMFFVUXAzU25oS05LcllEMFdiUmFiVzRnY21UYVNYblJOS3paLXlyaFJIcU4tb3gwNENBbjZNNGtYVUw4SkNtMklQeEd0aHF5X3NwMGhxWnN6MTl6StIBckFVX3lxTE4yXzdYWVdXc0otYVoyZ1VNZ0ZMbml5U0NRSWtJZUtUblF5Tm5laFFNT1NINFJxTnZwVk1EUnRyeHpNTzVlWm1Db2hRcHVCVGlRVTczVGRrRnVaNGFMOWgxeTNVTmwxS3VlSmpSMFoxcW5Jdw?oc=5",
-      "date": "2026-07-18",
-      "status": "신규"
-    },
-    {
-      "title": "국민성장펀드 1호 '신안우이 해상풍력' 첫삽…바람소득 시동[하반기 에너지②] - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ubmZObW00QV95Zjc4ZUdGQ2ZIcVgzYlhKVEpvTTB5d3NORTA5MDhJakxUNlR3bUpzY2VhVHNlRXNfUTc2a0Q4X0ZWd196dTJPNnM2NHp1RHJUTDNLaE1mMNIBeEFVX3lxTE40YndhLWZFcDc3NVYtbnd3dkFOUWZqU0ZVaW5RY3hValFoRHdpdERFdFJ6RWRHdFhJRWdERlgxcUpLeXg0aU9yQWV2bTgzSEJQajBScmZFeU9ncEc4Zk5pRWtjMm0wVVZWVzBZUjVtQWI5YnJ3c1BTaQ?oc=5",
-      "date": "2026-07-18",
-      "status": "신규"
-    },
-    {
-      "title": "목포·군산항 해상풍력 지원시설 확충…‘호남반도체’ 전력 공급 지원 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJTDhmbkZWN3dKdlRDdWtKMmRpRGMyN3U4djRYQW9acHhyV3JoWVJ6Rnh4RGhOMFZZeHVOcURHX1Qxd2Z2T3FtcHBOcWxBQnM?oc=5",
-      "date": "2026-07-15",
-      "status": "신규"
-    },
-    {
-      "title": "390㎿급 신안우이 해상풍력발전 착공식 개최 - 엔지니어링데일리",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zSXB4eG1MblktRXJRV3JSVGxUUGtmRVA3NEhqampZWFpQSUJEaWh2NHFnSTRCSldaek5VbzZrWUxYaDRWT180YnpqTmdhclAwdUZHOTdEZ2hQcGlGMF9CNkhqaGs1TWFZekE?oc=5",
-      "date": "2026-07-16",
-      "status": "신규"
-    },
-    {
-      "title": "한화오션, '신안우이 해상풍력 발전사업' 본격 착수 - 페로타임즈",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oVTY5enp5a2xJRTVFTGN0cmRXWFVjQjNMb1ZoMTFFQmxoWGV1YnJDeng2NVhmVEVVT3lCcmhUNDhTN29pa3RTSmMzOXItQzl5SVFDYWI3b2xKYnhKUXJzT1o1cENVR3pNcjJMZw?oc=5",
-      "date": "2026-07-16",
-      "status": "신규"
-    },
-    {
-      "title": "‘국내 순수자본’ 신안우이 해상풍력 착공…2029년 상업가동 목표 - 에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUNGhJMDR5QkYzVm9jQjNRa21JSlduUEdSdjhBOXFsR0tIMklGUll2QTZmR3RmbVpacWRwbnNzTlBrRkZST1N5T0s3S2o3ZmVwTDhTQ3pyZE1DN2c?oc=5",
-      "date": "2026-07-16",
-      "status": "신규"
-    },
-    {
-      "title": "신안우이 해상풍력 착공… 3조 4천억 투입해 'K-해상풍력' 공급망 완성 - 녹색경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8waDB1anFuYjQ2Mkxna3FKdlNzSnEwYTJNeTlraE9TdXpoYUx1RGs1RjBSbnFWbldIcHE2Nm01VDFRek9abHkweUhRenJwMFVmYUhETG0wMlhDTDlxUG5Rd3VRc0NRT0Jf?oc=5",
-      "date": "2026-07-16",
-      "status": "신규"
-    },
-    {
-      "title": "신안우이 해상풍력 착공…메가프로젝트 원전 건설 반발에 더 중요해진 해상풍력 - 경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16UXdxdmFpa3dtVGtuYVR5TUJEc0R4aGRxbzJScUlvVi1VZzVlUW1ES0pTdHFZZkRxNjhlNFpTelVYeFB3bU1JY01ndDBCR3I4OXNNVTMxZVp0UdIBX0FVX3lxTE5YTWFBS2Q1U0xaOE9FZVRaYnRvV1ZwdlY2VHFzTjVBYy0tQjM3RmhnSzNTQXBxcFVoaDJZNmFaNnF2clhqeHVOZTJqRGpBa3FudTFyUlVLaGdXclJCeVBn?oc=5",
-      "date": "2026-07-16",
-      "status": "신규"
-    },
-    {
-      "title": "390MW급 '신안우이 해상풍력' 착공...2029년 1월 가동 목표 - 뉴스;트리",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ENXh4SEQ1dXJSRlpYb09JbTZVU29sc2hqczZlLUcxQTVCelJ2ZHNsUGk1VDIxMUEwSzRlQnlfVmctdnhyNTZRRTBYMktZcjNVLUkxZUZNcUFTRW02?oc=5",
-      "date": "2026-07-16",
-      "status": "신규"
-    },
-    {
-      "title": "390MW ‘신안우이 해상풍력’ 건설 첫 삽… 2029년 상업운전 - 매일건설신문",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9nOW8xRlA0OHllNmVFWkZuNUl1dktJSFlnQTZrQXU1THloS2xCR0JuREc1NWJOdXY5VjZUekMzSzVLYUU?oc=5",
-      "date": "2026-07-16",
-      "status": "신규"
-    },
-    {
-      "title": "한화오션, ‘K해상풍력’ 닻 올렸다…신안우이 첫 삽 - 부산일보",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DejZHek1PYWRPMVI3eHhheGo1WFF1enpXblJSVGVxT2drR3ZPVklHcGMxQXl1NXpMSmtoQ0tRX2s0eXAwQXBmY2ZPZ3hGS2VkZU1zeVM2Q09ZcFR5T01GRDlMbGNpRnJGYnJ6aTRPUVN6ZUwxb0FNaVpPUXI?oc=5",
-      "date": "2026-07-17",
-      "status": "신규"
-    },
-    {
-      "title": "“국내 최초 국내 자본 투입 390MW급 ‘신안우이 해상풍력’ 착공했다” - 에너지데일리",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWMGhnZlF2VFh0M0V6VjNqRWVvX3dqWVlaZGZfdUpUMWg5clJpNFIzaU1sSEdDMkNsMmlVeFJVQXR3YjZIN29sWlg1X2J2OTQ2Q1RvT1ZBSzd6UDI1eEVPMHJQX096T1VHN3NmSEN5bl9fZw?oc=5",
-      "date": "2026-07-16",
-      "status": "신규"
     }
   ],
   "globalNews": [
+    {
+      "title": "Hesselø & North Sea I: Vattenfall’s New Danish Wind Farms - Energy Digital",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOamFIci1ZZC1pSDlBRzBOekpxZ0NkYzNlZ2c3M3lPdkNKbnozM2hrZE15bzBwM2VuekYtNWtleWxKTEdMcmttRkJPYWdVLVZtaDFJTm9RMUtIRnVYYlc5c1p0eFhQYlFjZzJ1MjJ1eXdSREVQaktJUzZwLWt6d1hHYWI5X1Y1SVZnVDBxVg?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "Azerbaijan approves offshore wind development zone - 4C Offshore",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVEc2Y0dqTXNTU3lpYUp1U0QteTUwTGpzM1pWekxFTnV3RGw0WmJJZThHaHhoZHBVTThQT0pwRTloYWM2VTV3Q1EtQW5CZ0ZZbDRFQzBZRmQ2MXJiY3V2b2x6SUsxSXRVdi1UZjJrUFJxM0xTNW1IenVuUFJKa2xlbnZ1ODd0b0JpX2lMTzFsVnZFcTM0a1E?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "Encomara Tests Squid Quick Connection System for Floating Offshore Wind - environment coastal & offshore",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdm8xY1ZDYlcyVXRuMHZXazU4ZGJocTlDaFFrNExlLWFVeVB6MkJ5TmhWZHNsSzN0VnZ2U0RBMl81NXVMN25sYVBZQzhnMkRkT2pWaUZDSnE2a2QzZHp6djcxaE5NcDRIQmR4YlNnWDNLcG12dDhETjl1b0xMMlViS2RMOEYySHdyRGxNeW1hcnpHSmgwZk1wa2I5bXhGVTl1emJqNXpLVm5aRThDTHBB?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "Relentless in Its War on Offshore Wind,' Trump Admin Kills More Projects - Common Dreams",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wX1R3MHp1WWthallfOFNNRURjUXhXcXI2ay1WbEt0MHBSSlktcGF4OTY0QWc3SUdvMDViaHNXVVNaYTlFMFQ5SXpUQjhyc0l0WnpYc093c3h6QVJ3dUFoLV8xMkJIQ0dsOFQ5UmNXdFNzSThxMVdJ?oc=5",
+      "date": "2026-08-08",
+      "status": "신규"
+    },
+    {
+      "title": "Trump administration pays billions to scrap offshore wind turbine projects - EnergyWatch",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aX29qSkpvb2ZOcEI0RDRqUXgtTGR0NnR5WUY3dFBaQzNPX1RiWkltQi1jejNiTFAwN041YW1QdDhPeUJvVXdSdU1PajBZVDdBRmFJMEFLNFJOWU1fWXZxN3EzTVNyWDlDOHdN?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "Trump Administration Spends Another $1.2 Billion To Kill Offshore Wind Farm Projects - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzVFRGRld2s3M2pPemZRN3VtdURwRXhncExXaWhEU3NOcHZla0FMR05hUkNmNUcybW5UNmtQaDF4OExnNEtQYldIeHVSUER0LU5KVVUtY0FKOHY5MnJqYnBlZVZqX2hDa3ZCeUZhZXpEZzhtcmlNdFhiNUh0TkVETDBuWjRKS1puOTRSaFZ4cGdJMHd1YVJMMWc4b2EyOHh1eXRZdGEzYk0wWjJrZVZxcFVWNFBsTi1M?oc=5",
+      "date": "2026-08-08",
+      "status": "신규"
+    },
+    {
+      "title": "RWE Reaches $1.22 Billion Deal With Trump Administration To Exit U.S. Offshore Wind Projects - Dallas Express",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN3hhRVVYVmMzdUgwQU90RHVxU0hfQnpBVnVwV1U3STUyNmFDMEV5VVFpdkJ6SW0tNmgxX3lkWHdmZy1EUWhwbExYYXBkaUUtaFBQUjZnTUNOLW1aNUxDWWNlVDJGQmYwclJpZnlGcENYeGZpaFhjand3Y0wtdzRSTEdQYmR3Q0habjgwd3JCXzg0aHVTZGhjNWNCNjdCUnhmRTlZLXYtWlVKWW9HQjZja3plc2Q4dy1RN25pVFVXT3d0bTFw?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "Trump administration pays $1.2 billion to cancel more offshore wind projects - Northeast Times",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcS1qYmlKS2lLUVRMVFh1X01obWNxeTVIdUZlN3JqVmEyclBCQmZzeGdEQlZTa2VVak5BRWl0WG9yWWdNMUk5N3Y4azVEcXpyMmZ2dWZzenRtNGlLUk5kTkMxbVotLVZFMzdBb2EwWERZX01XSWlxVFpON0U5dlVSd1daSmtya2JDLWJlejhCOF9MMXAtUlpSSVFiRF8zbGdyRENteXJ4d203VDlwczU5QzFIbTE?oc=5",
+      "date": "2026-08-08",
+      "status": "신규"
+    },
+    {
+      "title": "RWE bails on US offshore wind; Trump administration pays $1.22 billion - workboat.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNElDLVlnQUFGRldPRmJrMHg3NlVlTnNWYURaLTRQdnBJOUFESWpxTXgtQlFOZ2wyeGd1Z0VzcmJxc25ycnNUXy1OaXpieGpZUW5PUnJnS1dJYl9GYUhYM2ZOdnZaUUY4SmFLLVhPdTVMQlQ3MFpMMWNUa25lb3hzaks2eWl2REN3ZDdmQTdYeGxGTFBLd2o2Zm5pcXU3SFE?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "Trump Keeps Spending US Tax Dollars to Kill Offshore Wind and Boost Oil and Gas - Mother Jones",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYlh0bUE1X2NKa2RDMVZiWnpDZGhCQzcydHN0RzRBS21PWmxkYVNKV1pMUGpBNGVkbm5HWkh2NHhBUzJrQ2ZLbHV1N3FZc0RwaU1VaHVmTFVvQmNycWZrVHItemdCQjNFdVVpbGRBcHhIMElaS0hfUzdwZmdCVVU2cVRjQ1I3MkR2eXhhbXlnSzZvd0FUOEZlbXZqcFpEVzRZWmdUbkRNd0diVmxMbDJVZGNFeWtzNkdUVE5zYVpGTHVnSG1MeDlvYQ?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "Trump administration will pay $1.2 billion to cancel more offshore wind projects, calling it 'common sense' - Reason Magazine",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLTdnbExzcmdhekpUdEFFRjBpdEIzYmMwYjdqTnBNZEp1LVh6ZDFETkpuNXJQeHRUMUlXYjBUMWpEM1Q0NVpoVXBNZkh5TTl5LVRsanNyQzZIbEFMcmhRQzFjVXBZVlRUblZTVVVRMkxqc3JYbHN4S0ltdm1wYzM3MG9ScFNGMERKLWNqNDVBT0pFUnc3UWFKN2d1Z01TX01LOUV5ekt2SEdvaloxdkROdnVDMDBJRTNOcHVpNGN2ejc0MWVTZTVfb1dFMEpmejQ?oc=5",
+      "date": "2026-08-08",
+      "status": "신규"
+    },
+    {
+      "title": "Trump Refunds to Cancel Offshore Wind Projects Total $4 Billion - EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFlTVkxhXzFMSEU0WFNCcGZrZzlYdGc2UmV4SzE1OTNzczA0UTVtQjFiS0F5NWh5bXdDMXU1X1JWblppenpiN1BKa2tyeGNTQzFRb1c3cXBVc3kwZDBQa2hNY2RUUlpwSnIyMmZfYzN1dFJBeE9RaE96S29TZzlwR21WbnVHaTBZSDZDQ3VMakVRN014TlUwQw?oc=5",
+      "date": "2026-08-08",
+      "status": "신규"
+    },
+    {
+      "title": "Trump administration has spent nearly $4B to cancel offshore wind farms - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYnpTX282RVFjMDg2c05NbmpTMDg3RTRpbGdfeFFFa1dxV2M4Y1VOTXpxTDdFT2Y3aHplQ2dfUUE3UVFHSkt1MW82NlF4bjBMd0l0RXZiTF9tN0tCcTNhOUExUTlOMlAteGJkWGJYOTlwS3lzcjdDOUN3X05XS0JVdXA0TUQyM3ZZQm4wN3REMVdjZUFLVUlOdk94bk9fdU1vX1hqX196WUs?oc=5",
+      "date": "2026-08-08",
+      "status": "신규"
+    },
+    {
+      "title": "Denmark awards Vattenfall contracts for 1.8-GW offshore wind projects - Offshore Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeVlSOUJJRnJBSldtM2V3b0V1RnR2SnB3LWw3Q2JpTnc1ZDZMQkY3T19JdnRjZWxBVXROcGlIZXJXVmcxcmdwQ3hHZE5YZE1MQ0NqWTFCU29Rb1g5azZTSFdZOWNwU2JaTFRwYnJUbGZ4T0ZoSExKaXZsOWNqTG0zeXItbHVPMXRYdG1FMGxEVGsxeWItWnkwdEJwbTdGZkhZa3loSXY3bDNBZ0huVXJBUTlnTGQwNHVwQjNxc295R1ZfODJ6YmE1R3NnLU41Vk5JdEVSZmJn?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
+    {
+      "title": "Trump administration to pay German firm to halt US wind projects - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ea2JGMWFDRGVjQy1Lc3o5ZW44OWVvODlkc05aWElPSHFCQlRkclI2ZzJnQkdpSE9mckE0TzFQRnlrdWR6VEVORExUek1oM21jREtjbGc0WFNudw?oc=5",
+      "date": "2026-08-07",
+      "status": "신규"
+    },
     {
       "title": "CNOOC 16 MW floating wind power platform is now operational - tgs4c.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT2pBTU1pNTFEZ2hNMTh3c1p2UmQyazN0U3d4NVdwaDdGYmcteVZPcXZyZjRsdk55eFE1cGJRVjQwbi1tb2otZnN3VXR5S2FqNHhxZS1ydWFGN1IxaTNBeWRYRjAzU2V6NzhqYlVCdGVLR0tqMkw5bktaRVdwWGpHdmVZejdFdTVfLTQta29oR25PN1VUUllyMDhiT2g5ZTUySEE?oc=5",
@@ -3519,96 +3609,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWpSTF9GcDNub3lZWmtfOWY1b3FCUEREaU1FUGgyTTJqYklMNDRRT1Q1bTNDZjdpcHI2UXQ1VU1FUWNYM3FXb0dmQnQwNWo2VEFBN1M3YncyV0VOTEtNbjNFal9PWFZMRkZ4OEl4V0pIeVNOZUxUempYaVNBdFJqbDE2RjdoWm1IT1E?oc=5",
       "date": "2026-07-09",
       "status": "신규"
-    },
-    {
-      "title": "NextFloat Floating Wind Pilot Clears Key Spanish Regulatory Hurdle - Offshore Engineer Magazine",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY09mclN4QWhxbjU2Nk9ucVg1QVJ1TE9TczBwSF9SczJvV1VnMlFIME1RNGw2UWttdUdCNFRXdFV4bnVHS1Y0eUxnRXNlT0pWTHRPNVhtOGcySHdYLUQ3eE9pRk1NYUFBSUZHSzhqZTVuRkladVVwaFAxMVFwQnpTWWJfU09wMUlMb2VKVEllRkpxZlF0UTZfVTEzUGJhLU1hV3VXLUwxaw?oc=5",
-      "date": "2026-07-08",
-      "status": "신규"
-    },
-    {
-      "title": "German association urges for quick offshore wind reforms - Renewables Now",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSTYyenY4Tms5d0d1OHhFTVJlMmZleGF1Z3JMN1hjd3BYNzlCUnRmQ1BNMkc0aWF5Rmk5Ul9yOXlUUF9pOVpBV29UbjNNUzN4bHo1NFJnWFJzNGhTNDZGNXFDV2UtcFpIX0huTFppZG84QzZINUVvcGZ3R3lyOHYyWG5ZT0dsN3E4MXdoTDh0V3hocE5UY1lKOWNxX1M?oc=5",
-      "date": "2026-07-08",
-      "status": "신규"
-    },
-    {
-      "title": "Taiwan to reallocate terminated offshore wind sites - Wind Power Monthly",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM0RkT1BMdTF1a29oYTRtaVJUUU5zV183bG5ETEFMTzJmVkF3bDZQc0RrZWpHME4wS3huWkhDUDlERnpmQUI0VG5EVEdUUGdEbHhZTzJ6UHJQeWpNNENfN0hWWWR1LVNyYUhKa2cybjMwWGZEcXhsRGd2QmVvMW11NThIVFJ5VHdPMnp2VG9ZRnNTRDVjMWdBeU1fU0xRdw?oc=5",
-      "date": "2026-07-08",
-      "status": "신규"
-    },
-    {
-      "title": "BP wants to quit Japanese offshore wind project: report - Recharge News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXhHanpWSFpsV24wYW02cktYR0FzRUR4YTdxbzM1RU9hbXN5NmVXR3J1elJERzZxSERIekwzY3BqeWlHNDVSbk83SlNXVEc0ZGtMNVpWdGhkaDUzZm5iYVF2U0lFQmdCVUdrcExGV0F3QmF3SjQ4S2otYm5hV3g1bjg0MFFfajBfY2hsNXEtVDlOcDAwYnhHcVRNTTNJZ2p4Y0tSamhHYTkxZlM0X1E?oc=5",
-      "date": "2026-07-08",
-      "status": "신규"
-    },
-    {
-      "title": "As electricity costs rise, Trump can't justify fossil fuels | Opinion - The Courier-Journal",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa1lQWGNOc2Nxd1BHLTFNNHk4NGlKZTZ2MlJMMThSWjhyRUhXVGowV0VKS0FhX250YS04OHJ4R3V5NkVZU0k4aGRRYXRjLXNIOUloV0pGVUtodnUyamxrcmRqbGtPV00wQkNoY0FvOVpmb3V6ZklZcEdlTE9NQWJjTWYxR3FEYTBOemEzeXNFTnlFUzBLUnNqQVF3ek5iRUl5ZFVweGIyYS00NURSQ25OOTBDbHkzODNFUnc?oc=5",
-      "date": "2026-07-07",
-      "status": "신규"
-    },
-    {
-      "title": "Hollandse Kust West Offshore Wind Farm Produces Its First Green Energy - energynews.pro",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb1c1cHBiNlZ0QnRwVXhuMFRSVTNQc1Rocld4OG9wZ25HTEtkWW44dHZWQTlGcGEwa0NmTE43WEpINWFaQTRxNnNtaXFGUGhHUjJpTk4xUmtTeUhBM3lTVS1Lcno5emktVHZmWmNnUzRyaVBrTVN0amJra2drOWpFb0t4bW9QVE9CTDBST00tYzRZZU52UGZ6UXlRWHY?oc=5",
-      "date": "2026-07-07",
-      "status": "신규"
-    },
-    {
-      "title": "CNSOER announces prequalified companies for offshore wind bid - 4C Offshore",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX243THRNZTRsRThfeU9GMmNlekJGQU1OQ0xqSmgtQXQ1R2N2SjdLVTltaGRUaURMUFQ5TVJPczhrVl96TWkwUUhuNE9FZVFkYTktekRPelFfOHRpYjV1SWVENXgwdlYyaWdxXzhkcGozdVpQSlBzbXJnZ3BURlRBVEUwQk9hc3FENjd0TThidGo0Z1I2WS0tRVFtbTNWazVkWUNkRA?oc=5",
-      "date": "2026-07-07",
-      "status": "신규"
-    },
-    {
-      "title": "Prevailing winds - The River Reporter",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oZVBaV0JUbmd0WnZESVoxdDYzZDJDVEppemJYTmhwT0hQS3VtcHBMcEZZanZNc1BxQlVlM3RjaVNYazY4dHdFNk04cE8xbWVfdTRfVzBGbzFQemYzSW8zN1ZLaG0yUVAz?oc=5",
-      "date": "2026-07-08",
-      "status": "신규"
-    },
-    {
-      "title": "DNV Seismic Guidance Targets Wind Farms in Earthquake-Prone Asia-Pacific - environment coastal & offshore",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2RPczVkUVhFOEV0eGR2OVN4Z09ZZmx5b0ppQ2lOTEJlVUJ5V09SUFZsYzJyV212a2xiNnpHYzE3S1lqeVZrTVd2a3FMcU5rTVlIS0ZWUWNlbk1PVGpLekpieW1vRDdEMEpydGdpZWtwQnFTODJkeGg0ZGlGYTByaFZrSHNjSWN6VXkzUXZrVFYxc29RYmpCN2MtLWRCV0drZUxvc1l0OURRMFhtOHB2VQ?oc=5",
-      "date": "2026-07-08",
-      "status": "신규"
-    },
-    {
-      "title": "UK to support new hybrid offshore wind that can slash deepwater costs in next auction - Recharge News",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZTZINHRNTVMyeThXYm1mLTk4ZkV5TndCY1ZCaC1MZ2wxOElfajVSbFcyWG9JeVA2X1I0YXFVZUQwY3BWSEZOSGxpaXBlUFRPNFplRlk5dzUzd1BwQVpHT1pHdlZPemVoaTI3c0FHZUtOdzhQa1BvR2ZRWHF0YUhlMERHZHBEWlNuVmhESzNJLTkwVFJNbVI4RVo1Nm1haFFXOXVpRGpLV2h3WnhSUlUwWEs1TEw0TkZKMlN6SFIwNmhMLW1rSS1tUXJpZ01DVnhFR01N?oc=5",
-      "date": "2026-07-06",
-      "status": "신규"
-    },
-    {
-      "title": "Wood Thilsted, COP Frontier launch deepwater offshore wind firm - Renewables Now",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV2FhT08ycVhtT3Q5bnFGUUdiQ2U5aXZJSTlSaXhPMDlRS3pqYS1ZeEQ4TnY4aXRqNHlTbmRLZGZJZXBqYkxNc3dCYmdKNjdBWkM0OU9SU2daamhyamIwUC13bVlKSGk2bjlvTDhwRG9kY29LdjhZNGFmdTdVd2FXQkF4QzZXTVdnMk1aRURVeXZIOUhGTkNuM0VNa204ckktMGx3LQ?oc=5",
-      "date": "2026-07-07",
-      "status": "신규"
-    },
-    {
-      "title": "Trump buyouts have wind industry 'going nowhere' even as states court developers - rawstory.com",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UeHdUTW9jSFdWbFg4eUlQUHd6VnE2OURSelgtUGNkY3J5ekZwaV9JRnVSR3B6LWhSdmhFWGRDMXJhSnNlUVhVTm9JekpzS2piWXBjM1lFb1p6aUXSAW5BVV95cUxQTERCRXZ2am85eHpIcm1MWF9hVTlTeWo2S3ZmQWhUZ25BU3FVbjlIanFYdzF3QXBQMFpaVENheEtMVG1MUWdGS2MzSVVzb2gyU1ZpcnJ1UnhUUnhsc3dFUmRUbGNUNGF5RDJ5OFhVQQ?oc=5",
-      "date": "2026-07-08",
-      "status": "신규"
-    },
-    {
-      "title": "Boskalis Christens ‘Industry’s Largest’ Subsea Rock Installation Vessel - offshoreWIND.biz",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObDN3MU8wTnZpT1BzTDJMQ29XUl9VWWMxekhEMERJdFBBZFFvYXBsM0l5OG10Y1UtRU1tR093dmk1Z1VBbUtlQU02RjljTEhqM0FENG5HdnRVU3kwTVpZMGhlZ1hWQVFHZHhDTTIwb1FjR3BlSEVBdU5SLUtWOEYyMHZPaFpreU5zZjhLd2pNWm1mNW5XRFYwSGxJUnktSDczV2w0X2hlU0V3eGlibnc?oc=5",
-      "date": "2026-07-06",
-      "status": "신규"
-    },
-    {
-      "title": "Offshore Wind Farms In Europe Are Having An Unusual Effect On Marine Life - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaHg3TXRndV80WGdsa1pTUjVrbVdQYzNFZEJqRmdlc0F1MGk4My1jM2dtOTRsZlpLM3RTenNxbWNuWVdnOHEwWXpMZzJNemFKNFBVaEN4N3FPWDhETXFtMUQ0TkNQRTFwRWctTmtHVHB2Ql9aaks4WjV2NVBYc2hudDZ1bU9rdGN5dmdmb2tvX2U5YUJJb0xF?oc=5",
-      "date": "2026-07-07",
-      "status": "신규"
-    },
-    {
-      "title": "Industry veteran Cole to lead deepwater offshore wind tech company Neretek - Wind Power Monthly",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRVRiVFZsS0lwc1BlNjZaeV9ZR2ljUi1iLWR5RFc2dWdNR3VEQ05DWG1NN3dOZWZvZWx4cS0tV3lkU1BvekZ2U0V3NW5CZmFfZHlPbEN0QU5Mbk1KODBvNGswdFE0clZQRmFtX0NsNjB3c1lydVZYaTlDaEE5WUdybERhTzBITjVrYWlubnhYR0FYekhobG4yRFphOEloYTFGcm85X0hxVkh1emxNdlhFelA0c1lUUlpZaEdYRQ?oc=5",
-      "date": "2026-07-07",
-      "status": "신규"
     }
   ],
   "trend": [
@@ -4556,10 +4556,15 @@
       "date": "2026-08-07",
       "domestic": 18,
       "global": 19
+    },
+    {
+      "date": "2026-08-08",
+      "domestic": 18,
+      "global": 15
     }
   ],
-  "latestReport": "<p>신재생 에너지 전문 애널리스트로서 최근 뉴스 목록을 분석한 보고서입니다.</p>\n\n<h2><b>주요 이슈 요약</b></h2>\n<ul>\n    <li>\n        <b>미국 해상풍력 정책 불확실성 증대 및 대규모 프로젝트 철회</b>\n        <p>트럼프 행정부가 RWE 등 주요 에너지 기업의 해상풍력 사업권을 대규모로 매입하여 철회하는 움직임이 포착되었습니다. 이는 약 40억 달러에 달하는 막대한 비용 지불을 수반하며, 미국의 해상풍력 산업에 상당한 정책적 불확실성과 리스크를 가중시키고 있습니다. 특히 RWE는 이러한 정책 변화에 따라 화석연료 투자로 선회할 가능성까지 언급되어, 향후 미국 신재생에너지 정책 방향에 대한 우려를 낳고 있습니다.</p>\n        <ul>\n            <li>[해외] 2026-08-07 | Trump administration’s latest buyback of offshore wind leases brings total to nearly $4 billion - AP News</li>\n            <li>[해외] 2026-08-07 | RWE accepts $1.2bn Trump deal to return offshore wind leases - Wind Power Monthly</li>\n            <li>[해외] 2026-08-07 | Trump administration will buy back company's offshore wind leases off 3 states in a $1.2B deal - Bozeman Daily Chronicle</li>\n            <li>[해외] 2026-08-07 | Why Trump’s claim that offshore wind is a security risk is ‘ludicrous’ - Canary Media</li>\n            <li>[해외] 2026-08-07 | RWE Is Latest Energy Giant to Pivot From Offshore Wind to Fossil Fuels in the US - The Well News</li>\n            <li>[해외] 2026-08-07 | Washington to pay €1.06 billion to cancel RWE offshore wind leases - Euronews.com</li>\n            <li>[해외] 2026-08-07 | Trump Administration to Pay RWE $1.22B in Fifth Deal to End Offshore Wind - The Maritime Executive</li>\n            <li>[해외] 2026-08-07 | Trump continues paying to cancel offshore wind projects with $1.22B RWE deal to ax its wind leases - fortune.com</li>\n            <li>[해외] 2026-08-07 | RWE, Trump administration reach $1.22 billion agreement to cancel offshore wind leases - Reuters</li>\n            <li>[해외] 2026-08-07 | RWE reaches $1.22 billion settlement over U.S. offshore wind leases - tgs4c.com</li>\n            <li>[해외] 2026-08-07 | Trump administration will buy back company's offshore wind leases off 3 states in a $1.2B deal - KTVN</li>\n            <li>[해외] 2026-08-07 | Trump Administration Inks $1.22 Billion Deal to Terminate Multiple Offshore Wind Projects - keyt.com</li>\n            <li>[해외] 2026-08-07 | Elected Officials Outraged After Developer Vacates Humboldt Offshore Wind Lease - Lost Coast Outpost</li>\n            <li>[해외] 2026-08-07 | Trump administration will buy back company's offshore wind leases off 3 states in a $1.2B deal - Ottumwa Courier</li>\n            <li>[해외] 2026-08-07 | Trump administration's latest buyback of offshore wind leases brings total to nearly $4 billion - The Wenatchee World</li>\n            <li>[해외] 2026-08-07 | RWE to scrap three offshore wind projects in $1.22 billion deal with Trump administration - Washington Examiner</li>\n            <li>[해외] 2026-08-07 | Trump Refunds $4 Billion to Cancel US Offshore Wind Projects - Bloomberg.com</li>\n            <li>[국내] 2026-08-07 | 트럼프 정부, 1조7400억원 주고 RWE 해상풍력 3곳 철회 - 네이트</li>\n        </ul>\n    </li>\n    <li>\n        <b>국내 풍력 발전 프로젝트 가속화 및 민관 협력 강화</b>\n        <p>국내에서는 대규모 육상 및 해상풍력 프로젝트가 상업 운전을 개시하고 금융권의 투자가 활발히 이루어지면서 풍력 발전 확대에 대한 기대감이 커지고 있습니다. 특히 전북도와 고창군, 금융권이 동촌 해상풍력에 대규모 투자를 약속하고 주민 이익 공유를 추진하는 등 민관 협력을 통한 프로젝트 성공 모델 구축에 집중하고 있습니다. 이는 안정적인 사업 추진을 위한 필수적인 요소로 평가됩니다.</p>\n        <ul>\n            <li>[국내] 2026-08-07 | 전북도·고창군·금융권, 동촌 해상풍력 금융 지원 맞손 > 뉴스 - 더코리아</li>\n            <li>[국내] 2026-08-06 | 우리금융 1호 지역인프라펀드 품은 '고창 해상풍력' - 아시아경제</li>\n            <li>[국내] 2026-08-06 | 국내 최대 육상풍력 ‘의성황학산’ 상업운전 개시 - 기후에너지데이터뱅크</li>\n            <li>[국내] 2026-08-06 | 우리기술, '원전·SMR·해상풍력 사업' 400억 규모 투자 유치 - 아시아경제</li>\n            <li>[국내] 2026-08-06 | [인터뷰] 10년 집념으로 바닷길 연 '선구자'…김강학 명운산업 회장 - 블로터</li>\n            <li>[국내] 2026-08-06 | 국내 최대 육상풍력 ‘의성황학산’ 상업운전 개시 - 에너지경제신문</li>\n            <li>[국내] 2026-08-06 | 전북도, 고창·금융권과 '동촌 해상풍력' 협력…주민 이익 공유 - 연합뉴스</li>\n            <li>[국내] 2026-08-06 | 첫 민간 주도 해상풍력 ‘시동’…산업 기반 확대 기대 - v.daum.net</li>\n            <li>[국내] 2026-08-06 | 전북자치도, 동촌 해상풍력 추진 위한 금융 지원체계 가동 - 전북도민일보</li>\n            <li>[국내] 2026-08-06 | 전북도, 고창 '동촌 해상풍력' 금융지원 본격화…3600억원 투자 - 뉴스핌</li>\n        </ul>\n    </li>\n    <li>\n        <b>글로벌 신재생 에너지 전환 가속화 및 기술 혁신</b>\n        <p>독일에서 풍력과 태양광 발전이 처음으로 화력 발전을 추월하는 등 유럽을 중심으로 신재생 에너지 전환이 빠르게 진행되고 있습니다. 중국은 세계 최대 규모의 해상 변환소를 설치하여 대규모 청정 전력 공급 인프라를 구축하고 있으며, GE버노바는 인도에 육상풍력 터빈을 공급하는 등 전 세계적으로 신재생 에너지 보급이 확산되고 있습니다. 또한, AI 자율비행 기술이 풍력 터빈 검사에 활용되는 등 기술 혁신이 산업 전반에 걸쳐 시도되고 있습니다.</p>\n        <ul>\n            <li>[국내] 2026-08-06 | GE버노바, 인도 라자스탄에 163MW 육상풍력터빈 공급 - 에너지안전신문</li>\n            <li>[국내] 2026-08-06 | 코스닥 노크' 니어스랩 \"풍력서 검증한 AI 자율비행으로 방산 공략\" - 한국경제</li>\n            <li>[국내] 2026-08-07 | 유럽 수력발전망에 풍력·태양광 더해 25GW 추가 확보 - esnews.kr</li>\n            <li>[국내] 2026-08-07 | (해외환경뉴스) 독일에서 풍력과 태양광 발전, 처음으로 화력 발전 추월했다 - 제주환경일보</li>\n            <li>[국내] 2026-08-06 | 중국, 세계 최대 해상 변환소 설치…연간 60억kWh 청정전력 육지로 보낸다 - 기후에너지경제</li>\n            <li>[해외] 2026-08-06 | CNOOC 16 MW floating wind power platform is now operational - tgs4c.com</li>\n        </ul>\n    </li>\n    <li>\n        <b>풍력 산업의 시장 메커니즘 및 이해관계자 고려</b>\n        <p>국내에서는 풍력 고정가격계약 경쟁입찰 결과가 발표되어 시장 메커니즘을 통한 안정적인 사업 추진 기반을 마련하고 있습니다. 덴마크의 성공적인 해상풍력 입찰 사례는 CfD(차액정산계약) 방식이 경쟁력 있는 입찰가를 이끌어낼 수 있음을 보여줍니다. 한편, 미국에서는 해상풍력 발전이 해산물 산업에 미치는 영향에 대한 조사가 이루어지고 있으며, 이는 프로젝트 추진 시 지역 어민 등 이해관계자와의 상생 및 사회적 수용성 확보가 중요함을 시사합니다.</p>\n        <ul>\n            <li>[국내] 2026-08-06 | 2026년 상반기 풍력 고정가격계약 경쟁입찰 결과 발표 - 법률신문</li>\n            <li>[해외] 2026-08-06 | Survey seeks impact of offshore wind power on seafood businesses - WorkBoat</li>\n            <li>[해외] 2026-08-06 | Successful Danish offshore wind tender proves that CfDs deliver competitive bids - WindEurope</li>\n            <li>[해외] 2026-08-06 | Virginia Institute of Marine Science calling for seafood industry to participate in wind energy survey - SeafoodSource</li>\n        </ul>\n    </li>\n</ul>\n\n<h2><b>기사 목록</b></h2>\n<h3><b>[국내 이슈]</b></h3>\n<ul>\n    <li>[2026-08-07] 트럼프 정부, 1조7400억원 주고 RWE 해상풍력 3곳 철회 - 네이트 (<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE91YXM0Ul9NV2dJR2ozZ3dIazdMUDQ5c1BvNExmbVZTVklHSlV1Sl94VHBxWFZwRi1xRFZfdGZjYWE1aWxfRFNwaW5tNXN4RUZBbklxd1VFbVJuV05BX0tQZg?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] 유럽 수력발전망에 풍력·태양광 더해 25GW 추가 확보 - esnews.kr (<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hQ1NjUjdPRlZfbFpPX1dWYWhuV01jRWp4c3RheHhnVzNNZnZwLXh2aURiU04xOF80QjF6ellKSXdVQ2dtb0dsa2tzanY0NTNVOUdEbmRYWnNZLWN1MjU4aWpnMWo?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] 전북도·고창군·금융권, 동촌 해상풍력 금융 지원 맞손 > 뉴스 - 더코리아 (<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0xU3cxaWswaEpEMnZQc2pnZWU0SXd3SmJlclozWjI3QVVud1B5OGVURzJHZ3Voa2lwcUd0RzdFeTJ2VmZISm1JWEhHMUtJdTJxdUxNbGRHT21QdG1FUDFMMDV2ZFpfZFQwUUE4bDBKRkc?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] (해외환경뉴스) 독일에서 풍력과 태양광 발전, 처음으로 화력 발전 추월했다 - 제주환경일보 (<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yRzBxMWx6SUdzd3otUWxaNDNHVS1CWWZiZUhPOVVtUHRWa0d4N1dBOHp5U0xBMk9VRTkxaW5CMzNDMVphU2hzTmRscmRTZGVhdzNqd096b0tkZlI4d2RXRVhtOXd0RE45?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-06] GE버노바, 인도 라자스탄에 163MW 육상풍력터빈 공급 - 에너지안전신문 (<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JVnZxNmhnV2U2RDFaMTFmNzRLWFl3VHhRS3c0b0NuWFVkdHB0YjNjdGRraEpvYzhQMTBvN2JhcFUyeE9HSDd6WUtFUlh4NjVJclNJUUFGblo4TzFLRk5NNTB2bm8?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-06] 우리금융 1호 지역인프라펀드 품은 '고창 해상풍력' - 아시아경제 (<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tU1FCQ2t6S002clpLcDc2TklJR0ZsUmRGWWxLdlg2Z2lSNnI2OUlhWDJZUk53LWFTNUZqMzdUblAyS25SYnFzcTNVV1Z0NzNnc1BHYzVsMkFiQWRkR1VhV2VR?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-06] 국내 최대 육상풍력 ‘의성황학산’ 상업운전 개시 - 기후에너지데이터뱅크 (<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE16UF9MR2oxSlBMS1ZnWGZ4cUVHOHV2NkJ0bTFYczVtOEVNOHBKZ1dKbFZPcmFfbnNEdUN2YldQSnYzZEUySTVkemxtNXhrQmI4aWp1YnJZaTI4c0ZFYXc?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-06] 우리기술, '원전·SMR·해상풍력 사업' 400억 규모 투자 유치 - 아시아경제 (<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DWTdUZkx3NDhfLW5vU196QjI0bG9lY2hlWExaWmtyejBYdjJ1SEw0a1BoLWF1WU9wY1pkLWNlcU9LZ3d1SzMzMjQ1NThZOVM3NnNPaUNSbHp0NWl3UmdjTFJ3?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-06] 코스닥 노크' 니어스랩 \"풍력서 검증한 AI 자율비행으로 방산 공략\" - 한국경제 (<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YYnNUb3ZfZ2UtQ0Fzd055UEVETnQ1dzlZOEFjWVBGTE81LS12X19BUlZTVW5GcldlZlM0REhVRzNhRWlwV2xkb2R4WDk4MC1xX0hpSDRnRkpQdw?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-06] [인터뷰] 10년 집념으로 바닷길 연 '선구자'…김강학 명운산업 회장 - 블로터 (<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ncW52Zi1mZUZDZTliYW5yaHptblZyUEpNNG5teW9DM2FTS1lYTXpaRFctNVd4UnBqZHpUc2wxaWdTS1Y4SWo2VDh4WHVNcXVIeFpJdVJpdmVtSndsNzczZ0ZtN281bExN0gFsQVVfeXFMTkQxdjBvR1o3TmdRSDRFMmJYRm9aUUR6c25kWnhWX3FsSEZoQVFsanAyNkViamhONml5ZGNVZE1HU3NKbWtyekpmR3pvM2JKVGFkNUFnaVg5bFdHT3lHOEdxN0h5czFNclk3UjE2?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-06] 2026년 상반기 풍력 고정가격계약 경쟁입찰 결과 발표 - 법률신문 (<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1ITldFQ0F4eXNpbEJJLTk5V0tUNThqeWQ4MU1fMjZIcnNJMGxNTWU2Q1NhM3JVMWluN280SDBsWTBIclJUNFAtRjZYR2xZWFBnSExURFZfNUZIajEwRncwVDhXNzE5WE1DekRfSllyTVI5QdIBckFVX3lxTE1ITldFQ0F4eXNpbEJJLTk5V0tUNThqeWQ4MU1fMjZIcnNJMGxNTWU2Q1NhM3JVMWluN280SDBsWTBIclJUNFAtRjZYR2xZWFBnSExURFZfNUZIajEwRncwVDhXNzE5WE1DekRfSllyTVI5QQ?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-06] 국내 최대 육상풍력 ‘의성황학산’ 상업운전 개시 - 에너지경제신문 (<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VOHhjdm94UzJuUmVhM3Y2QkxYbkpCMjZBdjBnbWRhWEUycXFRcFdBUUZleFhpTzU1dVpvbmNfdnBSYWVTR2VFbWRXSGdNN2xVSWR1WjNFSFVCSU0?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-06] 전북도, 고창·금융권과 '동촌 해상풍력' 협력…주민 이익 공유 - 연합뉴스 (<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCckd1M3RfWGJqSWNXdHVTRHNIckNHRmlHTTFzejRnMHlMNGFWcU9nWjR3bEpna0lDMlBEMS1XVXAxS1ZCTF9aTzFnQ2JoUDEyVlRPODAwNkZPaUpDbUt6d9IBYEFVX3lxTFBCckd1M3RfWGJqSWNXdHVTRHNIckNHRmlHTTFzejRnMHlMNGFWcU9nWjR3bEpna0lDMlBEMS1XVXAxS1ZCTF9aTzFnQ2JoUDEyVlRPODAwNkZPaUpDbUt6dw?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-06] 첫 민간 주도 해상풍력 ‘시동’…산업 기반 확대 기대 - v.daum.net (<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE83YklkRTJtSFgzRzNxdEszRkZVU3NGcmx6anNHM0k3eGJscEZ1TzJ0Y3lic2U4MDZIbk5kcVBhenhKV0VWSHotMlc4OExpV1E?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-06] 중국, 세계 최대 해상 변환소 설치…연간 60억kWh 청정전력 육지로 보낸다 - 기후에너지경제 (<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nLVl6X2h2ZHhHajU3bDlpR0lvNWFPbVdTb1hZb2ZLZHBvMnlBM1lScm5LYnNta1pSM25XYW5pQlhGeUZGc3RMb0ZFTElXV0t1Z29rTGt1N3dUMG52UWpfTlE0X2o?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-06] 전북자치도, 동촌 해상풍력 추진 위한 금융 지원체계 가동 - 전북도민일보 (<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1xOFJzNVBQaDZPaFloSnZuRENVVEVEVjFFclh3RUFyTTdlWVBJcTlJaXNBcEJ0eFhFbDhrYlZYTWwxRC1pMmw4aEtsUWNITTI1YVVkQmlrU3JZdzZ3UnlxX0FicmZKNEllTHc?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-06] 전북도, 고창 '동촌 해상풍력' 금융지원 본격화…3600억원 투자 - 뉴스핌 (<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEemRkbnNabTlDR2loMkFoa253c0V5Ym44TVVtSjlpQ0VoOHVYZ2RVNjQ2dFZCWXUxTmF5M0JPWVd5UDB0ZnlldHhkMDdlTE9wdHJQTGtNVWhaZHlH?oc=5\" target=\"_blank\">링크</a>)</li>\n</ul>\n\n<h3><b>[해외 이슈]</b></h3>\n<ul>\n    <li>[2026-08-07] Trump administration’s latest buyback of offshore wind leases brings total to nearly $4 billion - AP News (<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPd3R1ek1NVGttOHhoeDFOU0d2LWpWbFdxSnBYRHAxSnFYZk5hV1NXdWdiMXFzMURWUXR4ZzA1UFhfRUxiRHVfdVJyY1V1X2tmczJ6Mi15SEEtUnhPMERJRUJQNmV0MlVQVS16TFpHdUxSN3M3ZTBISURzZW5iMVhrUjlzUU9fUXZoLWlOd1NGY3Y1RkZlOUdvbWlQSlJnVEZqTzVTVS04WWdTbVhN?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] RWE accepts $1.2bn Trump deal to return offshore wind leases - Wind Power Monthly (<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWHd5cThmWjZzckw3NzRnWnAwbHdoR2s0ckkya0RWNjk5SlRtTG40UTZKa0pYaUloQXo0TG1zazZGa2xFMjZzVFVoMHJJWW03bU5mbnYyYWZCbkpFamp5cHRXZnVkMWoyZUJQSjhYNjlYYWhVWGprLS1kcFU1UWlqWmQxSEtLREFpYmYxVVF1NzBiV1VYTC1Dc3NncEQyd2ZMbjJFQThuYw?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] Trump administration will buy back company's offshore wind leases off 3 states in a $1.2B deal - Bozeman Daily Chronicle (<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOUkVtNWxfa1BHYW9sVDJmMVVhQ2pmdkhGUUw5ajRYeHhKUElFRGh3Q0dCVUxoQ1ROb05wZ2trR3d3cmFSMHZwMGF5TmJqT0Q0WTc5dUdHeUlDbVRTSC1DMU82alZNQVFYVUVtY1ZxWExYZTYxWkF5S0FqbWdTLUdxb0lGc1lGZkV6YktpUWotaEJ5RVpYdDNiYVE5a1RGMmtpYnhFZXJlSGlteVhWNV9kSi00bk9lanVraWRwcF9KMmg4TXY4WFpDOEgySkNrUmZUQ1RFTUxUV0NUc1RCQ0czTHVjek5ERlc3Vko5aTVFTLU2MHJTOWxyVTdDeUhObG0xWXRWcnB6TzR3NkNhUjNEZDlFUmI?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] Why Trump’s claim that offshore wind is a security risk is ‘ludicrous’ - Canary Media (<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2Q5bno2Q2Y4OWh5ZDd4dkdxaVo3SE1Sczlqa1RhOEZrTVFZRjJjenRFX015WG9TRGtGSV9pNlU1UXpvRHdqckpZQ3dDNjFuQzg1bjVaNTNhWkc3R3NWZWEtdkZETjF0VHdXemtMY3hKbzJ2eG1WZ3BIcWFKX1diNG1UalNWb3lDX1NOeWt3Zw?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] RWE Is Latest Energy Giant to Pivot From Offshore Wind to Fossil Fuels in the US - The Well News (<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPOHBNS203SWZXaGVMNHFGNUYyUkJsdUQwM05JcGdtNWRoTkdyc3QtU09rMklmamFlaUUzOGhSV1JMdmVWcTVDVGNDTEo2RFJSVmplQzlJMEg5SVUxNTJBdktzVWNIdmFQbExhWmh0YnZKX3U2LUcwNGh5dnZWcjZlMmRucGJzNjFVS1NaZS0zNW10Vk5PWTJZS2lHaDU1RW9jUFBUZkZpdzdXUU90emxOb0NSSHJsVjBTOUFxQW82amFoSGJ4?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] Washington to pay €1.06 billion to cancel RWE offshore wind leases - Euronews.com (<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2ZiODlnY2Y2aTFSUWtFZUdfazlySXc5QUVtcXVwQl_0U01qRklobEFSdXdCN3FiM2VDd1liYXJrTkM5OE0yWjVqV0RBR0hMMWRDU0tJa01DS3dsTDJzQlYyd0g3VWlkUHVyNDFFR2psR0hpSkdjdDMyQkdtVEV0N29kSUUwX0RDb1FmRGp4dDlKbEdIZDV0Rkw5a1FZblJTVW81RFhVZlV4TXdDREM0?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] Trump Administration to Pay RWE $1.22B in Fifth Deal to End Offshore Wind - The Maritime Executive (<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGJHckd0UjRnWjhlcFJ2U1BESlJKNzdvNW91ZUk2a1RMZUNxOTR3SXY0OWU0M0x4U19CeFM3V25ZRzZPZjY2MXhMTHN5VVR2TDByQ2dqRUtHT2R6VlRHODJnc2Q5Tmx2YVRKUFQ2YkQ4OEdtTDdhZ1dWdG9VemxpMm9aZmFIWnhteXc0a2h4ZF9hU1lHSHdmdnc2Q2x5YjFOZW1iMS1Cd3pDN1ZFdGpYVw?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] Trump continues paying to cancel offshore wind projects with $1.22B RWE deal to ax its wind leases - fortune.com (<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNc3IzV0NXbWFjZ2VrTlkyVDhHOWxFWGtfbDVmM0RiZnV6SzBUcFkteWQxWXpOMGNlRV8wcW9Xa1VaVEp6OUNqS3d1QUVzVmdfWl9QbzU2dkYyZDE3X1A4MFRVOFUyUnV3Q2JTODM3SGdtNnBtVl92UHB2bVRoYXBQV0N6MElxbDVTUEJLT3MzTk1naVc3WlVvVGEtek5DdG5TYm1Zd3VydkZhUWJwdWs0ZFJjZW9DZW9heUhhb1BJaVJZRWpUdE1URE5Nc3hSa1NOSUN2MzZYYUM2SEJXVDNwRlBka0cwbllIY2VCdDZjbUlNY3B5ejcw?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] RWE, Trump administration reach $1.22 billion agreement to cancel offshore wind leases - Reuters (<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd3dYT2FnN21qMy1yZFBKZFMxNEFiUDVXUlZaVGhQZW1SUkRRQjNjcUtxTUVHQngwRURMeVNmUFg4LTYzelREUS1WS04xTnNGbHhIRmJTb1I3OW9mcXBhQ0E3ZkplcDgwMEw4QmhuZDJfRjBlQnRZUC1VbG9pZ2VvOVd5dVpmb1BLb0ZwNmNDUlpjMGxma3hjQ0ZwZlVCbGpTajc3UHBZOHpBcHZLbkNldHE3OElES2Frb254OWpTbVU2dw?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] RWE reaches $1.22 billion settlement over U.S. offshore wind leases - tgs4c.com (<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOa25ISGdRc3c5TlhCRDRVWXRnMjdQV2c0WTNqNC1QWVVzSkJYclkyQ2RiX3VuLTVobm9NSlJBZElvUWJIb0pVTjZWRDNOOVhLOXp1S2c5QXR2MzU3eTNRcGR5Y1ZRb292X1FaUE50LVctZm11bWpIVWNtMDFnX3dZWTFYODlOMEdrUV9MNjNwVEFpNElpR3JtMWFyeTZGMi1HNm9BSktSSUdGLXRPRmc?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] Trump administration will buy back company's offshore wind leases off 3 states in a $1.2B deal - KTVN (<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPS3JrNkUtc1F6NmU2a0hpM0pyRVZBaW9IbU83Q2hna3k0NUllOUEwNjdmUjVwaERfMzNOZ1h5R0FkLXVKMVk2Y2x5UjlFVTZlSEUxWXRfUHVsQTdoVUpLVkUyLUlYWGNpRDlrVGhEVXdkeGhmOTVNc1h5NUktZ3liSk5hYmFkR1Vvc1hXYktpeDRJMHpMWG51WDNlUEpJRDc3eVFlY2V1Y091V3k5dEU1UmwtNmRuTzBCVS1tZjU0LWxKU0duby1EZ0dXY2hUR0cxU1FfYksxZFBfRnZRTU1ybUVzdTJ1ajh1dng1bGhlSlBnaE1Zak9ZWVIyUFU?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] Trump Administration Inks $1.22 Billion Deal to Terminate Multiple Offshore Wind Projects - keyt.com (<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOMnlLT1RVWjJyekJjeTJKRVhhVkxmVWdET3ZZbHQ0QWFtdF9qQW1Kd1hreVh1N0J4WnRsdkROWUxXbG1TOFdUODhuNjJIN1ltX3NsNFlUaUFNVnpmekJ1YjQzRFlheUxrcWlFdGdET24wNHB4ZklTNlFyMjZfNG5oOE00OXpGTmM4LWU0TS1GdUwyUmduUURldnp6M2VjSzZWSVRGTjM5ZzNYdEdhSHl6SlJrZlJSYTZDWVJxTWlDeU5YMWN1QmpqOXZRUTF2dw?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] Elected Officials Outraged After Developer Vacates Humboldt Offshore Wind Lease - Lost Coast Outpost (<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPTm1MN1FPMTBoQUxRVnFTLVUwX2IwemJfdWxCbXZXbDVKRGg1eGtGUVhEUkNibXF3NVFRcUtkZThycnJ3bDJHQ2xseUQzMTZyY3NLaVMxTDh3RWktcVZpOFZQVjJVd1lPbEFyZTN5RzNVOVV2UkN0bFJhUFdqVUZDR0tWM0VWX1JxNnpydC00R0Z5Rmt4SGc?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] Trump administration will buy back company's offshore wind leases off 3 states in a $1.2B deal - Ottumwa Courier (<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOOElWVWFiTmRWeTVYSEMydVdpTFQ1SGRFMFlQNVZnNW0xU3h4Qk5oNWRrcjRQSVA5b0dERGR3MmNoMUx5SVdqMW5KanJsck4tam1pVzV2c2pZNXpjRHQwWWc4a002bTJkQ3BnM3h4R01ZR2NJYWRrckx0bFB0VnR5ZHp3a0cwN1JBZ1ZGbHAxeGlkQkFPdlhnVnNDbVZuem5oRW5oUU5tblFxZnlhQ0FCQVZlclZZbjNraW5mZEFvdnJocE1zTEdXal9XeWxJaVpwdVNLN1ZZNl9Md0xRSFZzZFNTa1kwem5KakFvakY4dFJuaDY1LUh4RjZHQ3drVlpLSDUtaWtiT3pZeFU?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] Trump administration's latest buyback of offshore wind leases brings total to nearly $4 billion - The Wenatchee World (<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxOSjgtYVh2azFIVHBUTVhqZW1td000Wjc2ZXdCM2RjTndJbUFfSWJGbFUyUTBsc2ppdWE0WEp3MzhuZmpSQ3FmVUVmNXAwdGpadFdVcmpLb0N2MHRfd2lQUTlxRG1WSm1aZkJxRnJOcXEyN0pkZVFRdC1VdmNwODMzeHR3WnFub2VDUWc0ZmxDZlptZ0JuYThBdVpyLU9nU1l0dC1WNUYtcG5COHVGSFZ0OTdOOS1uLXFJM0NmQXY4amRGdjhhdU5wenVUTm9OVVR3dHowVVZTQklYODM4Yi1kMHJ2eVRudG90YmNfVVhfRzRTTnlERVRtQUktSzBRYy13cVpER2o3ZWM1N1BiaF9pWg?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] RWE to scrap three offshore wind projects in $1.22 billion deal with Trump administration - Washington Examiner (<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa0pDa0dXc3lKUUJzN00wZnVqUUVpdExTTWNrNWY0b2tQSnpQQWttU0ZMQ2V3a0paTUt3ejgwTDdZU0REbUc4OEE1REVjb3F2YmJWN19TOXNfOW5aMHdOdDRtTzdBSldOWVNkMlM2VVNkOHhrMmFSUjVWT1NSRmpuZk80YnlEcTdXU1N3cnJYaEstOC1pZGdqMHFxNkYtSjNpN3A2R0FWekpDaFlpSDdzbkZBQkp6d2FMR1pHVG9DbjVMZUxGSmJtdnVabHdZaVVNa2tXTA?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-07] Trump Refunds $4 Billion to Cancel US Offshore Wind Projects - Bloomberg.com (<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTZ6dmw1cGZwM2hBV3dFRk4tTlRTYllJS0ZfU2Q0TVRRVFM2dVBRQnhya1UtMUtEUkdPQkdhQ3N0Z1RQSU13OWJVSFpEYTd0eDdZRmNpcFlOYnc1dkNMcFRYOVZoeXQxeS01VEo5T3UySWtBd0RDTDhfQzFpcmxmbE92cnpDRm1PR0J0SWlPdFkyNlpWVVhoMU1Ta0FyMUVaYmowWk1DcVNGNVpzeVdn?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-06] Survey seeks impact of offshore wind power on seafood businesses - WorkBoat (<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONWx2Zm5aUUNPOThSYUJYTE9CZi1jQ3k3MlNhTm5ndHBGZGJXOVdZazdDZTY3c2Q3eGZQdVhMakwwRFY1NDNHTTlJLUpxQy1LeDJNZF9FX29jZU5SSk4wRnF0ckc4emlaT2l0ODNFUVd0bjZxbHJ4VWVOdV9BUmVqX0ZuWko3WDNqMmNnS09VMlU5YXVBVXA5RmlR?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-06] Successful Danish offshore wind tender proves that CfDs deliver competitive bids - WindEurope (<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOMnN5VTdLaE9DdWZ2UWRrazlpZU94NUdUNmNZZFd2WHV1WVR2Y0hmMzI4c3ZldEFwWEEwSVgwLVJSVUlGbEpuMVhmR0l2cHY0YUdoX2ZlazZNamZ2TEZVUnczUkMyaXJHQXNOc3B0Q2lUVkdoQmpjcW1vX1lQWkMyc2R2SE0xcTNQZXF0ZkZLc19pNFRhTjVFVm5nREpJNTNWMTJWS19JQi1KMk9EUUE?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-06] Virginia Institute of Marine Science calling for seafood industry to participate in wind energy survey - SeafoodSource (<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcko0SHUwRlJFR2dFNS1oM2VIRklnY1pkRWtpMndaeW9DTFpPY1RMTXd4Nl9GSldqWGIxakZNZDhQVUl0THowbWJ3MDgzUk56WGdPc0pmUDRZSkdUenlPMUY3TC0tdDNHNXhHcHlGSmx3bmNYb2xsSHg2cTNrV1A2eXFIYnJ1dmNjbmRRQUZQdC01YXp5c3VrUDZXRVd2bkE3d01TVkdVMzZrSXhtZWpjVE1BQk9Pby1MeTQ1MWFDR0Q4c2JGMlQ1N2ZDX2NkSEREMGhV?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-06] CNOOC 16 MW floating wind power platform is now operational - tgs4c.com (<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPT2pBTU1pNTFEZ2hNMTh3c1p2UmQyazN0U3d4NVdwaDdGYmcteVZPcXZyZjRsdk55eFE1cGJRVjQwbi1tb2otZnN3VXR5S2FqNHhxZS1ydWFGN1IxaTNBeWRYRjAzU2V6NzhqYlVCdGVLR0tqMkw5bktaRVdwWGpHdmVZejdFdTVfLTQta29oR25PN1VUUllyMDhiT2g5ZTUySEE?oc=5\" target=\"_blank\">링크</a>)</li>\n    <li>[2026-08-06] Swedish offshore wind prospects ‘improving’ despite rejections over defence concerns - Wind Power Monthly (<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPUjFPajBEX0t0SXZGc2VqczF2VlhKMEVTSHFiXzM2M202blVmTldqMDlEdjJPQ1lRUW5KQWlLc0RLUG1PS0JnTEtDcWVzdFoyN0Zob2xObU5FZWVpOWF0b2dabWRnWWFIRFE4SG40YWF3RlE1STVDQ3JldlhodUJ1NkI3NHhlazJKYUpjaGZEeVFybkZwX2FRTjVWdHowRno0b3B4TWxIek9sYUdIUFlVeEV6aTNkOUR5bVNORWNQUU02cVBweE1k?oc=5\" target=\"_blank\">링크</a>)</li>\n</ul>\n\n<h2><b>산업 시사점</b></h2>\n<ul>\n    <li>\n        <b>정책 안정성 확보의 중요성 부각:</b> 미국의 사례는 신재생에너지 산업에 있어 <b>일관되고 예측 가능한 정책 환경</b>이 얼마나 중요한지를 극명하게 보여줍니다. 대규모 투자와 장기적인 사업 계획이 필요한 신재생에너지 프로젝트는 <b>정책 리스크에 매우 취약</b>하므로, 국내외 사업 추진 시 정부의 <b>지속적인 지원 정책과 안정적인 제도 마련</b>이 필수적입니다.\n    </li>\n    <li>\n        <b>민관 협력 및 지역 사회와의 상생 모델 강화:</b> 국내 해상풍력 프로젝트에서 금융권과 지방 정부, 지역 주민의 참여가 강조되는 것은 긍정적인 신호입니다. 이는 <b>초기 투자 부담 경감</b>과 더불어 <b>지역 수용성 확보</b>에 기여하여 프로젝트의 성공 가능성을 높일 수 있습니다. 이해관계자 참여를 통한 <b>이익 공유 모델</b>은 갈등을 최소화하고 사업 추진의 동력을 확보하는 핵심 전략이 될 것입니다.\n    </li>\n    <li>\n        <b>글로벌 시장의 다변화 및 기술 경쟁 심화:</b> 독일의 신재생 발전량 추월, 중국의 대규모 해상 변환소 구축, 인도의 풍력 터빈 도입 등은 <b>글로벌 신재생 에너지 시장의 성장세</b>를 명확히 보여줍니다. 동시에 AI 자율비행, 부유식 풍력 등 <b>기술 혁신 경쟁</b>도 치열해지고 있어, 국내 기업들은 <b>기술 경쟁력 강화</b>와 <b>새로운 시장 발굴</b>에 더욱 주력해야 할 시점입니다.\n    </li>\n    <li>\n        <b>유연한 시장 메커니즘과 리스크 관리의 필요성:</b> 덴마크의 CfD 계약 방식 성공 사례는 <b>합리적인 시장 메커니즘</b>이 신재생에너지 투자를 유인하고 경쟁력을 높일 수 있음을 시사합니다. 한편, 미국의 해산물 산업 영향 조사와 스웨덴의 국방 문제로 인한 풍력 프로젝트 철회 논의는 신재생에너지 개발이 <b>다양한 사회적, 환경적 요인</b>과 복합적으로 얽혀있음을 보여줍니다. 따라서 프로젝트 초기 단계부터 <b>다층적인 리스크 분석</b>과 <b>이해관계자 포용 전략</b>이 수립되어야 합니다.\n    </li>\n</ul>",
-  "lastUpdated": "2026-08-07",
+  "latestReport": "\n<!DOCTYPE html>\n<html lang=\"ko\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>신재생 에너지 산업 분석 보고서</title>\n    <style>\n        body { font-family: sans-serif; line-height: 1.6; color: #333; }\n        h2 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 30px; }\n        h3 { color: #34495e; margin-top: 20px; }\n        ul { list-style-type: disc; margin-left: 20px; }\n        ul ul { list-style-type: circle; margin-left: 20px; }\n        li { margin-bottom: 8px; }\n        b { color: #e74c3c; } /* 강조 텍스트 색상 */\n        a { color: #3498db; text-decoration: none; }\n        a:hover { text-decoration: underline; }\n    </style>\n</head>\n<body>\n    <h2>신재생 에너지 산업 분석 보고서</h2>\n\n    <h2>주요 이슈 요약</h2>\n    <ul>\n        <li><b>미국 트럼프 행정부의 해상풍력 프로젝트 철회 정책</b>\n            <ul>\n                <li>트럼프 행정부는 RWE를 포함한 여러 기업의 해상풍력 사업권을 총 40억 달러에 가까운 비용을 지불하고 매입하여 프로젝트를 철회하고 있습니다. 이는 미국 내 신재생 에너지 전환에 역행하는 정책으로, 관련 기업의 투자 불확실성을 가중시키고 있습니다. 다만, 미국 법원이 트럼프 정부의 풍력 프로젝트 동결 조치에 대해 위법하다고 판단한 사례도 있어 정책의 향방은 여전히 주목됩니다.</li>\n                <li>관련 기사:\n                    <ul>\n                        <li>트럼프 정부, 1조7400억원 주고 RWE 해상풍력 3곳 철회 - 네이트 (<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE91YXM0Ul9NV2dJR2ozZ3dIazdMUDQ5c1BvNExmbVZTVklHSlV1Sl94VHBxWFZwRi1xRFZfdGZjYWE1aWxfRFNwaW5tNXN4RUZBbklxd1VFbVJuV05BX0tQZg?oc=5\">링크</a>)</li>\n                        <li>트럼프 정부, 1조7400억원 주고 RWE 해상풍력 3곳 철회 - 뉴스1 (<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwMTgxa0swYUpnNDQyYnRlM0h5ZkZoZXR6TTJuMHNDb21QaWNjUVpFSk9KLV9jB29md0pMMFpmY2VZWnVteEhid201Wko4a3UyT3NMMkVxejU?oc=5\">링크</a>)</li>\n                        <li>미국 법원 \"트럼프 정부 풍력 프로젝트 동결 조치는 위법\", 해제 명령 내려 - 비즈니스포스트 (<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5GbzdMRlVoalRTNnFrTDE2Y3o5bDYyME9oOG95TnhDcV9JOWl6WjhDWk1jTDI5cWpQREk1dnM4NnR1SDNxVjBFN1dyZTRPY25GNUdMQVMyTF8wbEhCRUZpdC0yOUQ2SmlFbllhU0NoelU1M00?oc=5\">링크</a>)</li>\n                        <li>Trump administration’s latest buyback of offshore wind leases brings total to nearly $4 billion - AP News (<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPd3R1ek1NVGttOHhoeDFOU0d2LWpWbFdxSnBYRHAxSnFYZk5hV1NXdWdiMXFzMURWUXR4ZzA1UFhfRUxiRHVfdVJyY1V1X2tmczJ6Mi15SEEtUnhPMERJRUJQNmV0MlVQVS16TFpHdUxSN3M3ZTBISURzZW5iMVhrUjlzUU9fUXZoLWlOd1NGY3Y1RkZlOUdvbWlQSlJnVEZqTzVTVS04WWdTbVhN?oc=5\">링크</a>)</li>\n                        <li>RWE accepts $1.2bn Trump deal to return offshore wind leases - Wind Power Monthly (<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWHd5cThmWjZzckw3NzRnWnAwbHdoR2s0ckkya0RWdTY5SlRtTG40UTZKa0pYaUloQXo0TG1zazZGa2xFMjZzVFVoMHJJWW03bU5mbnYyYWZCbkpFamp5cHRXZnVkMWoyZUJQSjhYNjlYYWhVWGprLS1kcFU1UWlqWmQxSEtLREFpYmYxVVF1Nzobiw?oc=5\">링크</a>)</li>\n                        <li>Trump administration will buy back company's offshore wind leases off 3 states in a $1.2B deal - Bozeman Daily Chronicle (<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOUkVtNWxfa1BHYW9sVDJmMVVhQ2pmdkhGUUw5ajRYeHhKUElFRGh3Q0dCVUxoQ1ROb05wZ2trR3d3cmFSMHZwMGF5TmJqT0Q0WTc5dUdHeUlDbVRTSC1DMU82alZNQVFYVUVtY1ZxWExYZTYxWkF5S0FqbWdTLUdxb0lGc1lGZkV6YktpUWotaEJ5RVpYdDNiYVE5a1RGMmtpYnhFZXJlSGlteVhWNV9kSi00bk9lanVraWRwcF9KMmg4TXY4WFpDOEgySkNrUmZUQ1RFTUxUV0NUc1RCQ0czTHVjek5ERlc3Vko5aTVFTFU2MHJTOWxyVTdDeUhObG1xWXRWcnB6TzR3NkNhUjNEZDlFUmI?oc=5\">링크</a>)</li>\n                        <li>Why Trump’s claim that offshore wind is a security risk is ‘ludicrous’ - Canary Media (<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2Q5bno2Q2Y4OWh5ZDd4dkdxaVo3SE1Sczlqa1RhOEZrTVFZRjJjenRFX015WG9TRGtGSV9pNlU1UXpvRHdqckpZQ3dDNjFuYzg1bjVaNTNhWkc3R3NWZWEtdkZETjF0VHdXemtMY3hKbzJ2eG1WZ3BIcWFKX1diNG1UalNWb3lDX1NOeWt3Zw?oc=5\">링크</a>)</li>\n                        <li>Trump administration's latest buyback of offshore wind leases brings total to nearly $4 billion - The Wenatchee World (<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxOSjgtYVh2azFIVHBUTVhqZW1td000Wjc2ZXdCM2RjTndJbUFfSWJGbFUyUTBsc2ppdWE0WEp3MzhuZmpSQ3FmVUVmNXAwdGpadFdVcmpLb0N2MHRfd2lQUTlxRG1WSm1aZkJxRnJOcXEyN0pkZVFRdC1VdmNwODMzeHR3WnFub2VDUWc0ZmxDZlptZ0JuYThBdVpyLU9nU1l0dC1WNUYtcG5COHVGSFZ0OTdOOS1uLXFJM0NmQXY4amRGdjhhdU5wenVUTm9OVVR3dHowVVZTQklYODM4Yi1kMHJ2dVRudG90YmNfVVhfRzRTTnlERVRtQUktSzBRYy13cVpER2o3ZWM1N1BiaF9pWg?oc=5\">링크</a>)</li>\n                        <li>Trump administration to pay German firm to halt US wind projects - BBC (<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ea2JGMWFDRGVjQy1Lc3o5ZW44OWVvODlkc05aWElPSHFCQlRkclI2ZzJnQkdpSE9mckE0TzFQRnlrdWR6VEVORExUek1oM21jREtjbGc0WFNudw?oc=5\">링크</a>)</li>\n                        <li>Trump administration has spent nearly $4B to cancel offshore wind farms - TechCrunch (<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYnpTX282RVFjMDg2c05NbmpTMDg3RTRpbGdfeFFFa1dxV2M4Y1VOTXpxTDdFT2Y3aHplQ2dfUUE3UVFHSkt1MW82NnF4bjBMd0l0RXZiTF9tN0tCcTNhOUExUTlOMlAteGJkWGJYOTlwS3lzcjdDOUN3X05XS0JVdXA0TUQyM3ZZQm4wN3REMVdjZUFLVUlOdk94bk9fdU1vX1hqX196WUs?oc=5\">링크</a>)</li>\n                        <li>Trump Refunds to Cancel Offshore Wind Projects Total $4 Billion - EnergyNow.com (<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFlTVkxhXzFMSEU0WFNCcGZrZzlYdGc2UmV4SzE1OTNzczA0UTVtQjFiS0F5NWh5bXdDMXU1X1JWblppenpiN1BKa2tyeHNTQzFRb1c3cXBVc3kwZDBQa2hNY2RUUlpwSnIyMmZfYzN1dFJBeE9RaE96S29TZzlwR21WbnVHaTBZSDZDQ3VMakVRN014TlUwQw?oc=5\">링크</a>)</li>\n                        <li>Trump administration will pay $1.2 billion to cancel more offshore wind projects, calling it 'common sense' - Reason Magazine (<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPLTdnbExzcmdhekpUdEFFRjBpdEIzYmMwYjdqTnBNZUp1LVh6ZDFETkpuNXJQeHRUMUlXYjBUMWpEM1Q0NVpoVXBNZkh5TTl5LVRsanNyQzZIbEFMcmhRQzFjVXBZVlRUblZTVVVRMkxqc3JYbHN4S0ltdm1wYzM3MG9ScFNGMERKLWNqNDVBT0pFUnc3UWFKN2d1Z01TX01LOUV5ekt2SEdvaloxdkROdnVDMDBJRTNOcHVpNGN2ejc0MWVTZTVfb1dFMEpmejQ?oc=5\">링크</a>)</li>\n                        <li>Trump administration pays $1.2 billion to cancel more offshore wind projects - Northeast Times (<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPcS1qYmlKS2lLUVRMVFh1X01obWNxeTVIdUZlN3JqVmEyclBCQmZzeGdEQlZTa2VVak5BRWl0WG9yWWdNMUk5N3Y4azVEcXpyMmZ2dWZzenRtNGlLUk5kTkMxbVotLVZFMzdBb2EwWERZX01XSWlxVFpON0U5dlVSd1daSmtya2JDLWJlejhCOF9MMXAtUlpSSVFiRF8zbGrybDRDN1lFMEpmejQ?oc=5\">링크</a>)</li>\n                        <li>Trump Administration Spends Another $1.2 Billion To Kill Offshore Wind Farm Projects - Engadget (<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzVFRGRld2s3M2pPemZRN3VtdURwRXhncExXaWhEU3NOcHZla0FMR05hUkNmNUcybW5UNmtQaDF4OExnNEtQYldIeHVSUER0LU5KVVUtY0FKOHY5MnJqYnBlZVZqX2hDa3ZCeUZhZXpEZzhtcmlNdFhiNUh0TkVETDBuWjRKS1puOTRSaFZ4cGdJMHd1YVJMMWc4b2EyOHh1eXRZdGEzYk0wWjJrZVZxcFVWNFBsTi1M?oc=5\">링크</a>)</li>\n                    </ul>\n                </li>\n            </ul>\n        </li>\n        <li><b>한국의 해상풍력 개발 가속화 및 금융 지원</b>\n            <ul>\n                <li>국내에서는 전북도, 고창군 및 주요 금융기관(우리은행, 신협)이 동촌 해상풍력 발전사업에 대규모 금융 지원을 약속하며 해상풍력 인프라 구축에 박차를 가하고 있습니다. 또한, 정부는 태양광·풍력 등 6대 전략 산업에 대한 국내 생산 세액 공제를 신설하여 산업 경쟁력 강화를 지원하고 있습니다. 해상풍력 인증 교육 거점 마련을 통한 인력 양성 노력도 돋보입니다.</li>\n                <li>관련 기사:\n                    <ul>\n                        <li>전북도·고창군·금융권, 동촌 해상풍력 금융 지원 맞손 - 더코리아 (<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0xU3cxaWswaEpEMnZQc2pnZWU0SXd3SmJlclozWjI3QVVud1B5OGVURzJHZ3Voa2lwcUd0RzdFeTJ2VmZISm1JWEhHMUtJdTJxdUxNbGRHT21QdG1FUDFMMDV2ZFpfZFQwUUE4bDBKRkc?oc=5\">링크</a>)</li>\n                        <li>산업부, 국내생산세액공제 신설…태양광·풍력 등 6대 전략 산업 지원 - 전기신문 (<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5oN3dCN1lQQmhRcF94YTJHQmpVUkN4eGJYb1NsZ2JubnZkam9yUVJ2ZXpZLWhycVhMc1A3OVRFcWx0SXE2WXNGYWFIcVczR1FtdHF3M3ZZdnVQc05Dd25LMkM5Z2J6ay1XUHFwVdIBcEFVX3lxTE1mYlJNaTFNWm8ta044WGpjWFpvTG5hNDdxZl9DaVlVZzFYSWpYRmZ3WDBiMWhXTTBTNHRHaU5yV2dzNkI3WlBjMW1WWHd1aDJzcF8wUWZoN1pKdXhDNHFXUmw5S3R6MWc2WmJxTm02QWY?oc=5\">링크</a>)</li>\n                        <li>우리은행, 전북 고창해상풍력 산업에 생산적 금융 지원 - 머니투데이 (<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE51YnhEU0NfNXNLRC1rSmdkVlMwYi0zWDNwVzRTTTJtNkUxamFVUThNQ2tuNnhubER2Wm9panAzcWJVaGxKYWNkUWE0YUdSNkRYaWVKRWJVa2tuUkNXLTcwRWNwdmF6aWU2ZEN30gFwQVVfeXFMT05sa2c2Mi1DYVp2LTJ1V0NsZV9RbzhrbF9qOUhLbjg0N1p6b1hlZHFQc3pFU1ktVnRwODNxTHpLNjJJaFo0Skx2VWdGTlRRZjNKOVJmSXZqbGk3cXZZNVdPS3NCS3JfX2t6TDVLbDhIUg?oc=5\">링크</a>)</li>\n                        <li>해양수산연수원, 목포분원에 GWO 해상풍력 인증교육 거점 마련 - 데일리안 (<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxONmc3b1BmcnctcUpVMjBIdEFFU3FIZlYwckZYZ0gyUjYwYUtNQVh0bTZZamRxeUxWNXBCdDB5OTZ0MFF3RXU3UFNPWV9MaWZ4U0tJeGdBTEMwMWxlRnlFWkY2bGYtWmVwcExZc24xMmJNWnI0cElmc2syeU5pREpEVUxGZFMxenlNbWQ4bWlCdHpaSXdPSEVPMjRYZ3pHSXRnVEVkTnY3TTVrUTJ6QUNzcTZCZ2Z6ZFRJZTZhQUhoMUZEcUF3UkF4TllhODNQT3B3aDd1ZFVhTlhjemxKaFVnZExhVnRSRkJpU0ZOWFI2RjZtTjNHRkF3TGF1dkU0Q1c3cTJRSS1BZmNwclNtRFE?oc=5\">링크</a>)</li>\n                        <li>유니슨 \"국내생산세액공제·풍력 인증개편 수혜 기대\" - ER 이코노믹리뷰 (<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9vSEcwc2Jkck9qVlBtNHl2M0cwUEdreDZtY1F4Mmx5TUhJMER1YXpyNm9VWW1aQ285Vl9SaHZ1Y2NmeERyYmRHMml6WUV0Y2FOVUFOVXY2SG14endHVkFDS1ZCYmNkb0RXc1B6bQ?oc=5\">링크</a>)</li>\n                        <li>신협, 고창 해상풍력에 1,000억 원 규모 금융지원 - 한국경제TV (<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5OanNIcVBpRkF1UWxvWUlHNUJpUlNJWnlIWGxkdlR1THp1R0JSbG92ZUMyQkpBSlNFNHV2M3R4Tnl4M1FIUi12OGl0UDJQVmk3SnozSmhLYXFhQmxqZW15ZDE2VldxNHJrbmRWQk1NSnR1LS1kQTBN?oc=5\">링크</a>)</li>\n                        <li>우리은행, 전북 해상풍력 발전사업에 생산적 금융 투입 - 에너지경제신문 (<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hd1NxSm1rcGZhdm9fd2dtSDJSR05zeFhseUtIVFBNMWhHVjYwUWZQMEU3aG4ydmZlVHNEc281WWFDa3JCTDBKd0J4SnZrUVgzQl96MlBsX0F3d1J0Z2lYS0wyZw?oc=5\">링크</a>)</li>\n                        <li>우리은행, 전북 해상풍력 사업에 생산적 금융 4천억 투입 - 뉴스;트리 (<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSbzBRZ2JpVWNCUWxFTzZNZ1NyaE1FcVY1NVdFLS0yNnN1dlZVZzVRSndtajRBUnB3Rkk0dVdsdzl3dGhBbWxQSjJjQzVreWZMOWNOem9EdzZSNGpj?oc=5\">링크</a>)</li>\n                        <li>우리은행, 4억원 규모 고창해상풍력 인프라 구축 지원 - 베이비타임즈 (<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBtRnZjVmtNVkppem10bmZlWWRHbmh2NWk1NEZva2xtdG5uNlUzcF9Rek85bWY4UjBsQ0pfNmlVOUo4Y2EzRlRBV1RCYzlRTEx6TTdEa2FTb21xVlJMdjkydEJid0thdUswQlRhQw?oc=5\">링크</a>)</li>\n                        <li>[은행브리핑] 우리은행, 전북 고창해상풍력에 생산적 금융 지원 외 - 서울파이낸스 (<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBZeXpualN3aVhjZ29uekNhdmNzN2hCTXdoLVRkbll5OGtmSF9CaFRFMzg0ajliTG5VYWc5YWhKZjRKa3dTRGF0RWE0eTVzeGktRXZ0X2VRQTJ3SGlyYml1RXZvSXRuTnRzQWc?oc=5\">링크</a>)</li>\n                        <li>우리은행, 4000억 고창해상풍력 금융지원…전북 첨단산업에 전력 공급 - 재외동포신문 (<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1Mc3NDNmhITG1wcWNCbmMtMTJRX2lY5LTdRLWk0elVYE0w0NVdzRUZNLVhlUUZZYWY3bU51YVJUSFR5WjhuUGljZTNmTUtwb0NaLVFTVkRGaHlsUUhzcEJ6dm9lNkpjWml2bEVXcw?oc=5\">링크</a>)</li>\n                        <li>우리은행-신협, 전북도·고창군과 4천억 규모 고창해상풍력 발전사업 지원 MOU - 파이낸셜신문 (<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBSd3ZkMnpBclZQYmJoN21PMWgtdzBkdUFPV05XcE56YVhfSXBOdGtBWW5NMFhpQmFVaVVmZU5PajhCU0tudXVaSWZyOFF2X2xDSVExSXY2TkpORTJTNmpGd1VobGxJY3F2MGdj?oc=5\">링크</a>)</li>\n                        <li>우리은행, 고창해상풍력에 4000억원 금융지원…지역산업 육성 나서 - 인더스트리뉴스 (<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5EUGdHandxdVBnTFozNEtwc2Ywc3FKMEYyN2lQMzVfbnRZcTUzRmM3U0dvdHFVbmZkT0dMei11dmFfdEVhN1hBU05DZURjZERPVkh1dzNQejRoQWJIanh4Skx0b0JKZk9mcGd6UTc3M2Z6UQ?oc=5\">링크</a>)</li>\n                        <li>[은행 Talk Talk] 우리銀, 전북 해상풍력 산업에 4000억원 지원 外 - DealSite경제TV (<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sWi1aZVFuRlhtUUR4dng4c05DZ2JOY2NIR2M0Y1RKUjhsWHgzQWdTc1BoRzB1V3lzRFVZcXVRajL9aUNhcWxwU3VFOXdjdzNSMGRpUEpR?oc=5\">링크</a>)</li>\n                    </ul>\n                </li>\n            </ul>\n        </li>\n        <li><b>유럽 내 신재생 에너지 비중 확대 및 통합 강화</b>\n            <ul>\n                <li>독일에서는 풍력과 태양광 발전이 사상 처음으로 화력 발전을 추월했으며, 유럽은 기존 수력 발전망에 풍력과 태양광을 추가하여 25GW 규모의 전력을 확보하는 등 신재생 에너지 통합 및 확대에 적극적입니다. 덴마크는 1.8GW 규모의 해상풍력 프로젝트 계약을 체결하며 유럽의 선도적 역할을 이어가고 있습니다.</li>\n                <li>관련 기사:\n                    <ul>\n                        <li>유럽 수력발전망에 풍력·태양광 더해 25GW 추가 확보 - esnews.kr (<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hQ1NjUjdPRlZfbFpPX1dWYWhuV01jRWp4c3RheHhnVzNNZnZwLXh2aURiU04xOF80QjF6ellKSXdVQ2dtb0dsa2tzanY0NTNVOUdEbmRYWnNZLWN1MjU4aWpnMWo?oc=5\">링크</a>)</li>\n                        <li>(해외환경뉴스) 독일에서 풍력과 태양광 발전, 처음으로 화력 발전 추월했다 - 제주환경일보 (<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yRzBxMWx6SUdzd3otUWxaNDNHVS1CWWZiZUhPOVVtUHRWa0d4N1dBOHp5U0xBMk9VRTkxaW5CMzNDMVphU2hzTmRscmRTZGVhdzNqd096b0tkZlI4d2RXRVhtOXd0RE45?oc=5\">링크</a>)</li>\n                        <li>Denmark awards Vattenfall contracts for 1.8-GW offshore wind projects - Offshore Magazine (<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeVlSOUJJRnJBSldtM2V3b0V1RnR2SnB3LWw3Q2JpTnc1ZDZMQkY3T19JdnRjZWxBVXROcGlIZXJXVmcxcmdwQ3hHZE5YZE1MQ0NqWTFCU29Rb1g5azZTSFdZOWNwU2JaTFRwYnJUbGZ4T0ZoSExKaXZsOWNqTG0zeXItbHVPMXRYdG1FMGxEVGsxeWItWnkwdEJwbTdGZkhZa3loSXY3bDNBZ0huVXJBUTlnTGQwNHVwQjNxc295R1ZfODJ6YmE1R3NnLU41Vk5JdEVSZmJn?oc=5\">링크</a>)</li>\n                        <li>Hesselø & North Sea I: Vattenfall’s New Danish Wind Farms - Energy Digital (<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOamFIci1ZZC1pSDlBRzBOekpxZ0NkYzNlZ2c3M3lPdkNKbnozM2hrZE15bzBwM2VuekYtNWtleWxKTEdMcmttRkJPYWdVLVZtaDFJTm9RMUtIRnVYYlc5c1p0eFhQYlFjZzJ1MjJ1eXdSREVQaktJUzZwLWt6d1hHYWI5X1Y1SVZnVDBxVg?oc=5\">링크</a>)</li>\n                    </ul>\n                </li>\n            </ul>\n        </li>\n        <li><b>신재생 에너지 개발 이익의 사회적 환원</b>\n            <ul>\n                <li>제주도는 풍력 발전으로 발생한 개발 이익을 활용하여 폭염 취약 가구에 냉방비를 지원하는 등 신재생 에너지가 지역사회에 실질적인 혜택을 제공하는 모델을 제시하고 있습니다. 이는 신재생 에너지 프로젝트에 대한 지역 주민의 수용성을 높이는 데 기여할 수 있습니다.</li>\n                <li>관련 기사:\n                    <ul>\n                        <li>제주도 \"풍력공유화기금으로 취약가구 냉방비 지원\" - 뉴시스 (<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oQlRxWW1qTVF2d0lVRUVIY2hXMHp0WlZxdXY3MVdtVFU3SVRmOUxXdllQcWJiT0E1Rlk4dDFoQkh5SzRwd0c4T2JTQ1Y0dHdkc21fOGNoYVo4eERRaWxUR9IBeEFVX3lxTE03QzYzWmUwSmpnUTBRNXp4NGd4ejFzdHEzV0RzYndSbXotVzU0LTJPdEFVME1MQzdHSVA2ZHpuMlJWd0FGeFFxU3ZaSGlwZHVpTHY2V1pvY2VnVVFJSGw0ZmNjWGdpYUhPeDVhT1lJejhiVVRpSlI0bw?oc=5\">링크</a>)</li>\n                        <li>제주도 풍력발전 개발이익, 폭염 취약가구 냉방비 지원한다 - 헤드라인제주 (<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9PMFcyeDJXcXhFa2RTZ1B0SXRVdGNVWXpUNEhYRWFiNmdIYTBvRGJsZ0xIV2J1dGpqSDk3ZG1VQzV5cVZPekgzWXVGeUt0NFNQRW9VTGctN3dOT2tLNElMd0pmUUstVGRPSEpEeklCNXlMX0U?oc=5\">링크</a>)</li>\n                        <li>에너지 취약가구에 풍력기금으로 요금 지원 - 제주의소리 (<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBwU2JaRlhoNjlRRmtES0t5MzFnSnpwWVRGV3hlRHgwVkh3WmpXYzBockI2NVg1S0lxVnk3SlBaVlZCY2FUWm96ZmZJcFYtYVlpaEFGSkllZHdCQnR4M2xqcUQzQUlRb0tYS1Rv?oc=5\">링크</a>)</li>\n                    </ul>\n                </li>\n            </ul>\n        </li>\n        <li><b>해상풍력 기술 혁신 및 신흥 시장 확장</b>\n            <ul>\n                <li>부유식 해상풍력 시스템을 위한 빠른 연결 시스템 테스트와 아제르바이잔의 해상풍력 개발 구역 승인 등, 해상풍력 기술 혁신과 신흥 시장으로의 확장이 지속되고 있습니다. 이는 장기적인 해상풍력 시장 성장의 긍정적인 신호로 해석됩니다.</li>\n                <li>관련 기사:\n                    <ul>\n                        <li>Encomara Tests Squid Quick Connection System for Floating Offshore Wind - environment coastal & offshore (<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOdm8xY1ZDYlcyVXRuMHZXazU4ZGJocTlDaFFrNExlLWFVeVB6MkJ5TmhWZHNsSzN0VnZ2U0RBMl81NXVMN25sYVBZQzhnMkRkT2pWaUZDSnE2a2QzZHp6djcxaE5NcDRIQmR4YlNnWDNLcG12dDhETjl1b0xMMlViS2RMOEYySHdyRGxNeW1hcnpHSmgwZk1wa2I5bXhGVTl1emJqNXpLVm5aRThDTHBB?oc=5\">링크</a>)</li>\n                        <li>Azerbaijan approves offshore wind development zone - 4C Offshore (<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQVEc2Y0dqTXNTU3lpYUp1U0QteTUwTGpzM1pWekxFTnV3RGw0WmJJZThHaHhoZHBVTThQT0pwRTloYWM2VTV3Q1EtQW5CZ0ZZbDRFQzBZRmQ2MXJiY3V2b2x6SUsxSXRVdi1UZjJrUFJxM0xTNW1IenVuUFJKa2xlbnZ1ODd0b0JpX2lMTzFsVnZFcTM0a1E?oc=5\">링크</a>)</li>\n                    </ul>\n                </li>\n            </ul>\n        </li>\n    </ul>\n\n    <h2>기사 목록</h2>\n    <h3>국내 이슈</h3>\n    <ul>\n        <li>[2026-08-07] 트럼프 정부, 1조7400억원 주고 RWE 해상풍력 3곳 철회 - 네이트 (<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE91YXM0Ul9NV2dJR2ozZ3dIazdMUDQ5c1BvNExmbVZTVklHSlV1Sl94VHBxWFZwRi1xRFZfdGZjYWE1aWxfRFNwaW5tNXN4RUZBbklxd1VFbVJuV05BX0tQZg?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] 유럽 수력발전망에 풍력·태양광 더해 25GW 추가 확보 - esnews.kr (<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hQ1NjUjdPRlZfbFpPX1dWYWhuV01jRWp4c3RheHhnVzNNZnZwLXh2aURiU04xOF80QjF6ellKSXdVQ2dtb0dsa2tzanY0NTNVOUdEbmRYWnNZLWN1MjU4aWpnMWo?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] (해외환경뉴스) 독일에서 풍력과 태양광 발전, 처음으로 화력 발전 추월했다 - 제주환경일보 (<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yRzBxMWx6SUdzd3otUWxaNDNHVS1CWWZiZUhPOVVtUHRWa0d4N1dBOHp5U0xBMk9VRTkxaW5CMzNDMVphU2hzTmRscmRTZGVhdzNqd096b0tkZlI4d2RXRVhtOXd0RE45?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] 전북도·고창군·금융권, 동촌 해상풍력 금융 지원 맞손 - 더코리아 (<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0xU3cxaWswaEpEMnZQc2pnZWU0SXd3SmJlclozWjI3QVVud1B5OGVURzJHZ3Voa2lwcUd0RzdFeTJ2VmZISm1JWEhHMUtJdTJxdUxNbGRHT21QdG1FUDFMMDV2ZFpfZFQwUUE4bDBKRkc?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] 산업부, 국내생산세액공제 신설…태양광·풍력 등 6대 전략 산업 지원 - 전기신문 (<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5oN3dCN1lQQmhRcF94YTJHQmpVUkN4eGJYb1NsZ2JubnZkam9yUVJ2ZXpZLWhycVhMc1A3OVRFcWx0SXE2WXNGYWFIcVczR1FtdHF3M3ZZdnVQc05Dd25LMkM5Z2J6ay1XUHFwVdIBcEFVX3lxTE1mYlJNaTFNWm8ta044WGpjWFpvTG5hNDdxZl9DaVlVZzFYSWpYRmZ3WDBiMWhXTTBTNHRHaU5yV2dzNkI3WlBjMW1WWHd1aDJzcF8wUWZoN1pKdXhDNHFXUmw5S3R6MWc2WmJxTm02QWY?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] 우리은행, 전북 고창해상풍력 산업에 생산적 금융 지원 - 머니투데이 (<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE51YnhEU0NfNXNLRC1rSmdkVlMwYi0zWDNwVzRTTTJtNkUxamFVUThNQ2tuNnhubER2Wm9panAzcWJVaGxKYWNkUWE0YUdSNkRYaWVKRWJVa2tuUkNXLTcwRWNwdmF6aWU2ZEN30gFwQVVfeXFMT05sa2c2Mi1DYVp2LTJ1V0NsZV9RbzhrbF9qOUhLbjg0N1p6b1hlZHFQc3pFU1ktVnRwODNxTHpLNjJJaFo0Skx2VWdGTlRRZjNKOVJmSXZqbGk3cXZZNVdPS3NCS3JfX2t6TDVLbDhIUg?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] 미국 법원 \"트럼프 정부 풍력 프로젝트 동결 조치는 위법\", 해제 명령 내려 - 비즈니스포스트 (<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5GbzdMRlVoalRTNnFrTDE2Y3o5bDYyME9oOG95TnhDcV9JOWl6WjhDWk1jTDI5cWpQREk1dnM4NnR1SDNxVjBFN1dyZTRPY25GNUdMQVMyTF8wbEhCRUZpdC0yOUQ2SmlFbllhU0NoelU1M00?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] 제주도 \"풍력공유화기금으로 취약가구 냉방비 지원\" - 뉴시스 (<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oQlRxWW1qTVF2d0lVRUVIY2hXMHp0WlZxdXY3MVdtVFU3SVRmOUxXdllQcWJiT0E1Rlk4dDFoQkh5SzRwd0c4T2JTQ1Y0dHdkc21fOGNoYVo4eERRaWxUR9IBeEFVX3lxTE03QzYzWmUwSmpnUTBRNXp4NGd4ejFzdHEzV0RzYndSbXotVzU0LTJPdEFVME1MQzdHSVA2ZHpuMlJWd0FGeFFxU3ZaSGlwZHVpTHY2V1pvY2VnVVFJSGw0ZmNjWGdpYUhPeDVhT1lJejhiVVRpSlI0bw?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] 트럼프 정부, 1조7400억원 주고 RWE 해상풍력 3곳 철회 - 뉴스1 (<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwMTgxa0swYUpnNDQyYnRlM0h5ZkZoZXR6TTJuMHNDb21QaWNjUVpFSk9KLV9jB29md0pMMFpmY2VZWnVteEhid201Wko4a3UyT3NMMkVxejU?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] 해양수산연수원, 목포분원에 GWO 해상풍력 인증교육 거점 마련 - 데일리안 (<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxONmc3b1BmcnctcUpVMjBIdEFFU3FIZlYwckZYZ0gyUjYwYUtNQVh0bTZZamRxeUxWNXBCdDB5OTZ0MFF3RXU3UFNPWV9MaWZ4U0tJeGdBTEMwMWxlRnlFWkY2bGYtWmVwcExZc24xMmJNWnI0cElmc2syeU5pREpEVUxGZFMxenlNbWQ4bWlCdHpaSXdPSEVPMjRYZ3pHSXRnVEVkTnY3TTVrUTJ6QUNzcTZCZ2Z6ZFRJZTZhQUhoMUZEcUF3UkF4TllhODNQT3B3aDd1ZFVhTlhjemxKaFVnZExhVnRSRkJpU0ZOWFI2RjZtTjNHRkF3TGF1dkU0Q1c3cTJRSS1BZmNwclNtRFE?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] 유니슨 \"국내생산세액공제·풍력 인증개편 수혜 기대\" - ER 이코노믹리뷰 (<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9vSEcwc2Jkck9qVlBtNHl2M0cwUEdreDZtY1F4Mmx5TUhJMER1YXpyNm9VWW1aQ285Vl9SaHZ1Y2NmeERyYmRGMml6WUV0Y2FOVUFOVXY2SG14endHVkFDS1ZCYmNkb0RXc1B6bQ?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] 신협, 고창 해상풍력에 1,000억 원 규모 금융지원 - 한국경제TV (<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5OanNIcVBpRkF1UWxvWUlHNUJpUlNJWnlIWGxkdlR1THp1R0JSbG92ZUMyQkpBSlNFNHV2M3R4Tnl4M1FIUi12OGl0UDJQVmk3SnozSmhLYXFhQmxqZW15ZDE2VldxNHJrbmRWQk1NSnR1LS1kQTBN?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] 우리은행, 전북 해상풍력 발전사업에 생산적 금융 투입 - 에너지경제신문 (<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hd1NxSm1rcGZhdm9fd2dtSDJSR05zeFhseUtIVFBNMWhHVjYwUWZQMEU3aG4ydmZlVHNEc281WWFDa3JCTDBKd0J4SnZrUVgzQl96MlBsX0F3d1J0Z2lYS0wyZw?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] 제주도 풍력발전 개발이익, 폭염 취약가구 냉방비 지원한다 - 헤드라인제주 (<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9PMFcyeDJXcXhFa2RTZ1B0SXRVdGNVWXpUNEhYRWFiNmdIYTBvRGJsZ0xIV2J1dGpqSDk3ZG1VQzV5cVZPekgzWXVGeUt0NFNQRW9VTGctN3dOT2tLNElMd0pmUUstVGRPSEpEeklCNXlMX0U?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] 우리은행, 전북 해상풍력 사업에 생산적 금융 4천억 투입 - 뉴스;트리 (<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSbzBRZ2JpVWNCUWxFTzZNZ1NyaE1FcVY1NVdFLS0yNnN1dlZVZzVRSndtajRBUnB3Rkk0dVdsdzl3dGhBbWxQSjJjQzVreWZMOWNOem9EdzZSNGpj?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] 우리은행, 4억원 규모 고창해상풍력 인프라 구축 지원 - 베이비타임즈 (<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBtRnZjVmtNVkppem10bmZlWWRHbmh2NWk1NEZva2xtdG5uNlUzcF9Rek85bWY4UjBsQ0pfNmlVOUo4Y2EzRlRBV1RCYzlRTEx6TTdEa2FTb21xVlJMdjkydEJid0thdUswQlRhQw?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] [은행브리핑] 우리은행, 전북 고창해상풍력에 생산적 금융 지원 외 - 서울파이낸스 (<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBZeXpualN3aVhjZ29uekNhdmNzN2hCTXdoLVRkbll5OGtmSF9CaFRFMzg0ajliTG5VYWc5YWhKZjRKa3dTRGF0RWE0eTVzeGktRXZ0X2VRQTJ3SGlyYml1RXZvSXRuTnRzQWc?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] 우리은행, 4000억 고창해상풍력 금융지원…전북 첨단산업에 전력 공급 - 재외동포신문 (<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1Mc3NDNmhITG1wcWNCbmMtMTJRX2lY9LTdRLWk0elVYE0w0NVdzRUZNLVhlUUZZYWY3bU51YVJUSFR5WjhuUGljZTNmTUtwb0NaLVFTVkRGaHlsUUhzcEJ6dm9lNkpjWml2bEVXcw?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] 우리은행-신협, 전북도·고창군과 4천억 규모 고창해상풍력 발전사업 지원 MOU - 파이낸셜신문 (<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBSd3ZkMnpBclZQYmJoN21PMWgtdzBkdUFPV05XcE56YVhfSXBOdGtBWW5NMFhpQmFVaVVmZU5PajhCU0tudXVaSWZyOFF2X2xDSVExSXY2TkpORTJTNmpGd1VobGxJY3F2MGdj?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] 우리은행, 고창해상풍력에 4000억원 금융지원…지역산업 육성 나서 - 인더스트리뉴스 (<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5EUGdHandxdVBnTFozNEtwc2Ywc3FKMEYyN2lQMzVfbnRZcTUzRmM3U0dvdHFVbmZkT0dMei11dmFfdEVhN1hBU05DZURjZERPVkh1dzNQejRoQWJIanh4Skx0b0JKZk9mcGd6UTc3M2Z6UQ?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] [은행 Talk Talk] 우리銀, 전북 해상풍력 산업에 4000억원 지원 外 - DealSite경제TV (<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sWi1aZVFuRlhtUUR4dng4c05DZ2JOY2NIR2M0Y1RKUjhsWHgzQWdTc1BoRzB1V3lzRFVZcXVRajL9aUNhcWxwU3VFOXdjdzNSMGRpUEpR?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] 에너지 취약가구에 풍력기금으로 요금 지원 - 제주의소리 (<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBwU2JaRlhoNjlRRmtES0t5MzFnSnpwWVRGV3hlRHgwVkh3WmpXYzBockI2NVg1S0lxVnk3SlBaVlZCY2FUWm96ZmZJcFYtYVlpaEFGSkllZHdCQnR4M2xqcUQzQUlRb0tYS1Rv?oc=5\">링크</a>)</li>\n    </ul>\n\n    <h3>해외 이슈</h3>\n    <ul>\n        <li>[2026-08-08] Trump administration has spent nearly $4B to cancel offshore wind farms - TechCrunch (<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYnpTX282RVFjMDg2c05NbmpTMDg3RTRpbGdfeFFFa1dxV2M4Y1VOTXpxTDdFT2Y3aHplQ2dfUUE3UVFHSkt1MW82NnF4bjBMd0l0RXZiTF9tN0tCcTNhOUExUTlOMlAteGJkWGJYOTlwS3lzcjdDOUN3X05XS0JVdXA0TUQyM3ZZQm4wN3REMVdjZUFLVUlOdk94bk9fdU1vX1hqX196WUs?oc=5\">링크</a>)</li>\n        <li>[2026-08-08] Trump Refunds to Cancel Offshore Wind Projects Total $4 Billion - EnergyNow.com (<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFlTVkxhXzFMSEU0WFNCcGZrZzlYdGc2UmV4SzE1OTNzczA0UTVtQjFiS0F5NWh5bXdDMXU1X1JWblppenpiN1BKa2tyeHNTQzFRb1c3cXBVc3kwZDBQa2hNY2RUUlpwSnIyMmZfYzN1dFJBeE9RaE96S29TZzlwR21WbnVHaTBZSDZDQ3VMakVRN014TlUwQw?oc=5\">링크</a>)</li>\n        <li>[2026-08-08] Trump administration will pay $1.2 billion to cancel more offshore wind projects, calling it 'common sense' - Reason Magazine (<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPLTdnbExzcmdhekpUdEFFRjBpdEIzYmMwYjdqTnBNZUp1LVh6ZDFETkpuNXJQeHRUMUlXYjBUMWpEM1Q0NVpoVXBNZkh5TTl5LVRsanNyQzZIbEFMcmhRQzFjVXBZVlRUblZTVVVRMkxqc3JYbHN4S0ltdm1wYzM3MG9ScFNGMERKLWNqNDVBT0pFUnc3UWFKN2d1Z01TX01LOUV5ekt2SEdvaloxdkROdnVDMDBJRTNOcHVpNGN2ejc0MWVTZTVfb1dFMEpmejQ?oc=5\">링크</a>)</li>\n        <li>[2026-08-08] Trump administration pays $1.2 billion to cancel more offshore wind projects - Northeast Times (<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPcS1qYmlKS2lLUVRMVFh1X01obWNxeTVIdUZlN3JqVmEyclBCQmZzeGdEQlZTa2VVak5BRWl0WG9yWWdNMUk5N3Y4azVEcXpyMmZ2dWZzenRtNGlLUk5kTkMxbVotLVZFMzdBb2EwWERZX01XSWlxVFpON0U5dlVSd1daSmtya2JDLWJlejhCOF9MMXAtUlpSSVFiRF8zbGrybDRDN1lFMEpmejQ?oc=5\">링크</a>)</li>\n        <li>[2026-08-08] Trump Administration Spends Another $1.2 Billion To Kill Offshore Wind Farm Projects - Engadget (<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzVFRGRld2s3M2pPemZRN3VtdURwRXhncExXaWhEU3NOcHZla0FMR05hUkNmNUcybW5UNmtQaDF4OExnNEtQYldIeHVSUER0LU5KVVUtY0FKOHY5MnJqYnBlZVZqX2hDa3ZCeUZhZXpEZzhtcmlNdFhiNUh0TkVETDBuWjRKS1puOTRSaFZ4cGdJMHd1YVJMMWc4b2EyOHh1eXRZdGEzYk0wWjJrZVZxcFVWNFBsTi1M?oc=5\">링크</a>)</li>\n        <li>[2026-08-08] Relentless in Its War on Offshore Wind,' Trump Admin Kills More Projects - Common Dreams (<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9wX1R3MHp1WWthallfOFNNRURjUXhXcXI2ay1WbEt0MHBSSlktcGF4OTY0QWd3SUdvMDViaHNXVVNaYTlFMFQ5SXpUQjhyc0l0WnpYc093c3h6QVJ3dUFoLV8xMkJIQ0dsOFQ5UmNXdFNzSThxMVdJ?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] Trump administration’s latest buyback of offshore wind leases brings total to nearly $4 billion - AP News (<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPd3R1ek1NVGttOHhoeDFOU0d2LWpWbFdxSnBYRHAxSnFYZk5hV1NXdWdiMXFzMURWUXR4ZzA1UFhfRUxiRHVfdVJyY1V1X2tmczJ6Mi15SEEtUnhPMERJRUJQNmV0MlVQVS16TFpHdUxSN3M3ZTBISURzZW5iMVhrUjlzUU9fUXZoLWlOd1NGY3Y1RkZlOUdvbWlQSlJnVEZqTzVTVS04WWdTbVhN?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] RWE accepts $1.2bn Trump deal to return offshore wind leases - Wind Power Monthly (<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWHd5cThmWjZzckw3NzRnWnAwbHdoR2s0ckkya0RWdTY5SlRtTG40UTZKa0pYaUloQXo0TG1zazZGa2xFMjZzVFVoMHJJWW03bU5mbnYyYWZCbkpFamp5cHRXZnVkMWoyZUJQSjhYNjlYYWhVWGprLS1kcFU1UWlqWmQxSEtLREFpYmYxVVF1Nzobiw?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] Trump administration will buy back company's offshore wind leases off 3 states in a $1.2B deal - Bozeman Daily Chronicle (<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOUkVtNWxfa1BHYW9sVDJmMVVhQ2pmdkhGUUw5ajRYeHhKUElFRGh3Q0dCVUxoQ1ROb05wZ2trR3d3cmFSMHZwMGF5TmJqT0Q0WTc5dUdHeUlDbVRTSC1DMU82alZNQVFYVUVtY1ZxWExYZTYxWkF5S0FqbWdTLUdxb0lGc1lGZkV6YktpUWotaEJ5RVpYdDNiYVE5a1RGMmtpYnhFZXJlSGlteVhWNV9kSi00bk9lanVraWRwcF9KMmg4TXY4WFpDOEgySkNrUmZUQ1RFTUxUV0NUc1RCQ0czTHVjek5ERlc3Vko5aTVFTFU2MHJTOWxyVTdDeUhObG1xWXRWcnB6TzR3NkNhUjNEZDlFUmI?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] Why Trump’s claim that offshore wind is a security risk is ‘ludicrous’ - Canary Media (<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2Q5bno2Q2Y4OWh5ZDd4dkdxaVo3SE1Sczlqa1RhOEZrTVFZRjJjenRFX015WG9TRGtGSV9pNlU1UXpvRHdqckpZQ3dDNjFuYzg1bjVaNTNhWkc3R3NWZWEtdkZETjF0VHdXemtMY3hKbzJ2eG1WZ3BIcWFKX1diNG1UalNWb3lDX1NOeWt3Zw?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] RWE Is Latest Energy Giant to Pivot From Offshore Wind to Fossil Fuels in the US - The Well News (<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPOHBNS203SWZXaGVMNHFGNUYyUkJsdUQwM05JcGdtNWRoTkdyc3QtU09rMklmamFlaUUzOGhSV1JMdmVWcTVDVGNDTEo2RFJSVmplQzlJMEg5SVUxNTJBdktzVWNIdmFQbExhWmh0YnZKX3U2LUcwNGh5dnZWcjZlMmRucGJzNjFVS1NaZS0zNW10Vk5PWTJZS2lHaDU1RW9jUFBUZkZpdzdXUU90emxOb0NSSHJsVjBTOUFxQW82amFoSGJ4?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] Washington to pay €1.06 billion to cancel RWE offshore wind leases - Euronews.com (<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2ZiODlnY2Y2aTFSUWtFZUdfazlySXc5QUVtcXVwQl_0U01qRklobEFSdXdCN3FiM2VDd1liYXJrTkM5OE0yWjVqV0RBR0hMMWRDU0tJa01DS3dsTDJzQlYyd0g3VWlkUHVyNDFFR2psR0hpSkdjdDMyQkdtVEV0N29kSUUwX0RDb1FmRGp4dDlKbEdIZDV0Rkw5a1FZblJTVW81RFhVZlV4TXdDREM0?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] Trump Administration to Pay RWE $1.22B in Fifth Deal to End Offshore Wind - The Maritime Executive (<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGJHckd0UjRnWjhlcFJ2U1BESlJKNzdvNW91ZUk2a1RMZUNxOTR3SXY0OWU0M0x4U19CeFM3V25ZRzZPZjY2MXhMTHN5VVR2TDByQ2dqRUtHT2R6VlRHODJnc2Q5Tmx2YVRKUFQ2YkQ4OEdtTDdhZ1dWdG9VemxpMm9aZmFIWnhteXc0a2h4ZF9hU1lHSHdmdnc2Q2x5YjFOZW1iMS1Cd3pDN1ZFdGpYVw?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] Trump continues paying to cancel offshore wind projects with $1.22B RWE deal to ax its wind leases - fortune.com (<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNc3IzV0NXbWFjZ2VrTlkyVDhHOWxFWGtfbDVmM0RiZnV6SzBUcFkteWQxWXpOMGNlRV8wcW9Xa1VaVEp6OUNqS3d1QUVzVmdfWl9QbzU2dkYyZDE3X1A4MFRVOFUyUnV3Q2JTODM3SGdtNnBtVl92UHB2bVRoYXBQV0N6MElxbDVTUEJLT3MzTk1naVc3WlVvVGEtek5DdG5TYm1Zd3VydkZhUWJwdWs0ZFJjZW9DZW9heUhhb1BJaVJZRWpUdE1URE5Nc3hSa1NOSUN2MzZYYUM2SEJXVDNwRlBka0cwbllIY2VCdDZjbUlNY3B5ejcw?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] RWE, Trump administration reach $1.22 billion agreement to cancel offshore wind leases - Reuters (<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd3dYT2FnN21qMy1yZFBKZFMxNEFiUDVXUlZaVGhQZW1SUkRRQjNjcUtxTUVHQngwRURMeVNmUFg4LTYzelREUS1VS04xTnNGbHhIRmJTb1I3OW9mcXBhQ0E3ZkJlcDgwMEw4QmhuZDJfRjBlQnRYUC1VbG9pZ2VvOVd5dVpmb1BLb0ZwNmNDUlpjMGxma3hjQ0ZwZlVCbGpTajc3UHBZOHpBcHZLbkNldHE3OElES2Frb254OWpTbVU2dw?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] RWE reaches $1.22 billion settlement over U.S. offshore wind leases - tgs4c.com (<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOa25ISGdRc3c5TlhCRDRVWXRnMjdQV2c0WTNqNC1QWVVzSkJYclkyQ2RiX3VuLTVobm9NSlJBZElvUWJIb0pVTjZWRDNOOVhLOXp1S2c5QXR2MzU3eTNRcGR5Y1ZRb292X1FaUE50LVctZm11bWpIVWNtMDFnX3dZWTFYODlOMEdrUV9MNjNwVEFpNElpR3JtMWFyeTZGMi1HNm9BSktSSUdGLXRPRmc?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] Trump administration will buy back company's offshore wind leases off 3 states in a $1.2B deal - KTVN (<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPS3JrNkUtc1F6NmU2a0hpM0pyRVZBaW9IbU83Q2hna3k0NUllOUEwNjdmUjVwaERfMzNOZ1h5R0FkLXVKMVk2Y2x5UjlFVTZlSEUxWXRfUHVsQTdoVUpLVkUyLUlYWGNpRDlrVGhEVXdkeGhmOTVNc1h5NUktZ3liSk5hYmFkR1Vvc1hXYktpeDRJMHpMWG51WDNlUEpJRDc3eVFlY2V1Y091V3k5dEU1UmwtNmRuTzBCVS1tZjU0LWxKU0duby1EZ0dXY2hUR0cxU1FfYksxZFBfRnZRTU1ybUVzdTJ1ajh1dng1bGhlSlBnaE1Zak9ZWVIyUFU?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] Trump Administration Inks $1.22 Billion Deal to Terminate Multiple Offshore Wind Projects - keyt.com (<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOMnlLT1RVWjJyekJjeTJKRVhhVkxmVWdET3ZZbHQ0QWFtdF9qQW1Kd1hreVh1N0J4WnRsdkROWUxXbG1TOFdUODhuNjJIN1ltX3NsNFlUaUFNVnpmekJ1YjQzRFlheUxrcWlFdGdET24wNHB4ZklTNlFyMjZfNG5oOE00OXpGTmM4LWU0TS1GdUwyUmduUURldnp6M2VjSzZWSVRGTjM5ZzNYdEdhSHl6SlJrZlJSYTZDWVJxTWlDeU5YMWN1QmpqOXZRUTF2dw?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] Elected Officials Outraged After Developer Vacates Humboldt Offshore Wind Lease - Lost Coast Outpost (<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPTm1MN1FPMTBoQUxRVnFTLVUwX2IwemJfdWxCbXZXbDVKRGg1eGtGUVhEUkNibXF3NVFRcUtkZThycnJ3bDJHQ2xseUQzMTYyY3NLaVMxTDh3RWktcVZpOFZQVjJVd1lPbEFyZTN5RzNVOVV2UkN0bFJhUFdqVUZDR0tWM0VWX1JxNnpydC00R0Z5Rmt4SGc?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] Trump administration will buy back company's offshore wind leases off 3 states in a $1.2B deal - Ottumwa Courier (<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOOElWVWFiTmRWeTVYSEMydVdpTFQ1SGRFMFlQNVZnNW0xU3h4Qk5oNWRrcjRQSVA5b0dERGR3MmNoMUx5SVdqMW5KanJsck4tam1pVzV2c2pZNXpjRHQwWWc4a002bTJkQ3BnM3h4R01ZR2NJYWRrckx0bFB0VnR5ZHp3a0cwN1JBZ1ZGbHAxeGlkQkFPdlhnVnNDbVZuem5oRW5oUU5tblFxZnlhQ0FCQVZlclZZbjNraW5mZEFvdnJocE1zTEdXal9XeWxJaVpwdVNLN1ZZNl9Md0xRSFZzZFNTa1kwem5KakFvakY4dFJuaDY1LUh4RjZHQ3drVlpLSDUtaWtiT3pZeFU?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] RWE to scrap three offshore wind projects in $1.22 billion deal with Trump administration - Washington Examiner (<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa0pDa0dXc3lKUUJzN00wZnVqUUVpdExTTWNrNWY0b2tQSnpQQWttU0ZMQ2V3a0paTUt3ejgwTDdZU0REbUc4OEE1REVjb3F2YmJWN19TOXNfOW5aMHdOdDRtTzdBSldOWVNkMlM2VVNkOHhrMmFSUjVWT1NSRmpuZk80YnlEcTdXU1N3cnJYaEstOC1pZGdqMHFxNkYtSjNpN3A2R0FWekpDaFlpSDdzbkZBQkp6d2FMR1pHVG9DbjVMZUxGSmJtdnVabHdZaVVNa2tXTA?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] Trump Refunds $4 Billion to Cancel US Offshore Wind Projects - Bloomberg.com (<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPTTZ6dmw1cGZwM2hBV3dFRk4tTlRTYllJS0ZfU2Q0TVRRVFM2dVBRQnhya1UtMUtEUkdPQkdhQ3N0Z1RQSU13OWJVSFpEYTd0eDdZRmNpcFlOYnc1dkNMcFRYOVZoeXQxeS01VEo5T3UySWtBd0RDTDhfQzFpcmxmbE92cnpDRm1PR0J0SWlPdFkyNlpWVVhoMU1Ta0FyMUVaYmowWk1DcVNGNVpzeVdn?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] Trump Keeps Spending US Tax Dollars to Kill Offshore Wind and Boost Oil and Gas - Mother Jones (<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxMYlh0bUE1X2NKa2RDMVZiWnpDZGhCQzcydHN0RzRBS21PWmxkYVNKV1pMUGpBNGVkbm5HWkh2NHhBUzJrQ2ZLbHV1N3FZc0RwaU1VaHVmTFVvQmNycWZrVHItemdCQjNFdVVpbGRBcHhIMElaS0hfUzdwZmdCVVU2cVRjQ1I3MkR2eXhhbXlnSzZvd0FUOEZlbXZqcFpEVzRZWmdUbkRNd0diVmxMbDJVZGNFeWtzNkdUVE5zYVpGTHVnSG1MeDlvYQ?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] RWE bails on US offshore wind; Trump administration pays $1.22 billion - workboat.com (<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPNElDLVlnQUFGRldPRmJrMHg3NlVlTnNWYURaLTRQdnBJOUFESWpxTXgtQlFOZ2wyeGd1Z0VzcmJxc25ycnNUXy1OaXbieGpZUW5PUnJnS1dJYl9GYUhYM2ZOdnZaUUY4SmFLLVhPdTVMQlQ3MFpMMWNUa25lb3hzaks2eWl2REN3ZDdmQTdYeGxGTFBLd2o2Zm5pcXU3SFE?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] RWE Reaches $1.22 Billion Deal With Trump Administration To Exit U.S. Offshore Wind Projects - Dallas Express (<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPN3hhRVVYVmMzdUgwQU90RHVxU0hfQnpBVnVwV1U3STUyNmFDMEV5VVFpdkJ6SW0tNmgxX3lkWHdmZy1EUWhwbExYYXBkaUUtaFBQUjZnTUNOLW1aNUxDWWNlVDJGQmYwclJpZnlGcENYeGZpaFhjand3Y0wtdzRSTEdQYmR3Q0habjgwd3JCXzg0aHVTZGhjNWNCNjdCUnhmRTlZLXYtWlVKWW9HQjZja3plc2Q4dy1RN25pVFVXT3d0bTFw?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] Trump administration pays billions to scrap offshore wind turbine projects - EnergyWatch (<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1aX29qSkpvb2ZOcEI0RDRqUXgtTGR0NnR5WUY3dFBaQzNPX1RiWkltQi1jejNiTFAwN041YW1QdDhPeUJvVXdSdU1PajBZVDdBRmFJMEFLNFJOWU1fWXZxN3EzTVNyWDlDOHdN?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] Denmark awards Vattenfall contracts for 1.8-GW offshore wind projects - Offshore Magazine (<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeVlSOUJJRnJBSldtM2V3b0V1RnR2SnB3LWw3Q2JpTnc1ZDZMQkY3T19JdnRjZWxBVXROcGlIZXJXVmcxcmdwQ3hHZE5YZE1MQ0NqWTFCU29Rb1g5azZTSFdZOWNwU2JaTFRwYnJUbGZ4T0ZoSExKaXZsOWNqTG0zeXItbHVPMXRYdG1FMGxEVGsxeWItWnkwdEJwbTdGZkhZa3loSXY3bDNBZ0huVXJBUTlnTGQwNHVwQjNxc295R1ZfODJ6YmE1R3NnLU41Vk5JdEVSZmJn?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] Encomara Tests Squid Quick Connection System for Floating Offshore Wind - environment coastal & offshore (<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOdm8xY1ZDYlcyVXRuMHZXazU4ZGJocTlDaFFrNExlLWFVeVB6MkJ5TmhWZHNsSzN0VnZ2U0RBMl81NXVMN25sYVBZQzhnMkRkT2pWaUZDSnE2a2QzZHp6djcxaE5NcDRIQmR4YlNnWDNLcG12dDhETjl1b0xMMlViS2RMOEYySHdyRGxNeW1hcnpHSmgwZk1wa2I5bXhGVTl1emJqNXpLVm5aRThDTHBB?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] Azerbaijan approves offshore wind development zone - 4C Offshore (<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQVEc2Y0dqTXNTU3lpYUp1U0QteTUwTGpzM1pWekxFTnV3RGw0WmJJZThHaHhoZHBVTThQT0pwRTloYWM2VTV3Q1EtQW5CZ0ZZbDRFQzBZRmQ2MXJiY3V2b2x6SUsxSXRVdi1UZjJrUFJxM0xTNW1IenVuUFJKa2xlbnZ1ODd0b0JpX2lMTzFsVnZFcTM0a1E?oc=5\">링크</a>)</li>\n        <li>[2026-08-07] Hesselø & North Sea I: Vattenfall’s New Danish Wind Farms - Energy Digital (<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOamFIci1ZZC1pSDlBRzBOekpxZ0NkYzNlZ2c3M3lPdkNKbnozM2hrZE15bzBwM2VuekYtNWtleWxKTEdMcmttRkJPYWdVLVZtaDFJTm9RMUtIRnVYYlc5c1p0eFhQYlFjZzJ1MjJ1eXdSREVQaktJUzZwLWt6d1hHYWI5X1Y1SVZnVDBxVg?oc=5\">링크</a>)</li>\n    </ul>\n\n    <h2>산업 시사점</h2>\n    <ul>\n        <li>\n            신재생 에너지 산업은 <b>주요국 간 정책 방향의 뚜렷한 양극화</b>를 보이고 있습니다. 미국에서는 트럼프 행정부의 해상풍력 프로젝트 철회라는 강력한 역풍이 지속되는 반면, 유럽은 꾸준히 신재생 에너지 비중을 확대하고 있으며 한국을 비롯한 아시아 국가들은 정부 및 금융권의 적극적인 지원을 바탕으로 해상풍력 개발에 박차를 가하고 있습니다. 이러한 복합적인 환경 속에서 신재생 에너지 기업들은 <b>지정학적 리스크와 정책 변동성에 대한 철저한 분석 및 대비</b>가 필수적입니다. 또한, 제주도의 사례처럼 개발 이익의 사회적 환원 모델을 통해 <b>지역사회 수용성을 높이는 전략</b>은 장기적인 프로젝트 성공에 중요한 요소로 작용할 것입니다. 나아가, 부유식 해상풍력과 같은 <b>차세대 기술 개발에 대한 지속적인 투자와 국내외 협력을 통한 시장 다변화 전략</b>은 불확실한 환경 속에서 경쟁력을 확보하고 성장 동력을 유지하는 데 핵심적인 역할을 할 것으로 판단됩니다.\n        </li>\n    </ul>\n</body>\n</html>\n",
+  "lastUpdated": "2026-08-08",
   "keywords": [
     {
       "sheetName": "국내",
