@@ -1,266 +1,306 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Wind Power Intelligence Dashboard</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans+KR:wght@300;400;500;600&display=swap" rel="stylesheet">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
-  <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Wind Power Intelligence Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans+KR:wght@300;400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #0a0e17;
+    --surface: #111827;
+    --surface2: #1a2235;
+    --border: #1e2d45;
+    --border2: #2a3f5e;
+    --blue: #3b82f6;
+    --blue-dim: #1d4ed8;
+    --cyan: #22d3ee;
+    --green: #34d399;
+    --amber: #fbbf24;
+    --red: #f87171;
+    --text: #e2e8f0;
+    --text-muted:#6b8097;
+    --text-dim: #3d5166;
+    --mono: 'IBM Plex Mono', monospace;
+    --sans: 'IBM Plex Sans KR', sans-serif;
+  }
+  html, body {
+    background: #0a0e17 !important;
+    background-color: #0a0e17 !important;
+  }
+  body {
+    background: #0a0e17;
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 14px;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background: repeating-linear-gradient(
+      0deg, transparent, transparent 2px,
+      rgba(0,0,0,0.03) 2px, rgba(0,0,0,0.03) 4px
+    );
+    pointer-events: none;
+    z-index: 0;
+  }
+  #app { position: relative; z-index: 1; max-width: 1400px; margin: 0 auto; padding: 24px 28px 60px; }
 
-    :root {
-      --bg:        #0a0e17;
-      --surface:   #111827;
-      --surface2:  #1a2235;
-      --border:    #1e2d45;
-      --border2:   #2a3f5e;
-      --blue:      #3b82f6;
-      --blue-dim:  #1d4ed8;
-      --cyan:      #22d3ee;
-      --green:     #34d399;
-      --amber:     #fbbf24;
-      --red:       #f87171;
-      --text:      #e2e8f0;
-      --text-muted:#6b8097;
-      --text-dim:  #3d5166;
-      --mono:      'IBM Plex Mono', monospace;
-      --sans:      'IBM Plex Sans KR', sans-serif;
-    }
+  header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 0 0 20px; border-bottom: 1px solid var(--border); margin-bottom: 28px;
+  }
+  .header-left { display: flex; align-items: center; gap: 16px; }
+  .logo-mark {
+    width: 36px; height: 36px; border: 2px solid var(--blue);
+    border-radius: 6px; display: flex; align-items: center; justify-content: center;
+  }
+  .logo-mark svg { width: 20px; height: 20px; }
+  .site-title {
+    font-family: var(--mono); font-size: 13px; font-weight: 600;
+    letter-spacing: 0.12em; color: var(--text); text-transform: uppercase;
+  }
+  .site-sub { font-size: 11px; color: var(--text-muted); letter-spacing: 0.05em; margin-top: 1px; }
+  .header-right { display: flex; align-items: center; gap: 20px; }
+  .live-badge {
+    display: flex; align-items: center; gap: 6px;
+    font-family: var(--mono); font-size: 11px; color: var(--green); letter-spacing: 0.08em;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%; background: var(--green);
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+  #last-updated { font-family: var(--mono); font-size: 11px; color: var(--text-muted); }
 
-    html, body {
-      background: #0a0e17 !important;
-      background-color: #0a0e17 !important;
-    }
-    body {
-      background: #0a0e17;
-      color: var(--text);
-      font-family: var(--sans);
-      font-size: 14px;
-      line-height: 1.6;
-      min-height: 100vh;
-    }
+  .kpi-grid {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 12px; margin-bottom: 24px;
+  }
+  .kpi-card {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 10px; padding: 18px 20px;
+    position: relative; overflow: hidden; transition: border-color 0.2s;
+  }
+  .kpi-card:hover { border-color: var(--border2); }
+  .kpi-card::after { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; }
+  .kpi-card.blue::after { background: var(--blue); }
+  .kpi-card.cyan::after { background: var(--cyan); }
+  .kpi-card.green::after { background: var(--green); }
+  .kpi-card.amber::after { background: var(--amber); }
+  .kpi-label {
+    font-family: var(--mono); font-size: 10px; font-weight: 500;
+    letter-spacing: 0.12em; color: var(--text-muted); text-transform: uppercase; margin-bottom: 10px;
+  }
+  .kpi-value { font-family: var(--mono); font-size: 32px; font-weight: 600; line-height: 1; color: var(--text); }
+  .kpi-value.blue { color: var(--blue); }
+  .kpi-value.cyan { color: var(--cyan); }
+  .kpi-value.green { color: var(--green); }
+  .kpi-value.amber { color: var(--amber); }
+  .kpi-sub { font-size: 11px; color: var(--text-muted); margin-top: 6px; }
 
-    body::before {
-      content: '';
-      position: fixed;
-      inset: 0;
-      background: repeating-linear-gradient(
-        0deg, transparent, transparent 2px,
-        rgba(0,0,0,0.03) 2px, rgba(0,0,0,0.03) 4px
-      );
-      pointer-events: none;
-      z-index: 0;
-    }
+  .main-grid {
+    display: grid; grid-template-columns: 1fr 1fr;
+    gap: 16px; margin-bottom: 16px;
+  }
+  @media (max-width: 900px) { .main-grid { grid-template-columns: 1fr; } }
 
-    #app { position: relative; z-index: 1; max-width: 1400px; margin: 0 auto; padding: 24px 28px 60px; }
+  .panel {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 10px; overflow: hidden;
+  }
+  .panel.full-width { grid-column: 1 / -1; }
+  .panel-header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 14px 20px; border-bottom: 1px solid var(--border);
+  }
+  .panel-title {
+    font-family: var(--mono); font-size: 11px; font-weight: 600;
+    letter-spacing: 0.1em; color: var(--text-muted); text-transform: uppercase;
+  }
+  .panel-badge {
+    font-family: var(--mono); font-size: 10px; padding: 2px 8px;
+    border-radius: 4px; border: 1px solid;
+  }
+  .panel-badge.blue { color: var(--blue); border-color: var(--blue-dim); background: rgba(59,130,246,0.08); }
+  .panel-badge.green { color: var(--green); border-color: rgba(52,211,153,0.3); background: rgba(52,211,153,0.08); }
+  .panel-badge.cyan { color: var(--cyan); border-color: rgba(34,211,238,0.3); background: rgba(34,211,238,0.08); }
+  .panel-body { padding: 20px; }
 
-    header {
-      display: flex; align-items: center; justify-content: space-between;
-      padding: 0 0 20px; border-bottom: 1px solid var(--border); margin-bottom: 28px;
-    }
-    .header-left { display: flex; align-items: center; gap: 16px; }
-    .logo-mark {
-      width: 36px; height: 36px; border: 2px solid var(--blue);
-      border-radius: 6px; display: flex; align-items: center; justify-content: center;
-    }
-    .logo-mark svg { width: 20px; height: 20px; }
-    .site-title {
-      font-family: var(--mono); font-size: 13px; font-weight: 600;
-      letter-spacing: 0.12em; color: var(--text); text-transform: uppercase;
-    }
-    .site-sub { font-size: 11px; color: var(--text-muted); letter-spacing: 0.05em; margin-top: 1px; }
-    .header-right { display: flex; align-items: center; gap: 20px; }
-    .live-badge {
-      display: flex; align-items: center; gap: 6px;
-      font-family: var(--mono); font-size: 11px; color: var(--green); letter-spacing: 0.08em;
-    }
-    .live-dot {
-      width: 6px; height: 6px; border-radius: 50%; background: var(--green);
-      animation: pulse 2s infinite;
-    }
-    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
-    #last-updated { font-family: var(--mono); font-size: 11px; color: var(--text-muted); }
+  #trend-wrapper { position: relative; width: 100%; height: 220px; }
 
-    .kpi-grid {
-      display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-      gap: 12px; margin-bottom: 24px;
-    }
-    .kpi-card {
-      background: var(--surface); border: 1px solid var(--border);
-      border-radius: 10px; padding: 18px 20px;
-      position: relative; overflow: hidden; transition: border-color 0.2s;
-    }
-    .kpi-card:hover { border-color: var(--border2); }
-    .kpi-card::after { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; }
-    .kpi-card.blue::after  { background: var(--blue); }
-    .kpi-card.cyan::after  { background: var(--cyan); }
-    .kpi-card.green::after { background: var(--green); }
-    .kpi-card.amber::after { background: var(--amber); }
-    .kpi-label {
-      font-family: var(--mono); font-size: 10px; font-weight: 500;
-      letter-spacing: 0.12em; color: var(--text-muted); text-transform: uppercase; margin-bottom: 10px;
-    }
-    .kpi-value { font-family: var(--mono); font-size: 32px; font-weight: 600; line-height: 1; color: var(--text); }
-    .kpi-value.blue  { color: var(--blue); }
-    .kpi-value.cyan  { color: var(--cyan); }
-    .kpi-value.green { color: var(--green); }
-    .kpi-value.amber { color: var(--amber); }
-    .kpi-sub { font-size: 11px; color: var(--text-muted); margin-top: 6px; }
+  .tab-bar { display: flex; gap: 0; border-bottom: 1px solid var(--border); }
+  .tab-btn {
+    padding: 12px 20px; font-family: var(--mono); font-size: 11px; font-weight: 500;
+    letter-spacing: 0.08em; color: var(--text-muted); background: none; border: none;
+    border-bottom: 2px solid transparent; cursor: pointer; text-transform: uppercase; transition: color 0.15s;
+  }
+  .tab-btn:hover { color: var(--text); }
+  .tab-btn.active { color: var(--blue); border-bottom-color: var(--blue); }
+  .tab-content { display: none; }
+  .tab-content.active { display: block; }
 
-    .main-grid {
-      display: grid; grid-template-columns: 1fr 1fr;
-      gap: 16px; margin-bottom: 16px;
-    }
-    @media (max-width: 900px) { .main-grid { grid-template-columns: 1fr; } }
+  /* ── 뉴스 검색창 ── */
+  .news-search-bar {
+    display: flex; align-items: center; gap: 10px;
+    padding: 10px 20px; border-bottom: 1px solid var(--border);
+    background: var(--surface2);
+  }
+  .news-search-bar svg { flex-shrink: 0; color: var(--text-dim); }
+  .news-search-input {
+    flex: 1; min-width: 0;
+    background: var(--bg); border: 1px solid var(--border2); border-radius: 6px;
+    padding: 7px 12px; color: var(--text); font-family: var(--sans); font-size: 12.5px;
+    outline: none; transition: border-color 0.15s;
+  }
+  .news-search-input::placeholder { color: var(--text-dim); }
+  .news-search-input:focus { border-color: var(--blue); }
+  .news-search-count {
+    font-family: var(--mono); font-size: 10.5px; color: var(--text-muted);
+    white-space: nowrap; flex-shrink: 0;
+  }
 
-    .panel {
-      background: var(--surface); border: 1px solid var(--border);
-      border-radius: 10px; overflow: hidden;
-    }
-    .panel.full-width { grid-column: 1 / -1; }
-    .panel-header {
-      display: flex; align-items: center; justify-content: space-between;
-      padding: 14px 20px; border-bottom: 1px solid var(--border);
-    }
-    .panel-title {
-      font-family: var(--mono); font-size: 11px; font-weight: 600;
-      letter-spacing: 0.1em; color: var(--text-muted); text-transform: uppercase;
-    }
-    .panel-badge {
-      font-family: var(--mono); font-size: 10px; padding: 2px 8px;
-      border-radius: 4px; border: 1px solid;
-    }
-    .panel-badge.blue  { color: var(--blue);  border-color: var(--blue-dim);  background: rgba(59,130,246,0.08); }
-    .panel-badge.green { color: var(--green); border-color: rgba(52,211,153,0.3); background: rgba(52,211,153,0.08); }
-    .panel-badge.cyan  { color: var(--cyan);  border-color: rgba(34,211,238,0.3); background: rgba(34,211,238,0.08); }
-    .panel-body { padding: 20px; }
+  .news-feed {
+    max-height: 380px; overflow-y: auto;
+    scrollbar-width: thin; scrollbar-color: var(--border2) transparent;
+  }
+  .news-item {
+    display: flex; align-items: flex-start; gap: 12px;
+    padding: 12px 20px; border-bottom: 1px solid var(--border); transition: background 0.15s;
+  }
+  .news-item:hover { background: var(--surface2); }
+  .news-item:last-child { border-bottom: none; }
+  .news-date {
+    font-family: var(--mono); font-size: 10px; color: var(--text-dim);
+    white-space: nowrap; padding-top: 2px; min-width: 70px;
+  }
+  .news-title a {
+    font-size: 13px; color: var(--text); text-decoration: none;
+    line-height: 1.45; display: block;
+  }
+  .news-title a:hover { color: var(--blue); }
+  .news-new {
+    display: inline-block; font-family: var(--mono); font-size: 9px;
+    padding: 1px 5px; border-radius: 3px; background: rgba(59,130,246,0.15);
+    color: var(--blue); border: 1px solid rgba(59,130,246,0.3);
+    margin-left: 6px; vertical-align: middle;
+  }
 
-    #trend-wrapper { position: relative; width: 100%; height: 220px; }
+  /* ── AI 리포트: 연-월 아코디언 + 우측 본문 ── */
+  .report-layout { display: flex; }
+  .report-sidebar {
+    width: 230px; flex-shrink: 0;
+    border-right: 1px solid var(--border);
+    max-height: 520px; overflow-y: auto;
+    scrollbar-width: thin; scrollbar-color: var(--border2) transparent;
+  }
+  .report-month-group { border-bottom: 1px solid var(--border); }
+  .report-month-header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 12px 16px; cursor: pointer;
+    font-family: var(--mono); font-size: 12px; font-weight: 600;
+    color: var(--text-muted); letter-spacing: 0.03em;
+    transition: background 0.15s, color 0.15s;
+    user-select: none;
+  }
+  .report-month-header:hover { background: var(--surface2); color: var(--text); }
+  .report-month-header.open { color: var(--cyan); }
+  .report-month-header .chevron { display: inline-block; margin-right: 6px; font-size: 9px; transition: transform 0.15s; }
+  .report-month-header.open .chevron { transform: rotate(90deg); }
+  .report-month-count { font-size: 10px; color: var(--text-dim); }
+  .report-date-list {
+    display: none; flex-direction: column; padding-bottom: 6px;
+  }
+  .report-date-list.open { display: flex; }
+  .report-date-item {
+    padding: 8px 16px 8px 32px;
+    font-family: var(--mono); font-size: 11.5px;
+    color: var(--text-muted); background: none; border: none;
+    text-align: left; cursor: pointer; width: 100%;
+    transition: background 0.15s, color 0.15s;
+  }
+  .report-date-item:hover { background: var(--surface2); color: var(--text); }
+  .report-date-item.active { color: var(--blue); background: rgba(59,130,246,0.08); font-weight: 600; }
+  .report-content { flex: 1; min-width: 0; }
 
-    .tab-bar { display: flex; gap: 0; border-bottom: 1px solid var(--border); }
-    .tab-btn {
-      padding: 12px 20px; font-family: var(--mono); font-size: 11px; font-weight: 500;
-      letter-spacing: 0.08em; color: var(--text-muted); background: none; border: none;
-      border-bottom: 2px solid transparent; cursor: pointer; text-transform: uppercase; transition: color 0.15s;
-    }
-    .tab-btn:hover { color: var(--text); }
-    .tab-btn.active { color: var(--blue); border-bottom-color: var(--blue); }
-    .tab-content { display: none; }
-    .tab-content.active { display: block; }
+  @media (max-width: 700px) {
+    .report-layout { flex-direction: column; }
+    .report-sidebar { width: 100%; max-height: 220px; border-right: none; border-bottom: 1px solid var(--border); }
+  }
 
-    .news-feed {
-      max-height: 380px; overflow-y: auto;
-      scrollbar-width: thin; scrollbar-color: var(--border2) transparent;
-    }
-    .news-item {
-      display: flex; align-items: flex-start; gap: 12px;
-      padding: 12px 20px; border-bottom: 1px solid var(--border); transition: background 0.15s;
-    }
-    .news-item:hover { background: var(--surface2); }
-    .news-item:last-child { border-bottom: none; }
-    .news-date {
-      font-family: var(--mono); font-size: 10px; color: var(--text-dim);
-      white-space: nowrap; padding-top: 2px; min-width: 70px;
-    }
-    .news-title a {
-      font-size: 13px; color: var(--text); text-decoration: none;
-      line-height: 1.45; display: block;
-    }
-    .news-title a:hover { color: var(--blue); }
-    .news-new {
-      display: inline-block; font-family: var(--mono); font-size: 9px;
-      padding: 1px 5px; border-radius: 3px; background: rgba(59,130,246,0.15);
-      color: var(--blue); border: 1px solid rgba(59,130,246,0.3);
-      margin-left: 6px; vertical-align: middle;
-    }
+  .report-body {
+    max-height: 520px; overflow-y: auto; padding: 20px;
+    scrollbar-width: thin; scrollbar-color: var(--border2) transparent;
+    font-size: 13.5px; line-height: 1.75; color: var(--text);
+  }
+  .report-body h2 {
+    font-family: var(--mono); font-size: 12px; font-weight: 600;
+    letter-spacing: 0.1em; text-transform: uppercase; color: var(--cyan);
+    margin: 20px 0 10px; padding-bottom: 6px; border-bottom: 1px solid var(--border);
+  }
+  .report-body h2:first-child { margin-top: 0; }
+  .report-body b, .report-body strong { color: var(--text); font-weight: 600; }
+  .report-body ul { padding-left: 18px; }
+  .report-body li { margin-bottom: 5px; color: var(--text-muted); }
+  .report-body a { color: var(--blue); }
 
-    /* ── AI 리포트 날짜 탭 ── */
-    .report-tabs-bar {
-      display: flex; gap: 6px; flex-wrap: wrap;
-      padding: 12px 20px; border-bottom: 1px solid var(--border);
-      min-height: 48px; align-items: center;
-    }
-    .report-tab-btn {
-      padding: 4px 12px; border-radius: 20px;
-      border: 1px solid var(--border2);
-      background: var(--surface2); color: var(--text-muted);
-      font-family: var(--mono); font-size: 11px;
-      cursor: pointer; transition: all 0.15s;
-    }
-    .report-tab-btn:hover { color: var(--text); border-color: var(--blue); }
-    .report-tab-btn.active {
-      background: var(--blue-dim); color: var(--text);
-      border-color: var(--blue);
-    }
-    .report-body {
-      max-height: 500px; overflow-y: auto; padding: 20px;
-      scrollbar-width: thin; scrollbar-color: var(--border2) transparent;
-      font-size: 13.5px; line-height: 1.75; color: var(--text);
-    }
-    .report-body h2 {
-      font-family: var(--mono); font-size: 12px; font-weight: 600;
-      letter-spacing: 0.1em; text-transform: uppercase; color: var(--cyan);
-      margin: 20px 0 10px; padding-bottom: 6px; border-bottom: 1px solid var(--border);
-    }
-    .report-body h2:first-child { margin-top: 0; }
-    .report-body b, .report-body strong { color: var(--text); font-weight: 600; }
-    .report-body ul { padding-left: 18px; }
-    .report-body li { margin-bottom: 5px; color: var(--text-muted); }
-    .report-body a { color: var(--blue); }
+  .chart-legend {
+    display: flex; gap: 16px;
+    font-family: var(--mono); font-size: 11px; color: var(--text-muted); margin-bottom: 12px;
+  }
+  .legend-item { display: flex; align-items: center; gap: 6px; }
+  .legend-dot { width: 8px; height: 8px; border-radius: 50%; }
 
-    .chart-legend {
-      display: flex; gap: 16px;
-      font-family: var(--mono); font-size: 11px; color: var(--text-muted); margin-bottom: 12px;
-    }
-    .legend-item { display: flex; align-items: center; gap: 6px; }
-    .legend-dot { width: 8px; height: 8px; border-radius: 50%; }
+  #loading-screen {
+    position: fixed; inset: 0; background: var(--bg);
+    display: flex; align-items: center; justify-content: center;
+    flex-direction: column; gap: 20px; z-index: 999;
+  }
+  .loading-text {
+    font-family: var(--mono); font-size: 12px; letter-spacing: 0.2em;
+    color: var(--text-muted); text-transform: uppercase;
+  }
+  .loading-bar-wrap { width: 200px; height: 2px; background: var(--surface2); border-radius: 2px; overflow: hidden; }
+  .loading-bar {
+    height: 100%; width: 0%; background: var(--blue);
+    animation: load 1.8s ease-in-out infinite;
+  }
+  @keyframes load {
+    0% { width: 0%; margin-left: 0%; }
+    50% { width: 80%; margin-left: 10%; }
+    100% { width: 0%; margin-left: 100%; }
+  }
+  .empty-state {
+    padding: 40px 20px; text-align: center; color: var(--text-dim);
+    font-family: var(--mono); font-size: 12px; letter-spacing: 0.08em;
+  }
 
-    #loading-screen {
-      position: fixed; inset: 0; background: var(--bg);
-      display: flex; align-items: center; justify-content: center;
-      flex-direction: column; gap: 20px; z-index: 999;
-    }
-    .loading-text {
-      font-family: var(--mono); font-size: 12px; letter-spacing: 0.2em;
-      color: var(--text-muted); text-transform: uppercase;
-    }
-    .loading-bar-wrap { width: 200px; height: 2px; background: var(--surface2); border-radius: 2px; overflow: hidden; }
-    .loading-bar {
-      height: 100%; width: 0%; background: var(--blue);
-      animation: load 1.8s ease-in-out infinite;
-    }
-    @keyframes load {
-      0% { width: 0%; margin-left: 0%; }
-      50% { width: 80%; margin-left: 10%; }
-      100% { width: 0%; margin-left: 100%; }
-    }
-    .empty-state {
-      padding: 40px 20px; text-align: center; color: var(--text-dim);
-      font-family: var(--mono); font-size: 12px; letter-spacing: 0.08em;
-    }
-
-    /* ── 키워드맵 ── */
-    .keyword-cloud {
-      display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
-      padding: 20px; min-height: 120px;
-    }
-    .kw-tag {
-      display: inline-block;
-      padding: 3px 10px; border-radius: 4px;
-      border: 1px solid;
-      font-family: var(--mono);
-      cursor: default;
-      transition: all 0.15s;
-      white-space: nowrap;
-    }
-    .kw-tag:hover { filter: brightness(1.3); transform: translateY(-1px); }
-    .kw-tag.tier1 { font-size: 18px; font-weight: 600; color: var(--blue);  border-color: rgba(59,130,246,0.4);  background: rgba(59,130,246,0.1); }
-    .kw-tag.tier2 { font-size: 15px; font-weight: 500; color: var(--cyan);  border-color: rgba(34,211,238,0.35); background: rgba(34,211,238,0.08); }
-    .kw-tag.tier3 { font-size: 13px; font-weight: 400; color: var(--green); border-color: rgba(52,211,153,0.3);  background: rgba(52,211,153,0.07); }
-    .kw-tag.tier4 { font-size: 11px; font-weight: 400; color: var(--text-muted); border-color: var(--border); background: var(--surface2); }
-  </style>
+  /* ── 키워드맵 ── */
+  .keyword-cloud {
+    display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+    padding: 20px; min-height: 120px;
+  }
+  .kw-tag {
+    display: inline-block;
+    padding: 3px 10px; border-radius: 4px;
+    border: 1px solid;
+    font-family: var(--mono);
+    cursor: default;
+    transition: all 0.15s;
+    white-space: nowrap;
+  }
+  .kw-tag:hover { filter: brightness(1.3); transform: translateY(-1px); }
+  .kw-tag.tier1 { font-size: 18px; font-weight: 600; color: var(--blue); border-color: rgba(59,130,246,0.4); background: rgba(59,130,246,0.1); }
+  .kw-tag.tier2 { font-size: 15px; font-weight: 500; color: var(--cyan); border-color: rgba(34,211,238,0.35); background: rgba(34,211,238,0.08); }
+  .kw-tag.tier3 { font-size: 13px; font-weight: 400; color: var(--green); border-color: rgba(52,211,153,0.3); background: rgba(52,211,153,0.07); }
+  .kw-tag.tier4 { font-size: 11px; font-weight: 400; color: var(--text-muted); border-color: var(--border); background: var(--surface2); }
+</style>
 </head>
 <body>
 
@@ -348,6 +388,13 @@
         <button class="tab-btn active" onclick="switchTab('domestic', this)">국내 뉴스</button>
         <button class="tab-btn" onclick="switchTab('global', this)">해외 뉴스</button>
       </div>
+      <div class="news-search-bar">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="7"/><path d="m21 21-4.35-4.35"/>
+        </svg>
+        <input type="text" id="news-search" class="news-search-input" placeholder="제목으로 검색 (예: 해상풍력, 부유식, GW...)" oninput="filterNews()">
+        <span class="news-search-count" id="news-search-count"></span>
+      </div>
       <div id="tab-domestic" class="tab-content active">
         <div class="news-feed" id="feed-domestic"><div class="empty-state">LOADING...</div></div>
       </div>
@@ -369,278 +416,337 @@
     </div>
   </div>
 
-  <!-- AI 리포트 패널 (날짜 탭 포함) -->
+  <!-- AI 리포트 패널 (연-월 아코디언 + 우측 본문) -->
   <div class="panel" style="margin-bottom:16px;">
     <div class="panel-header">
       <span class="panel-title">🤖 Gemini AI 분석 리포트</span>
       <span class="panel-badge cyan">AI REPORT</span>
     </div>
-    <!-- 날짜 탭 버튼들 -->
-    <div class="report-tabs-bar" id="report-tabs">
-      <span style="font-family:var(--mono);font-size:11px;color:var(--text-dim);">날짜 로딩 중...</span>
-    </div>
-    <!-- 리포트 본문 -->
-    <div class="report-body" id="ai-report">
-      <div class="empty-state">리포트를 불러오는 중입니다...</div>
+    <div class="report-layout">
+      <div class="report-sidebar" id="report-sidebar">
+        <div class="empty-state" style="padding:24px 10px;">날짜 로딩 중...</div>
+      </div>
+      <div class="report-content">
+        <div class="report-body" id="ai-report">
+          <div class="empty-state">리포트를 불러오는 중입니다...</div>
+        </div>
+      </div>
     </div>
   </div>
 
 </div><!-- /app -->
 
 <script>
-  /* ── 탭 전환 ── */
-  function switchTab(id, btn) {
-    document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
-    document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
-    document.getElementById('tab-' + id).classList.add('active');
-    btn.classList.add('active');
+/* ── 탭 전환 ── */
+function switchTab(id, btn) {
+  document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
+  document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
+  document.getElementById('tab-' + id).classList.add('active');
+  btn.classList.add('active');
+}
+
+/* ── 숫자 애니메이션 ── */
+function animateCount(el, target) {
+  const dur = 800, start = performance.now();
+  function step(now) {
+    const p = Math.min((now - start) / dur, 1);
+    el.textContent = Math.round(p * target).toLocaleString();
+    if (p < 1) requestAnimationFrame(step);
+  }
+  requestAnimationFrame(step);
+}
+
+/* ── 뉴스 피드 렌더링 ── */
+function renderFeed(containerId, items, today) {
+  const container = document.getElementById(containerId);
+  if (!items || items.length === 0) {
+    container.innerHTML = '<div class="empty-state">NO DATA</div>';
+    return;
+  }
+  container.innerHTML = items.map(item => {
+    const isNew = item.date === today;
+    return `
+      <div class="news-item">
+        <div class="news-date">${item.date || '—'}</div>
+        <div class="news-title">
+          <a href="${item.link}" target="_blank" rel="noopener">
+            ${item.title}${isNew ? '<span class="news-new">NEW</span>' : ''}
+          </a>
+        </div>
+      </div>`;
+  }).join('');
+}
+
+/* ── 뉴스 검색 ── */
+let allDomesticNews = [];
+let allGlobalNews   = [];
+let todayStr = '';
+
+function filterNews() {
+  const q = document.getElementById('news-search').value.trim().toLowerCase();
+  const countEl = document.getElementById('news-search-count');
+
+  const filteredDom = q ? allDomesticNews.filter(n => (n.title || '').toLowerCase().includes(q)) : allDomesticNews;
+  const filteredGlb = q ? allGlobalNews.filter(n => (n.title || '').toLowerCase().includes(q))   : allGlobalNews;
+
+  renderFeed('feed-domestic', filteredDom, todayStr);
+  renderFeed('feed-global',   filteredGlb, todayStr);
+
+  countEl.textContent = q ? `검색결과 국내 ${filteredDom.length} · 해외 ${filteredGlb.length}` : '';
+}
+
+/* ── 트렌드 차트 ── */
+let trendChart = null;
+function renderTrendChart(trendData) {
+  if (!trendData || trendData.length === 0) {
+    document.getElementById('trend-wrapper').innerHTML =
+      '<div class="empty-state" style="padding-top:70px;">집계 시트 데이터가 없습니다</div>';
+    return;
   }
 
-  /* ── 숫자 애니메이션 ── */
-  function animateCount(el, target) {
-    const dur = 800, start = performance.now();
-    function step(now) {
-      const p = Math.min((now - start) / dur, 1);
-      el.textContent = Math.round(p * target).toLocaleString();
-      if (p < 1) requestAnimationFrame(step);
-    }
-    requestAnimationFrame(step);
-  }
-
-  /* ── 뉴스 피드 렌더링 ── */
-  function renderFeed(containerId, items, today) {
-    const container = document.getElementById(containerId);
-    if (!items || items.length === 0) {
-      container.innerHTML = '<div class="empty-state">NO DATA</div>';
-      return;
-    }
-    container.innerHTML = items.map(item => {
-      const isNew = item.date === today;
-      return `
-        <div class="news-item">
-          <div class="news-date">${item.date || '—'}</div>
-          <div class="news-title">
-            <a href="${item.link}" target="_blank" rel="noopener">
-              ${item.title}${isNew ? '<span class="news-new">NEW</span>' : ''}
-            </a>
-          </div>
-        </div>`;
-    }).join('');
-  }
-
-  /* ── 트렌드 차트 ── */
-  let trendChart = null;
-  function renderTrendChart(trendData) {
-    if (!trendData || trendData.length === 0) {
-      document.getElementById('trend-wrapper').innerHTML =
-        '<div class="empty-state" style="padding-top:70px;">집계 시트 데이터가 없습니다</div>';
-      return;
-    }
-    // 집계 데이터 → dateMap
-    const dateMap = new Map();
-    trendData.forEach(d => {
-      const prev = dateMap.get(d.date) || { domestic: 0, global: 0 };
-      dateMap.set(d.date, {
-        domestic: prev.domestic + (d.domestic || 0),
-        global:   prev.global   + (d.global   || 0)
-      });
+  const dateMap = new Map();
+  trendData.forEach(d => {
+    const prev = dateMap.get(d.date) || { domestic: 0, global: 0 };
+    dateMap.set(d.date, {
+      domestic: prev.domestic + (d.domestic || 0),
+      global:   prev.global   + (d.global   || 0)
     });
+  });
 
-    // ★ 최근 30 캘린더일 날짜 배열 생성 (빈 날은 0으로 채움)
-    const today = new Date();
-    const merged = [];
-    for (let i = 29; i >= 0; i--) {
-      const d = new Date(today);
-      d.setDate(today.getDate() - i);
-      const key = d.toISOString().substring(0, 10);
-      merged.push({
-        date: key.substring(5), // MM-DD 표시
-        domestic: dateMap.get(key)?.domestic || 0,
-        global:   dateMap.get(key)?.global   || 0
-      });
-    }
+  const today = new Date();
+  const merged = [];
+  for (let i = 29; i >= 0; i--) {
+    const d = new Date(today);
+    d.setDate(today.getDate() - i);
+    const key = d.toISOString().substring(0, 10);
+    merged.push({
+      date: key.substring(5),
+      domestic: dateMap.get(key)?.domestic || 0,
+      global:   dateMap.get(key)?.global   || 0
+    });
+  }
 
-    if (trendChart) trendChart.destroy();
-    trendChart = new Chart(document.getElementById('trendChart'), {
-      type: 'line',
-      data: {
-        labels: merged.map(d => d.date),
-        datasets: [
-          {
-            label: '국내', data: merged.map(d => d.domestic),
-            borderColor: '#3b82f6', backgroundColor: 'rgba(59,130,246,0.08)',
-            fill: true, tension: 0.35, pointRadius: 3, pointBackgroundColor: '#3b82f6', borderWidth: 2
-          },
-          {
-            label: '해외', data: merged.map(d => d.global),
-            borderColor: '#34d399', backgroundColor: 'rgba(52,211,153,0.06)',
-            fill: true, tension: 0.35, pointRadius: 3, pointBackgroundColor: '#34d399', borderWidth: 2,
-            borderDash: [5, 3]
-          }
-        ]
-      },
-      options: {
-        responsive: true, maintainAspectRatio: false,
-        interaction: { mode: 'index', intersect: false },
-        plugins: {
-          legend: { display: false },
-          tooltip: {
-            backgroundColor: '#111827', borderColor: '#1e2d45', borderWidth: 1,
-            titleColor: '#6b8097', bodyColor: '#e2e8f0',
-            titleFont: { family: "'IBM Plex Mono', monospace", size: 10 },
-            bodyFont:  { family: "'IBM Plex Mono', monospace", size: 11 },
-            padding: 10
-          }
+  if (trendChart) trendChart.destroy();
+  trendChart = new Chart(document.getElementById('trendChart'), {
+    type: 'line',
+    data: {
+      labels: merged.map(d => d.date),
+      datasets: [
+        {
+          label: '국내', data: merged.map(d => d.domestic),
+          borderColor: '#3b82f6', backgroundColor: 'rgba(59,130,246,0.08)',
+          fill: true, tension: 0.35, pointRadius: 3, pointBackgroundColor: '#3b82f6', borderWidth: 2
         },
-        scales: {
-          x: {
-            ticks: { color: '#3d5166', font: { family: "'IBM Plex Mono', monospace", size: 9 }, maxRotation: 45, autoSkip: true, maxTicksLimit: 10 },
-            grid: { color: '#1e2d45' }
-          },
-          y: {
-            beginAtZero: true,
-            ticks: { color: '#3d5166', font: { family: "'IBM Plex Mono', monospace", size: 9 }, precision: 0 },
-            grid: { color: '#1e2d45' }
-          }
+        {
+          label: '해외', data: merged.map(d => d.global),
+          borderColor: '#34d399', backgroundColor: 'rgba(52,211,153,0.06)',
+          fill: true, tension: 0.35, pointRadius: 3, pointBackgroundColor: '#34d399', borderWidth: 2,
+          borderDash: [5, 3]
+        }
+      ]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          backgroundColor: '#111827', borderColor: '#1e2d45', borderWidth: 1,
+          titleColor: '#6b8097', bodyColor: '#e2e8f0',
+          titleFont: { family: "'IBM Plex Mono', monospace", size: 10 },
+          bodyFont:  { family: "'IBM Plex Mono', monospace", size: 11 },
+          padding: 10
+        }
+      },
+      scales: {
+        x: {
+          ticks: { color: '#3d5166', font: { family: "'IBM Plex Mono', monospace", size: 9 }, maxRotation: 45, autoSkip: true, maxTicksLimit: 10 },
+          grid: { color: '#1e2d45' }
+        },
+        y: {
+          beginAtZero: true,
+          ticks: { color: '#3d5166', font: { family: "'IBM Plex Mono', monospace", size: 9 }, precision: 0 },
+          grid: { color: '#1e2d45' }
         }
       }
-    });
+    }
+  });
+}
+
+/* ── 키워드 빈도 맵 ── */
+function renderKeywordMap(domesticNews, globalNews) {
+  const container = document.getElementById('keyword-cloud');
+  const allTitles = [
+    ...(domesticNews || []).map(n => n.title || ''),
+    ...(globalNews   || []).map(n => n.title || '')
+  ].join(' ');
+
+  const koWords = allTitles.match(/[\uAC00-\uD7A3]{2,}/g) || [];
+  const enWords = (allTitles.match(/[a-zA-Z]{4,}/g) || []).map(w => w.toLowerCase());
+
+  const stopKo = new Set(['관련','국내','해외','풍력','통해','위해','대한','이후','지난','올해',
+    '현재','기준','이번','전년','지역','사업','계획','기업','추진','진행','강조','발표','예정',
+    '따르면','대해','최근','오는','위한','있는','있어','하는','하고','하며','보다','이상','이하']);
+  const stopEn = new Set(['wind','power','offshore','that','this','with','have','from','they',
+    'will','been','were','their','about','would','which','there','when','also','more','than',
+    'into','some','what','just','over','after','your','could','other','then','well','only']);
+
+  const freq = {};
+  [...koWords, ...enWords].forEach(w => {
+    if (stopKo.has(w) || stopEn.has(w)) return;
+    freq[w] = (freq[w] || 0) + 1;
+  });
+
+  const sorted = Object.entries(freq)
+    .filter(([, c]) => c >= 2)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 60);
+
+  if (sorted.length === 0) {
+    container.innerHTML = '<div class="empty-state">키워드 데이터 없음</div>';
+    return;
   }
 
-  /* ── 키워드 빈도 맵 ── */
-  function renderKeywordMap(domesticNews, globalNews) {
-    const container = document.getElementById('keyword-cloud');
-    const allTitles = [
-      ...(domesticNews || []).map(n => n.title || ''),
-      ...(globalNews   || []).map(n => n.title || '')
-    ].join(' ');
+  const max = sorted[0][1];
+  const shuffled = sorted.map(([w, c]) => ({ w, c })).sort(() => Math.random() - 0.5);
 
-    // 한국어 2글자+ 단어, 영어 4글자+ 단어 추출
-    const koWords = allTitles.match(/[\uAC00-\uD7A3]{2,}/g) || [];
-    const enWords = (allTitles.match(/[a-zA-Z]{4,}/g) || []).map(w => w.toLowerCase());
+  container.innerHTML = shuffled.map(({ w, c }) => {
+    const ratio = c / max;
+    const tier = ratio > 0.6 ? 'tier1' : ratio > 0.35 ? 'tier2' : ratio > 0.15 ? 'tier3' : 'tier4';
+    return `<span class="kw-tag ${tier}" title="${c}회">${w}</span>`;
+  }).join('');
+}
 
-    // 불용어 필터
-    const stopKo = new Set(['관련','국내','해외','풍력','통해','위해','대한','이후','지난','올해',
-      '현재','기준','이번','전년','지역','사업','계획','기업','추진','진행','강조','발표','예정',
-      '따르면','대해','최근','오는','위한','있는','있어','하는','하고','하며','보다','이상','이하']);
-    const stopEn = new Set(['wind','power','offshore','that','this','with','have','from','they',
-      'will','been','were','their','about','would','which','there','when','also','more','than',
-      'into','some','what','just','over','after','your','could','other','then','well','only']);
-
-    const freq = {};
-    [...koWords, ...enWords].forEach(w => {
-      if (stopKo.has(w) || stopEn.has(w)) return;
-      freq[w] = (freq[w] || 0) + 1;
-    });
-
-    const sorted = Object.entries(freq)
-      .filter(([, c]) => c >= 2)
-      .sort((a, b) => b[1] - a[1])
-      .slice(0, 60);
-
-    if (sorted.length === 0) {
-      container.innerHTML = '<div class="empty-state">키워드 데이터 없음</div>';
+/* ── AI 리포트: 연-월 아코디언 사이드바 ── */
+async function loadReportTabs() {
+  const sidebar = document.getElementById('report-sidebar');
+  try {
+    const resp = await fetch('./reports-index.json?t=' + Date.now());
+    if (!resp.ok) {
+      sidebar.innerHTML = '<div class="empty-state" style="padding:24px 10px;">저장된 리포트 없음</div>';
+      return;
+    }
+    const { dates } = await resp.json();
+    if (!dates || dates.length === 0) {
+      sidebar.innerHTML = '<div class="empty-state" style="padding:24px 10px;">저장된 리포트 없음</div>';
       return;
     }
 
-    const max = sorted[0][1];
-    // 셔플해서 배치 순서를 랜덤하게 (시각적으로 자연스럽게)
-    const shuffled = sorted.map(([w, c]) => ({ w, c })).sort(() => Math.random() - 0.5);
-
-    container.innerHTML = shuffled.map(({ w, c }) => {
-      const ratio = c / max;
-      const tier  = ratio > 0.6 ? 'tier1' : ratio > 0.35 ? 'tier2' : ratio > 0.15 ? 'tier3' : 'tier4';
-      return `<span class="kw-tag ${tier}" title="${c}회">${w}</span>`;
-    }).join('');
-  }
-
-  /* ── 리포트 날짜 탭 ── */
-  async function loadReportTabs() {
-    const tabContainer = document.getElementById('report-tabs');
-    try {
-      const resp = await fetch('./reports-index.json?t=' + Date.now());
-      if (!resp.ok) {
-        tabContainer.innerHTML = '<span style="font-family:var(--mono);font-size:11px;color:var(--text-dim);">저장된 리포트 없음</span>';
-        return;
-      }
-      const { dates } = await resp.json();
-      if (!dates || dates.length === 0) {
-        tabContainer.innerHTML = '<span style="font-family:var(--mono);font-size:11px;color:var(--text-dim);">저장된 리포트 없음</span>';
-        return;
-      }
-
-      tabContainer.innerHTML = '';
-      dates.forEach((date, i) => {
-        const btn = document.createElement('button');
-        btn.textContent = date;
-        btn.className = 'report-tab-btn' + (i === 0 ? ' active' : '');
-        btn.onclick = () => loadReportByDate(date, btn);
-        tabContainer.appendChild(btn);
-        if (i === 0) loadReportByDate(date, btn);
-      });
-    } catch(e) {
-      tabContainer.innerHTML = '<span style="font-family:var(--mono);font-size:11px;color:var(--text-dim);">리포트 인덱스 없음</span>';
-    }
-  }
-
-  async function loadReportByDate(date, activeBtn) {
-    document.querySelectorAll('.report-tab-btn').forEach(b => b.classList.remove('active'));
-    activeBtn.classList.add('active');
-
-    const reportEl = document.getElementById('ai-report');
-    reportEl.innerHTML = '<div class="empty-state">불러오는 중...</div>';
-    try {
-      const resp = await fetch('./reports/' + date + '.json?t=' + Date.now());
-      if (!resp.ok) throw new Error('파일 없음');
-      const { report } = await resp.json();
-      reportEl.innerHTML = report || '<div class="empty-state">리포트 내용 없음</div>';
-    } catch(e) {
-      reportEl.innerHTML = '<div class="empty-state" style="color:var(--red);">리포트를 불러올 수 없습니다.</div>';
-    }
-  }
-
-  /* ── 데이터 로드 성공 ── */
-  function onDataSuccess(jsonStr) {
-    const data = JSON.parse(jsonStr);
-    const today = data.lastUpdated || '';
-
-    document.getElementById('last-updated').textContent = '업데이트: ' + today;
-
-    animateCount(document.getElementById('kpi-total'),    data.kpi.total);
-    animateCount(document.getElementById('kpi-domestic'), data.kpi.domestic);
-    animateCount(document.getElementById('kpi-global'),   data.kpi.global);
-    animateCount(document.getElementById('kpi-today'),    data.kpi.todayNew);
-    document.getElementById('kpi-today-sub').textContent =
-      '국내 ' + data.kpi.todayDomestic + ' / 해외 ' + data.kpi.todayGlobal;
-
-    renderFeed('feed-domestic', data.domesticNews, today);
-    renderFeed('feed-global',   data.globalNews,   today);
-    renderTrendChart(data.trend);
-    renderKeywordMap(data.domesticNews, data.globalNews);
-
-    // 리포트 날짜 탭 로드 (reports-index.json 기반)
-    // reports-index.json이 없으면 latestReport 폴백
-    loadReportTabs().catch(() => {
-      document.getElementById('ai-report').innerHTML =
-        data.latestReport || '<div class="empty-state">리포트 없음</div>';
+    // dates는 최신순(내림차순) 정렬되어 있다고 가정 → 연-월 단위로 그룹핑
+    const groups = {};
+    const order = [];
+    dates.forEach(date => {
+      const key = date.substring(0, 7); // "yyyy-mm"
+      if (!groups[key]) { groups[key] = []; order.push(key); }
+      groups[key].push(date);
     });
 
-    document.getElementById('loading-screen').style.display = 'none';
-    document.getElementById('app').style.display = 'block';
-  }
+    sidebar.innerHTML = '';
+    order.forEach((monthKey, idx) => {
+      const [y, m] = monthKey.split('-');
+      const isFirst = idx === 0;
 
-  /* ── 데이터 로드 실패 ── */
-  function onDataFailure(err) {
-    document.getElementById('loading-screen').innerHTML =
-      '<div class="loading-text" style="color:#f87171;">데이터 로드 실패<br>' +
-      '<span style="font-size:10px;color:#3d5166;">' + (err || '') + '</span></div>';
-  }
+      const groupEl = document.createElement('div');
+      groupEl.className = 'report-month-group';
 
-  /* ── data.json fetch ── */
-  fetch('./data.json?t=' + Date.now())
-    .then(r => r.json())
-    .then(d => onDataSuccess(JSON.stringify(d)))
-    .catch(e => onDataFailure(e.message));
+      const header = document.createElement('div');
+      header.className = 'report-month-header' + (isFirst ? ' open' : '');
+      header.innerHTML =
+        `<span><span class="chevron">▸</span>${y}년 ${m}월</span>` +
+        `<span class="report-month-count">${groups[monthKey].length}건</span>`;
+
+      const list = document.createElement('div');
+      list.className = 'report-date-list' + (isFirst ? ' open' : '');
+
+      groups[monthKey].forEach((date, di) => {
+        const item = document.createElement('button');
+        item.type = 'button';
+        item.className = 'report-date-item' + (isFirst && di === 0 ? ' active' : '');
+        item.textContent = date;
+        item.onclick = () => loadReportByDate(date, item);
+        list.appendChild(item);
+      });
+
+      header.onclick = () => {
+        header.classList.toggle('open');
+        list.classList.toggle('open');
+      };
+
+      groupEl.appendChild(header);
+      groupEl.appendChild(list);
+      sidebar.appendChild(groupEl);
+    });
+
+    // 최신 날짜 리포트 자동 로드
+    const firstBtn = sidebar.querySelector('.report-date-item');
+    if (firstBtn) loadReportByDate(dates[0], firstBtn);
+
+  } catch (e) {
+    sidebar.innerHTML = '<div class="empty-state" style="padding:24px 10px;">리포트 인덱스 없음</div>';
+  }
+}
+
+async function loadReportByDate(date, activeBtn) {
+  document.querySelectorAll('.report-date-item').forEach(b => b.classList.remove('active'));
+  activeBtn.classList.add('active');
+
+  const reportEl = document.getElementById('ai-report');
+  reportEl.innerHTML = '<div class="empty-state">불러오는 중...</div>';
+  try {
+    const resp = await fetch('./reports/' + date + '.json?t=' + Date.now());
+    if (!resp.ok) throw new Error('파일 없음');
+    const { report } = await resp.json();
+    reportEl.innerHTML = report || '<div class="empty-state">리포트 내용 없음</div>';
+  } catch (e) {
+    reportEl.innerHTML = '<div class="empty-state" style="color:var(--red);">리포트를 불러올 수 없습니다.</div>';
+  }
+}
+
+/* ── 데이터 로드 성공 ── */
+function onDataSuccess(jsonStr) {
+  const data = JSON.parse(jsonStr);
+  todayStr = data.lastUpdated || '';
+
+  document.getElementById('last-updated').textContent = '업데이트: ' + todayStr;
+
+  animateCount(document.getElementById('kpi-total'),    data.kpi.total);
+  animateCount(document.getElementById('kpi-domestic'), data.kpi.domestic);
+  animateCount(document.getElementById('kpi-global'),   data.kpi.global);
+  animateCount(document.getElementById('kpi-today'),    data.kpi.todayNew);
+  document.getElementById('kpi-today-sub').textContent =
+    '국내 ' + data.kpi.todayDomestic + ' / 해외 ' + data.kpi.todayGlobal;
+
+  allDomesticNews = data.domesticNews || [];
+  allGlobalNews   = data.globalNews   || [];
+  document.getElementById('news-search').value = '';
+  document.getElementById('news-search-count').textContent = '';
+  renderFeed('feed-domestic', allDomesticNews, todayStr);
+  renderFeed('feed-global',   allGlobalNews,   todayStr);
+
+  renderTrendChart(data.trend);
+  renderKeywordMap(data.domesticNews, data.globalNews);
+
+  loadReportTabs().catch(() => {
+    document.getElementById('ai-report').innerHTML =
+      data.latestReport || '<div class="empty-state">리포트 없음</div>';
+  });
+
+  document.getElementById('loading-screen').style.display = 'none';
+  document.getElementById('app').style.display = 'block';
+}
+
+/* ── 데이터 로드 실패 ── */
+function onDataFailure(err) {
+  document.getElementById('loading-screen').innerHTML =
+    '<div class="loading-text" style="color:#f87171;">데이터 로드 실패<br>' +
+    '<span style="font-size:10px;color:#3d5166;">' + (err || '') + '</span></div>';
+}
+
+/* ── data.json fetch ── */
+fetch('./data.json?t=' + Date.now())
+  .then(r => r.json())
+  .then(d => onDataSuccess(JSON.stringify(d)))
+  .catch(e => onDataFailure(e.message));
 </script>
 </body>
 </html>
