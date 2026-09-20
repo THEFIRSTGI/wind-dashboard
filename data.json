@@ -1,13 +1,109 @@
 {
   "kpi": {
-    "total": 5367,
-    "domestic": 3092,
-    "global": 2275,
-    "todayNew": 1,
-    "todayDomestic": 0,
-    "todayGlobal": 1
+    "total": 5386,
+    "domestic": 3108,
+    "global": 2278,
+    "todayNew": 3,
+    "todayDomestic": 1,
+    "todayGlobal": 2
   },
   "domesticNews": [
+    {
+      "title": "HD현대일렉 변압기, 유럽 해상풍력단지로…“국내업계 최초” - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04RzJzVTBQelFGOGJOMjAyZkI5VnlRWjhXRVQ4QkNUNXdHTUxpbVJ6OV9PbEl3LTBZbjU2Q3BQX2xhb3loY1p5YXFiTnJad1k3MmlPbmlGeERyd2M?oc=5",
+      "date": "2026-09-18",
+      "status": "신규"
+    },
+    {
+      "title": "김천시 풍력발전소 공사현장 점검 - hgnet.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE83RHlqMWZ5YTZPNGpiUm5WcmJnOU5SbXFtYTd3QlFBTUVqYV9IaGhyUnVMeDZCVmVJT2NlTEYtV2VNWGlRR21nbDlpd1k?oc=5",
+      "date": "2026-09-20",
+      "status": "신규"
+    },
+    {
+      "title": "LS마린솔루션, 신안우이 해상풍력 1,569억원 수주...역대 최대 - 뉴뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xQi1CY0lPbXBrNm92X1gxSjIwRjJMcExKMGJ2aG5FUm94WHFYV2RsQkUyenBFa3JzbkJ1WVhBdjhPVmlqdjZYX2NjZnZ0WEcxeUJXdi1wd2RpOHQ3WWRHeDJRSnBXUQ?oc=5",
+      "date": "2026-09-20",
+      "status": "신규"
+    },
+    {
+      "title": "서해해경청, 해상풍력단지 선박 충돌사고 대응 훈련 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05aGlEYjlYSmZqVl9PVUE2VWUxTmRUa2E3c2xoVHBnTlREWkVySVBZWXdUQ2E4NDdPeGlPbHRPaHBZdERLVWM5eVFpemRVTjhCM1hGNVF3V0NuckJ2akE0a9IBYEFVX3lxTE05aGlEYjlYSmZqVl9PVUE2VWUxTmRUa2E3c2xoVHBnTlREWkVySVBZWXdUQ2E4NDdPeGlPbHRPaHBZdERLVWM5eVFpemRVTjhCM1hGNVF3V0NuckJ2akE0aw?oc=5",
+      "date": "2026-09-18",
+      "status": "신규"
+    },
+    {
+      "title": "김천시, 풍력발전소 공사 현장 안전점검 - hidomin.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KMERBNDVwd051TVNwX0dGdEN5MFRpZ0EzZEdTMk5CNFgzSXBsUFZ4Qk5taWZFTER6YkhINWFnLXUtOE9HdHpyUTBFcVpDaE9RN0ktTVJPVFVLdDZxVmpfazRIR0dDVVF0eXc?oc=5",
+      "date": "2026-09-20",
+      "status": "신규"
+    },
+    {
+      "title": "임직원 해상풍력사업 전문성 강화 - 수산인신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YVXJaTUJEQWdReXFsNTk4MUlUX3FOVk52V25CcldlSHoyYlQ2OTRpM0NELTFFTmlvRzFRT0tDUW1CeC1nWG52Q1NnN2RYSGJPbURmYzZXTDM1SmtGeXBHOUFVUFRhWE1rUUE?oc=5",
+      "date": "2026-09-20",
+      "status": "신규"
+    },
+    {
+      "title": "LS마린솔루션, 신안우이 해상풍력 1,569억원 수주…역대 최대 - 강원일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHcGVvX0ZhcWVjak14bnZZZ3hEOFVxS28ybVo5R29OMFFMOHZkQ3JMOU0zY3pLWjB1bHBCSGhHcFpfaE9oOTlaSHAwLURHZV9mQmhqS29BNHJwMVU?oc=5",
+      "date": "2026-09-20",
+      "status": "신규"
+    },
+    {
+      "title": "13,000가구 쓸 친환경 전력 생산… 김천시, 풍력발전소 공사 현장 긴급 점검 - 영남경제",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zWHBYQ1g0dWhKT3NmTUtFZjA5M2RkTEdFbF9oRG9RNHZQeUF1ekc5ZHhzQl9nRHJuS3JkZHExRDhHQWxZeFZCeE53MDE2SHAtVkF1T2JCUGpJN2dvTVVqTnFoLXktbEU?oc=5",
+      "date": "2026-09-20",
+      "status": "신규"
+    },
+    {
+      "title": "국내 최대 신안 우이 해상풍력...시작부터 주민과 갈등 - KBC광주방송",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mSDlkX0dBVlpPR3ZJZi00bzB6U3hCNENrMHU1U3RyNUQzcjVySUFYb1NFMDAyU2x2eEdkYjBGbTZ0bGVfOXVCc295QnFZaldHRFdVamkxeHlhVDZCYXVkRGZR?oc=5",
+      "date": "2026-09-20",
+      "status": "신규"
+    },
+    {
+      "title": "유니슨, 군산에 해상풍력 터빈 생산거점 구축 - 철강금속신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzZzl1b2xUT0xwWkRvdkVodXNibDlMWWZZbHVrNG5ubE96ak03NF90djRhbUw1VXhlUnZ6X055VFRqOEZIc0VTbGJ0TTB1b2ptQVJCUE0ySlNkS1VwZGUxQlRNcDl5S0Zma3c?oc=5",
+      "date": "2026-09-18",
+      "status": "신규"
+    },
+    {
+      "title": "그린' 걷어낸 SK에코플랜트…풍력협회도 탈퇴수순 밟나 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE02eXhkMzU3RExMYmw1b0MwUzFPOTV6bG04cTluaG1CbHRRSlRjVGk0MnVXb2xqX1M1cDNvWGRyR3VzZGRjUHd3azFuMA?oc=5",
+      "date": "2026-09-18",
+      "status": "신규"
+    },
+    {
+      "title": "REC 가중치 폐지 앞두고 해상풍력 입찰 ‘눈치싸움’ - 일렉트릭파워",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91dFlPbkJFa1kzN1YzSmYyRWUwTkVMa3lUYmJZNlQyMHBnQXFGdnRmbm5LWlhCcmVJNm9VRzNuRlZzOXhHUWl2N1hjVGxpd0F6QVlKMTczTlFkZ3JpVXRDa09mLUE?oc=5",
+      "date": "2026-09-21",
+      "status": "신규"
+    },
+    {
+      "title": "영양군의회, 풍력발전 상생모델 연구착수…주민 이익 공유 방안 모색 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5SUM3SzMzWUNiSUtBWXAzYWloZEFUWlBSclhVcDg1ZWE0SENrMUVWMEJUVEZ0eFBhandjLWlwdzFvUnNIVjE1Z0JmZ0cwYzh6MkJ0UktraXhHU21jMHVOSDctVC1QRENiSVp5SHV3?oc=5",
+      "date": "2026-09-20",
+      "status": "신규"
+    },
+    {
+      "title": "HD현대일렉트릭, 북미 이어 유럽 해상풍력서 수주 기반 확대 - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WTUxGN2hNbFliWU9qVDltY1J6cUZlY2s1NkpLc1VseUF1QWM1ZWQzQUg1cVpqZjB4dzQxV2VQa1RfSkd6eFN0MEJ1MUQ5NUhJMEpmeTdOT3VfOTREcmxpTQ?oc=5",
+      "date": "2026-09-20",
+      "status": "신규"
+    },
+    {
+      "title": "만원주택·해상풍력' 이끈 장충모 전남개발공사 사장 국민포장 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYTGNCTGtoY3o3blUwVXZlVVRnbzQ3NXhiSmhmZDYyY182a2VsbzBsbkZuVzI0Y0ZuNzB0Z1A1RnI1QVdPRWRSX1RFMXpiY1h0NGgwMFk2WDVLODNibWNr0gFkQVVfeXFMUEZLakJEd3c4dm9icmNmSzdqRy1PSmxjbHl4VnpaVUJiRE01WWxaZkl2d0w5YzFDM05LNkpRNnFpLU83NE5mNnozUGZtQ192a1phQS1MVEEtOU44SnlQSTR2R0VENQ?oc=5",
+      "date": "2026-09-20",
+      "status": "신규"
+    },
+    {
+      "title": "“측정값보다 더한 고통”… 영덕 풍력발전단지 3년째 소음 논란 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBuZEhSQTBVMWh3X1YxY0RELVI1RzJrZnJPSnlydEhlaVQwM3JEMGk4SHBORUVNODYwcXFnbnBIemVORmdPWnc?oc=5",
+      "date": "2026-09-20",
+      "status": "신규"
+    },
     {
       "title": "\"바람이 돈이 된다\" 강원도, 공공주도 풍력으로 주민 소득 늘린다 - 프레시안",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YUTc3MnZGODhpa1UxR2Zmc0dzNjdUNUZrX3NaRjFDQllOTGdoSDFFU205T0czR21MX1FfRmRxTkNkZmJZdU44N1NTdGJpOFhuRjBubUo2VVQxS040TldoRXRoNlBraEpyQ0M0?oc=5",
@@ -1711,105 +1807,27 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kbkhWNVlWX1BiaGNEbFVYOTF4MVBpS2FOOFMxV2NRQk42SlE0RlFjbFdYLUFQVF9malFzSGdtczJ0TjhVYTl5aEpYZjFMMzBhdU5RWVBrLU9NYXFvbENGNFFqSkg5YjhxLUNWS9IBcEFVX3lxTE9GOG1BRVBVeDFCeHZhRXFZak9OMjV0cG1HQWpzNXg2RnpmMEE2OWNUanFtaWlJMUNpYVVPTHdmWHRjX1dJMWc2T21oQTNRZmdSQ2JjQ2ZSU3JkLVI5eVNFWV9Na2hnTWVUa3lJU2s0Z0U?oc=5",
       "date": "2026-08-28",
       "status": "신규"
-    },
-    {
-      "title": "[부산소식]KMI, 제주 해상풍력-수산업·지역사회 상생 모색 등 - 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IYkdiOFBQSjVkOV9fakRwemF2Y3luVGdiUHRQNnJTUXZzYTNqcDdLX2dYTkxNYThCMmRiVWNuR1R6SU1uc2tyT2p3Wk5zWDFvWndqNVgzMkw0QWo5Z0JSM9IBeEFVX3lxTFBTM3h4c0NCQkJrbE9nWGlzZWRpN0dnTmRXOUlkMThpNENVVTcwZ0QweUViSEJQQUp6ZVpRVXhSUXNZOGVZYkhLR0FlUjlTVkpSNURQb2JTUVo1ajVkUnFITjM2MXp4eVN2WnZobFpmMVJ6NzZ5UW9qVg?oc=5",
-      "date": "2026-08-28",
-      "status": "신규"
-    },
-    {
-      "title": "KMI, 제주 해상풍력 현장 조사… '어업·낚시·이익공유' 해법 찾는다 - v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ITzE4SjlGTThKYmt2LVU4NWlrUlBzN1ZuUmVYNERWTy1YOXI4c0psb0JGR3pIWVNUZnNiSDNHODNLUUQ3UGlsSEc0QXhhTVE?oc=5",
-      "date": "2026-08-29",
-      "status": "신규"
-    },
-    {
-      "title": "해상풍력, 허가보다 실행…투자 가능한 사업으로 바꿔야 - 전기신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtM2U3UmNqeTVsZlFWLU92ZTh5cHprWkV5NnFtdmxZb2diNkVFUFZsQkJFM1dob2hLWDROUlY2bjlFWmlmamxPdEYzcDhUYUJsbEhpS0F4Q0lJcUcwWUZ2SnNCcVhqcUpiM0JqZ9IBcEFVX3lxTE43VFpoaXQzak96MDR2RlNScllsYTFNQ3dWbTRXc21KY0h0ZDhQMGNwaUJqOG45V0g0NjdTMzFZXzVjSG5RX0lFQXV6Y2I0VzdJeG52ZE1CV3RFSzVPcFRZNEVVZ3VYeVE0ajFCS1lPQ1A?oc=5",
-      "date": "2026-08-29",
-      "status": "신규"
-    },
-    {
-      "title": "오스테드의 인천 해상풍력 사업 보류와 전면 재검토 배경 - 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQlpMVi1ESVNNTHVvN1hPVWlMUjUyNUNPUlNYVTN1NzhDQ0F0QUtHQ0hKLVZhZ0dwZFgya2JKQ2MyTjBBT0NPUWFfQ0RaOV9UUWxqT0JkcXE5UnY4cW5ycVhVWmRoRC1zZGdfWGsyTi01U05qQ0lfQXZLaE5xS1FzSWplWkxIOTlN?oc=5",
-      "date": "2026-08-29",
-      "status": "신규"
-    },
-    {
-      "title": "[주末머니]\"풍력 업황 회복 국면\"…증권사 주목하는 종목은? - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UZEoxd0RfdzNHS0JEc1RQZnJtdXdLaV95WGpBMEhwcS1xa2tabzdCSG43ZXB1cmRUU1c3cjRac3J4aWNGZUxhVloxaXpYUUFnenBzWjBWX1ppdkNTdmxnVFNR?oc=5",
-      "date": "2026-08-29",
-      "status": "신규"
-    },
-    {
-      "title": "풍력산업협회, 국방부에 해상풍력 추진 전향적 협조 요청 - 에너지데일리",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwWTIycTA5QW16QWozVU1zMEgxdXJTQWlwTzA3UmFLdHY4TVRiRVdXTFVDNnNFZlJRN296ZENXWnVzSm9lYXdWOUFLMzNsV0hHb1VJelBZQjFtVm1LX0RELVp0bWljZGdyeDVKQ0NyV2dqQQ?oc=5",
-      "date": "2026-08-28",
-      "status": "신규"
-    },
-    {
-      "title": "유니슨, 육·해상풍력 사업 확대...개발·O&M까지 넓혀 ‘매출 1조’ 정조준 - 전기신문",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GOG1BRVBVeDFCeHZhRXFZak9OMjV0cG1HQWpzNXg2RnpmMEE2OWNUanFtaWlJMUNpYVVPTHdmWHRjX1dJMWc2T21oQTNRZmdSQ2JjQ2ZSU3JkLVI5eVNFWV9Na2hnTWVUa3lJU2s0Z0XSAXBBVV95cUxPRjhtQUVQVXgxQnh2YUVxWWpPTjI1dHBtR0FqczV4NkZ6ZjBBNjljVGpxbWlpSTFDaWFVT0x3Zlh0Y19XSTFnNk9taEEzUWZnUkNiY0NmUlNyZC1SOXlTRVlfTWtoZ01lVGt5SVNrNGdF?oc=5",
-      "date": "2026-08-28",
-      "status": "신규"
-    },
-    {
-      "title": "해상풍력 45GW 시대 열린다…대한전선, 해저케이블 공략 속도 - edaily.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOGtOVW9ESERFc0M4bk4wWWRFbk5XN0ktMXVUTXVLcUQ3VV9WVEMxS0U1NHlCT1BtTWM1NUl3WUVISjVRdFBfZkppeG5wUHlnUGdDU0QwX0kyejJnZzhLMDQzQkJxMTFqdmtoUzJCRnRCNzRQZy1hNGJ5R1c0SlMyTQ?oc=5",
-      "date": "2026-08-28",
-      "status": "신규"
-    },
-    {
-      "title": "아마존, 스웨덴 데이터센터용 풍력 발전소 4곳 계약 – 블룸버그 - Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJZkRZWUxsY0FWSVNteGR4Z1hQdmFkX1pHYU1Yd2IzSkw3S0cyaHJ1TXJhUXhNaElNa0hQQVNaU1VvVFhMX0tuNjI1dDV4eGZXZC1IVWdUUjJFTEVsblFfNUNuMkd2Q01meUk3MU5qWndlY0l0WXNr?oc=5",
-      "date": "2026-08-28",
-      "status": "신규"
-    },
-    {
-      "title": "남부발전, ‘장마 끝 태풍 대비’ 풍력단지 현장 안전관리 대폭 강화 - 부산일보",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jdVZ2ZFNJdWl6ZmJzdEVEaUZZa3JCbkxnU2J6UDltRVRlZTBUak9IVW81ZXBvLXg5bnlHczZMU1FHSWVKNzlxV3d5NENMdmtEZG9INk5wSnNGWnZiNXFMTEhjbDNOeVhCblFxaVBzU2xMRlBF?oc=5",
-      "date": "2026-08-28",
-      "status": "신규"
-    },
-    {
-      "title": "풍력발전기 아래 어장은 어떨까?… KMI, 제주 현장서 해답 찾는다 - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xcWZadTNYRDBsLVhMMWY2XzQ3S0FzUFZmVTlOOGVyMHZRZGJtbzBzLWU4MWpiM2hrWGFpZ1p2ZWp0QWlLVkZfcFpvekpmSlBsbGtGalJTeWlsaFRub0djckt3?oc=5",
-      "date": "2026-08-28",
-      "status": "신규"
-    },
-    {
-      "title": "풍력산업협회·국방부, 해상풍력발전 신속 건설 ‘한마음’ …“협조 방안 모색” - 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DQzdJTzBHcU5oeFFvdUFSeVBaYmR0cnpzd1FMY1Vua2FoOU9fejgtY0NsczRqZlZ5WnYxblBZdXdMQmNlRm5nZFhxMWN5c3E3eDNySHJ3?oc=5",
-      "date": "2026-08-28",
-      "status": "신규"
-    },
-    {
-      "title": "2030년까지 8배 늘려야 하는데… 해상풍력, 전격 民軍 공조 시동 - 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb3ZmX1JWTlNWNG5ucEYtSE0wSnJGWmFxRUdIaFdvcWdUMXg5eXlwbGdiUkVsd1BRUnhnZHQ1OVNUQmxQMUZUZUppTUVmUmo1WG1iQ2lDMjZPRTV4dElpMmloMGl5RmhOUVpYdm13OVNOYWlFSmNQRmtHLVlvVmJTMnc2OE9ELUNNNGtGMkl3?oc=5",
-      "date": "2026-08-28",
-      "status": "신규"
-    },
-    {
-      "title": "풍력터빈 기업 유니슨, 고창해상풍력에 1천억원 규모 공급 - 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vMlFNU3FadGdWSTRrNWJnM1JSSzRHMDdqMDVrd0ptbE93bGw4ZlBQYmlQSHBxTFgtZ0JoZS1MTHpyTFVrcmtxV3NNLTc4aEZZLTNfcXB6SlZMRWPSAWBBVV95cUxQNm9SaldUTkN1eHNlbDlEUVdvYk5DY0V3a0lXWFRiLXVyQWxHLXBrMXU2eU9YU3Y3Z3lVdjg3ZGJ1TXgxbGtVQ3Q5MElxMTY1bHZFdU8yb0Z6ZVFOeWdJR2k?oc=5",
-      "date": "2026-08-28",
-      "status": "신규"
-    },
-    {
-      "title": "재생에너지로 원전 45기 전력 만든다 - 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2d2RFNnhENV9WU2lYWUpENE0wd2RxR0lzanc3ZGZmdE04OXBiMVVLa3pJbFBPbDVrcmlXUExnY2lpSTFHSlZqNS1OZlF0VXl3dlE?oc=5",
-      "date": "2026-08-26",
-      "status": "신규"
-    },
-    {
-      "title": "\"글로벌 1위 오스테드, 탈한국\" 소식에…\"총괄회장, 9월초 방한\" - 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TRmNkYmlJREktNFZiNEtIR0RTeW54b0ZZV3NfeEhJR2QyaEJETDFUUG8zSnp3cjRpZmRsMTZ0VHB4SEZMUDNXUGdZVGlTa1Q0eUwyWFR0Um5PQQ?oc=5",
-      "date": "2026-08-27",
-      "status": "신규"
     }
   ],
   "globalNews": [
+    {
+      "title": "Combination of companies selected to reduce costs of floating wind power - Ocean Energy Resources",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVd0RkZ5MXExanRoV0h0cm10OHREcWgwTTlhOGFBVERKaGRnejZDaVNRM0ZRekN2aUdENFFIOU9XTl9kc2FaM0VXeG43cnpqTm10dTFkZlRQVFp0TjI5WGpVRXM4VmlHbkFYR3NJcnZ6OThBaU5LRlg5UE1UOHVTZ0JrSXNBY3JOVGNMdlNhV1lVOFNpUENRMFB3NlpMQnRmcmFCT1d5M29ZTGxyckRfdmZYTTNhMm04Q1E?oc=5",
+      "date": "2026-09-21",
+      "status": "신규"
+    },
+    {
+      "title": "Rhode Island’s offshore wind turbines are attracting Jonah crabs, raising a bigger question about whether - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQaXBvVEtHOTVfem5UcjhYOTBJbDNwZHliM2JyejA1OG9PcGNZNm9PWENpZTdHb0VVYk9TVFFqZUZIb1h1NF9OdU9jM3UwTUVQbWVrT0QtRUVNU2hFMDItbFc0R0xKRVJjNlZuRlNVNGVqdC1PMVh6SWQzbG9zVkFvbklvektNR3hoZUpLWjF1eUNpQzFweHJsdjU0anEtSlk1dVczSG5MdUExZ0l2ZUlEaEZVczlFSVdSSXF1eDZ0TWxMaU0tUVJJSzZkV1BlN1pWNTlwbFNmUDBhWGV4dGxpQk5CY2k3NWdpcVJzWFdyajc3TTZQcGNQWGctWndlYXdrZzRoOEw1dkJjVVRPNHh5Nl9WaE0zYklya2Q3WlVVYkFpc0tTbHRrdjhzSVFYcl9wZ0hzVEp3S2dTeU53S2fSAcMCQVVfeXFMTXZwY1JlV1Q1MElaX0ZDcGhUV201UHJjb1ZfLXBOZWJNVTJNaUdCbzJ4S3ZzV0ZRZDV4MTg4ZFozQmxNWkZVUVhvY0N0dUsyR196SjloZkNGcEFJNmpLcmNEUUMwX2hUUW9nNlFMelQ1T3l2UVhpZkduUDY5WWYzUFBhT1JNZHE1NG9nZkFmN0NMbGNfMHF0Vmc4dUtCZlc1NFF1eElzVEFvaWo3NHRVS2pHUVlJLTJoNEhvSndfSi1XQUVobTRZN1RFLWxWTnJTMWFMM3A4b2xXbE5YV1VtMVBZSlFhTjJnemdEeXFZOUloOTRPQUlTZEtLcU1oMW5BbUYzN3h0NXRZWVRDSTJwaE1vRF9JQUE5OFMxd3MxTkJzZ0xxV2xKVjNEb1UwbjQ2QWZoaUpoQk1RM0ZLTVNTbE96NHM?oc=5",
+      "date": "2026-09-21",
+      "status": "신규"
+    },
+    {
+      "title": "Revolution Wind completes 65-turbine farm off New England coast - The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbi1VM19MaERHR19nbUpFbGpWUnphelBoZVowTDNWVTJlVEhIWU1xa3VoMV81ZmNNQlROOFVYZkdoVlE4Y0ZOaV9ocUdYU190UXIxVHdldW9kZzFraU5YLWZTY0lXcW11R2lCVjVDMm9XLTFwMEJBQk8xa1Q0WUxnOU5POWlsbHhyWXZmSVlDZzNtQUgzdlcybWxYSGdWTy0ySUtqNUc4WDJxZw?oc=5",
+      "date": "2026-09-19",
+      "status": "신규"
+    },
     {
       "title": "Revolution Wind installs final turbine, nears full operation - WFSB",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2dPOUhKZ2tFQjdod0VyWjRrQVlsenc2MzJyUVJMZTI5NXVmV3pEd1pxZENMZEhaVmlYTkFxWnM5Y0gxRThyY2tqMGh1WFN3TW9rRHg1bnVpZmlRcmhvckxadGVjaGdlTXp3RWg2NTFEaGxkRTdzakpVSS1tLXRvZkVyYjIzZVVncTVDUHdMZlNHRE40YXlR?oc=5",
@@ -3591,24 +3609,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVjRjdG1UQWFUamQweXU2N0pYVURGUUJWOU9oVTlHMndZNE1UaGtnTEZjNmdQZjVBRjZMcWxuTnhBWTRwSV91Q1N3UUFwYVplWDkza0xDX1VUVWRPZFdNQ3UtT09iU0xWZXZ0VjVoSFFTeENHTlJkMm42elBZWWlrWTB5S1gwa0ZmYlU3dmo2SmI0OUtyMl9zdF9jZlpQQk8tblAyZkh4V1dOZmxXQkdxS003QURvb24tcVdn?oc=5",
       "date": "2026-08-18",
       "status": "신규"
-    },
-    {
-      "title": "German industry body calls for CfD-only model for offshore wind - Renewables Now",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQay1Nb2NyWU9qNG9yZThQcy1qNkNFTUtIZllTYVFUQ1dFU2xwSWxpYVlhY09nbEFDejg0RVlNVEI3REZYclV6Um83TTlNQnNPTl9VcEJOcGk5R0Rua0g5Vlk3Ujc2Q2xkZThqazNtZ3R3ZUZWWmxFNVZLbUJqd3JiQnEtc1FuTVJkRUZEalhFNTRfV1liOFBRd042TVBGcU5JclpKNDN3?oc=5",
-      "date": "2026-08-18",
-      "status": "신규"
-    },
-    {
-      "title": "Stantec launches data platform in support of offshore wind projects in Atlantic Canada - constructconnect.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUS1UN3RHM1oyWF8tMmdMWW1yZEhYam9GVVBhRkYyZkFHQ1llMm52UFFhbzkzc0poQWNkT3VacDMzelNLWTk5amtvUWdQWkRxVUVhNFNmWWp2SmNDRlZBVmV4azFnZ09xUWJkS3h5ZU54ZEp6LWRaTWZ3eFZEUVF5RmFHZklRUUdSbVZfVVp3THdGZjhUZUZKQmd5UjBIbjVtSlltYS1WMTNhQmFueU83RU1kcHpRTHBDbTNTSDZnckNGRWNBejVwN01DNk53ZGtzbGpuRGN4VVM5LWprOEtZWnBFX3E?oc=5",
-      "date": "2026-08-18",
-      "status": "신규"
-    },
-    {
-      "title": "RWE withdraws from three U.S. offshore wind leases under a $1.22 billion settlement with the Interior Department - Energies Media",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tVF9pWnNsOXdUdUFoVU9pclV3b2Z2TmwzTG5WNjRYRF9FUTM4N2ltY2xOaVloVHkyVkFfQ3ZTQ0N5NTZFMGlMWjRERngyS0VpOHRPZUZrazFWdkFydDNGMDFkeDMtdjR0Q0hzRzRaLUVIR1JWZkVsczdZRVE?oc=5",
-      "date": "2026-08-18",
-      "status": "신규"
     }
   ],
   "trend": [
@@ -4756,10 +4756,15 @@
       "date": "2026-09-20",
       "domestic": 0,
       "global": 6
+    },
+    {
+      "date": "2026-09-21",
+      "domestic": 16,
+      "global": 3
     }
   ],
-  "latestReport": "<h2>주요 이슈 요약</h2>\n<ul>\n    <li>\n        <b>미국 해상풍력 프로젝트의 성공적 완료 및 상업 운전 임박</b>\n        <br>미국 로드아일랜드 해상에 건설 중인 '레볼루션 윈드(Revolution Wind)' 프로젝트가 모든 터빈 설치를 완료하며 상업 운전 개시가 임박했음을 알렸습니다. 이는 대규모 해상풍력 발전 단지 건설의 중요한 진전을 의미하며, 미국 내 재생에너지 목표 달성에 기여할 것으로 기대됩니다.\n        <ul>\n            <li>관련 기사:</li>\n            <li>Final turbine installed at offshore wind project off Rhode Island - WJAR</li>\n            <li>Revolution Wind completes installation of all 65 turbines - CT Mirror</li>\n            <li>US Offshore Wind Project Revolution Wind Installs Last Turbine - The Maritime Executive</li>\n            <li>Major US offshore wind farm installs its last turbine - Canary Media</li>\n            <li>Revolution Wind installs final turbine, nears full operation - WFSB</li>\n        </ul>\n    </li>\n    <li>\n        <b>한국 해상풍력 시장의 성장 잠재력 및 해외 투자 유치</b>\n        <br>국내 기업인 HD현대일렉트릭이 유럽 해상풍력 시장에서 변압기 수요 증가로 성장 기회를 포착하고 있는 가운데, 해외 에너지 기업인 Pacifico Energy는 한국 해상풍력 프로젝트에 10억 달러 이상을 투자하며 한국 시장에 대한 강력한 신뢰를 보였습니다. 이는 한국이 글로벌 해상풍력 공급망에서 중요한 역할을 수행하고, 해외 자본 유치를 통해 시장 확대를 가속화할 수 있음을 시사합니다.\n        <ul>\n            <li>관련 기사:</li>\n            <li>\"변압기 호황\" HD현대일렉트릭, 유럽 해상풍력서도 기회 잡는다 - 뉴시스</li>\n            <li>Pacifico Energy puts more than $1 billion behind offshore wind projects in South Korea, deepening its bet on the country’s coastal power buildout - Energies Media</li>\n        </ul>\n    </li>\n    <li>\n        <b>북미 지역의 해상풍력 확장 및 정책적 함의</b>\n        <br>캐나다에서도 해상풍력 개발 소식이 전해지며 북미 전역으로 해상풍력 산업이 확산될 가능성을 보여주고 있습니다. 이는 특정 정치적 기조에 따라 제약이 있었던 지역에서도 재생에너지 전환의 모멘텀이 강화될 수 있음을 나타내며, 각국의 정책적 지원과 환경 규제가 산업 발전에 미치는 영향이 중요함을 강조합니다.\n        <ul>\n            <li>관련 기사:</li>\n            <li>Canada Haunts Trump With New Offshore Wind Nightmare - CleanTechnica</li>\n        </ul>\n    </li>\n</ul>\n\n<h2>기사 목록</h2>\n<ul>\n    <li><b>[국내 이슈]</b></li>\n    <ul>\n        <li><b>[2026-09-19]</b> \"변압기 호황\" HD현대일렉트릭, 유럽 해상풍력서도 기회 잡는다 - 뉴시스 (<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yTjF0eFhTSzZabHJMZERUNDc3Q0hjR21MaHBtaTk1b0FWcnlMMG42ZVNkdW9hRGFjZDh6ajA5VFFqVU9IVUg5d0NaSWZ3SkhNanVjaUc3LTNtTkdyT2VweNIBeEFVX3lxTE1fWFJSQ1Ficl9jVHNXNE1CamtiV2U3SXJkSlp2czZaV0E3d0dnTktWV2tNTzhSQlFUcWhYall3V3hQMXNhdkJNTXd1TzVBUkxKcEkzUGZ2TDcxOWhSRWNnNlNVeHV2aEswZm5kNC1LN0ViLXRzZmpSbg?oc=5\">링크</a>)</li>\n    </ul>\n    <li><b>[해외 이슈]</b></li>\n    <ul>\n        <li><b>[2026-09-20]</b> Canada Haunts Trump With New Offshore Wind Nightmare - CleanTechnica (<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUZZenk5TEY1bGdvTkZjaWRYeFRteWNYclJKdTdRUGl6eGJWTTBKUllfWE0tLVhfMHFqaWZrUzFOYVBDWFRfTU8zdTBGZkJ5UEZtdTBUeDRSenJ5TGJ1RUl2UF9SeU51bkhFQTJFNWtGVE9nOTAtZnYxRWR0dldUWVBrTl9GNGxQMU1GcmlRSlNyUXo1Nnc?oc=5\">링크</a>)</li>\n        <li><b>[2026-09-19]</b> Final turbine installed at offshore wind project off Rhode Island - WJAR (<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQYlJNNllpbHpOYkdmZnBWVFNFemdqUm5TMFE0UkVZSEl6bmZPcGgxTGlENms3MTljZUkwekFhWEJhWGM5MWx1QmRBZGZfSlo0bS1paDZXVE52OGJqeVNzdjFId3I2N3UwY0FlMk9rcHVTanQ4S0Y5ZzRQNlJyajliUVZOTlVoQ0NXMUl4eE8zN2J2T1I4Mjd4Q2ZXdUhHNUc1bExMTGxxN2hiWjRtSGhHNENFZk8xYm9uc3ZVYXFzRHh4MF9UT2tGa1pqTGpFVHhVN3FReVlUUGtpa0FLdEppcGwwb2pOOWpxZWloamEydGpPN1FZdFprTGh4UXZwOFRkT0E?oc=5\">링크</a>)</li>\n        <li><b>[2026-09-19]</b> Revolution Wind completes installation of all 65 turbines - CT Mirror (<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1zYV9FSE1wNG05ZHlkRVAwRlBKR2JrVGdNSDh4ZjRkU0paakZ1LXRVRmhBM0tsQnlDMm9LR3Zac0Z4TXBqbkI0Qmt1bEFHSnFlSVNpT2ZqZElsUkpRUzA0QXZQdEV1Z1lCTGRBQU5yU1ZPeUE?oc=5\">링크</a>)</li>\n        <li><b>[2026-09-19]</b> Pacifico Energy puts more than $1 billion behind offshore wind projects in South Korea, deepening its bet on the country’s coastal power buildout - Energies Media (<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1QdGxyYjB1SndWM1pMZUxJdm85ZTJFOGc2ZFBaNmxkaVhsVW5OdFQ1S0tYZFJTeHJDZnZwa1FCRFRPVVpUSkRwaldsMGREY2ZNWTNhLVdTLXg2UFBEeEZnM0JoT1paVUtHaEpYWGZMaDI2NVlCR0dJZ3hDNlg?oc=5\">링크</a>)</li>\n        <li><b>[2026-09-19]</b> US Offshore Wind Project Revolution Wind Installs Last Turbine - The Maritime Executive (<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZEZvVGdIUU1ZWVVDekNTbW9URkJWd1FUT3p6dU1kZWE1cW1TVS13QkNEWk5mVkZEakp1em93enlhU2Q5SmRseU1UMHo3QUZYZWExS1JUQTFaSEZXOEtoVzN5NjZEZi1hSU1KY05QQ1k2SnA5VVhVM2VBb1dNWmMwZ1BidwdoWnNJUEpPU3pXUkN5aXhySFA0cXpNbFJpbHo5aEVV?oc=5\">링크</a>)</li>\n        <li><b>[2026-09-19]</b> Major US offshore wind farm installs its last turbine - Canary Media (<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPZHptcVIwaWdVVy1DMkUweW9hS1NpTzQ5NTdla3pjTDZIWW9wWFRsTWh4emEtVU9JeU1wRjdER3dzWFdCUzd6NVVpd3Z0eEZQRkxEQTlEUEZ3bDhYNFpXek5rYnBoT0pXSjZFZWJtRkVneXBuVjZKR3praWdxYXg5SHZZYW0zcVExVGUtQ19OcmFSanNOcGFpNDdhODFmUQ?oc=5\">링크</a>)</li>\n        <li><b>[2026-09-19]</b> Revolution Wind installs final turbine, nears full operation - WFSB (<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2dPOUhKZ2tFQjdod0VyWjRrQVlsenc2MzJyUVJMZTI5NXVmV3pEd1pxZENMZEhaVmlYTkFxWnM5Y0gxRThyY2tqMGh1WFN3TW9rRHg1bnVpZmlRcmhvckxadGVjaGdlTXp3RWg2NTFEaGxkRTdzakpVSS1tLXRvZkVyYjIzZVVncTVDUHdMZlNHRE40YXlR?oc=5\">링크</a>)</li>\n    </ul>\n</ul>\n\n<h2>산업 시사점</h2>\n<ul>\n    <li>\n        <b>글로벌 해상풍력 시장의 강력한 성장 모멘텀:</b> 미국 '레볼루션 윈드' 프로젝트의 최종 터빈 설치 완료는 대규모 해상풍력 단지 건설이 성공적으로 이행되고 있음을 보여주며, 이는 전 세계적으로 재생에너지 전환의 중요한 축인 해상풍력 산업이 실질적인 성과를 내고 있음을 의미합니다. 특히 북미 지역으로의 확산 가능성까지 언급되어, 해상풍력이 주요 전력원으로 자리매김할 것이라는 전망에 힘을 싣습니다.\n    </li>\n    <li>\n        <b>한국의 해상풍력 가치 사슬 내 중요성 부각:</b> HD현대일렉트릭의 유럽 시장 진출과 Pacifico Energy의 한국 투자 소식은 한국이 해상풍력 발전의 단순 소비국을 넘어, 핵심 부품 공급 및 해외 자본 유치를 통해 글로벌 공급망에서 중요한 역할을 수행하는 주체로 부상하고 있음을 시사합니다. 이는 국내 기업의 기술력과 시장의 매력도가 동시에 입증되는 것으로, 향후 산업 생태계 확장과 고용 창출에 긍정적인 영향을 미칠 것입니다.\n    </li>\n    <li>\n        <b>지속적인 정책 지원과 투자 환경 조성이 필수:</b> 해상풍력 프로젝트의 성공적인 진행과 해외 투자 유치는 각국 정부의 안정적인 정책 지원과 투자 친화적인 환경 조성에 크게 좌우됩니다. 장기적인 관점에서 불확실성을 제거하고 예측 가능한 시장을 제공함으로써, 더 많은 자본과 기술이 유입되어 해상풍력 산업의 지속 가능한 성장을 견인할 수 있도록 해야 합니다.\n    </li>\n</ul>",
-  "lastUpdated": "2026-09-20",
+  "latestReport": "<h2><b>신재생 에너지 산업 분석 보고서 (2026년 9월 20일-21일)</b></h2>\n\n<h2><b>1. 주요 이슈 요약</b></h2>\n<ul>\n    <li>\n        <b>주민 수용성 확보 및 갈등 관리의 중요성 증대</b>\n        <ul>\n            <li>\n                풍력발전 프로젝트가 실제 사업 단계에 접어들면서 주민 소음 피해, 환경 문제 등 갈등이 심화되고 있습니다. 특히 영덕 풍력발전단지의 소음 논란과 신안 우이 해상풍력 사업의 주민 갈등은 사업 추진에 있어 지역 사회와의 소통과 상생 모델 구축이 얼마나 중요한지를 보여줍니다. 이에 따라 영양군의회처럼 주민 이익 공유 방안을 모색하는 노력이 활발히 이루어지고 있습니다.\n            </li>\n            <li>관련 기사:</li>\n            <ul>\n                <li>“측정값보다 더한 고통”… 영덕 풍력발전단지 3년째 소음 논란</li>\n                <li>영양군의회, 풍력발전 상생모델 연구착수…주민 이익 공유 방안 모색</li>\n                <li>국내 최대 신안 우이 해상풍력...시작부터 주민과 갈등</li>\n            </ul>\n        </ul>\n    </li>\n    <li>\n        <b>정책 변화에 따른 시장의 불확실성 및 사업성 재편</b>\n        <ul>\n            <li>\n                REC(재생에너지 공급인증서) 가중치 폐지 논의와 같은 정책 변화는 해상풍력 입찰 시장에 직접적인 영향을 미치며, 개발사들의 사업 전략 수립에 중요한 변수로 작용하고 있습니다. 정책의 일관성과 예측 가능성 확보가 시장 안정화에 필수적이며, 이는 장기적인 투자 결정에도 큰 영향을 미칠 것으로 예상됩니다.\n            </li>\n            <li>관련 기사:</li>\n            <ul>\n                <li>REC 가중치 폐지 앞두고 해상풍력 입찰 ‘눈치싸움’</li>\n                <li>만원주택·해상풍력' 이끈 장충모 전남개발공사 사장 국민포장</li>\n            </ul>\n        </ul>\n    </li>\n    <li>\n        <b>국내외 사업 확장 및 투자 활성화</b>\n        <ul>\n            <li>\n                해상풍력을 중심으로 한 신재생에너지 사업 투자가 국내외에서 활발히 이루어지고 있습니다. HD현대일렉트릭의 북미 및 유럽 해상풍력 수주 확대와 LS마린솔루션의 신안우이 해상풍력 대규모 수주는 국내 기업들의 글로벌 경쟁력 강화와 시장 성장 잠재력을 보여줍니다. 또한, 김천시의 풍력발전소 공사 현장 점검과 해상풍력 사업 전문성 강화 노력은 사업의 안전한 추진과 인력 양성에도 집중하고 있음을 시사합니다.\n            </li>\n            <li>관련 기사:</li>\n            <ul>\n                <li>HD현대일렉트릭, 북미 이어 유럽 해상풍력서 수주 기반 확대</li>\n                <li>13,000가구 쓸 친환경 전력 생산… 김천시, 풍력발전소 공사 현장 긴급 점검</li>\n                <li>LS마린솔루션, 신안우이 해상풍력 1,569억원 수주…역대 최대</li>\n                <li>임직원 해상풍력사업 전문성 강화</li>\n                <li>김천시, 풍력발전소 공사 현장 안전점검</li>\n                <li>LS마린솔루션, 신안우이 해상풍력 1,569억원 수주...역대 최대</li>\n                <li>김천시 풍력발전소 공사현장 점검</li>\n            </ul>\n        </ul>\n    </li>\n    <li>\n        <b>기술 혁신, 환경 영향 및 글로벌 동향</b>\n        <ul>\n            <li>\n                전 세계적으로 부유식 풍력발전의 비용 절감을 위한 기술 혁신 노력이 지속되고 있으며, 해상풍력 터빈이 해양 생태계(예: 게 유인 현상)에 미치는 영향에 대한 연구와 모니터링도 활발합니다. 동시에 각국의 정치적 상황과 무관하게 신재생 에너지 전환 움직임은 가속화되고 있으며, 캐나다의 해상풍력 추진 사례는 이러한 글로벌 트렌드를 명확히 보여줍니다.\n            </li>\n            <li>관련 기사:</li>\n            <ul>\n                <li>Combination of companies selected to reduce costs of floating wind power</li>\n                <li>Rhode Island’s offshore wind turbines are attracting Jonah crabs, raising a bigger question about whether</li>\n                <li>Canada Haunts Trump With New Offshore Wind Nightmare</li>\n            </ul>\n        </ul>\n    </li>\n</ul>\n\n<h2><b>2. 기사 목록</b></h2>\n<ul>\n    <li><b>[국내 이슈]</b></li>\n    <ul>\n        <li>[2026-09-21] REC 가중치 폐지 앞두고 해상풍력 입찰 ‘눈치싸움’ (<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE91dFlPbkJFa1kzN1YzSmYyRWUwTkVMa3lUYmJZNlQyMHBnQXFGdnRmbm5LWlhCcmVJNm9VRzNuRlZzOXhHUWl2N1hjVGxpd0F6QVlKMTczTlFkZ3JpVXRDa09mLUE?oc=5\" target=\"_blank\">일렉트릭파워</a>)</li>\n        <li>[2026-09-20] “측정값보다 더한 고통”… 영덕 풍력발전단지 3년째 소음 논란 (<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFBuZEhSQTBVMWh3X1YxY0RELVI1RzJrZnJPSnlydEhlaVQwM3JEMGk4SHBORUVNODYwcXFnbnBIemVORmdPWnc?oc=5\" target=\"_blank\">v.daum.net</a>)</li>\n        <li>[2026-09-20] 만원주택·해상풍력' 이끈 장충모 전남개발공사 사장 국민포장 (<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYTGNCTGtoY3o3blUwVXZlVVRnbzQ3NXhiSmhmZDYyY182a2VsbzBsbkZuVzI0Y0ZuNzB0Z1A1RnI1QVdPRWRSX1RFMXpiY1h0NGgwMFk2WDVLODNibWNr0gFkQVVfeXFMUEZLakJEd3c4dm9icmNmSzdqRy1PSmxjbHl4VnpaVUJiRE01WWxaZkl2d0w5YzFDM05LNkpRNnFpLU83NE5mNnozUGZtQ192a1phQS1MVEEtOU44SnlQSTR2R0VENQ?oc=5\" target=\"_blank\">뉴스1</a>)</li>\n        <li>[2026-09-20] HD현대일렉트릭, 북미 이어 유럽 해상풍력서 수주 기반 확대 (<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WTUxGN2hNbFliWU9qVDltY1J6cUZlY2s1NkpLc1VseUF1QWM1ZWQzQUg1cVpqZjB4dzQxV2VQa1RfSkd6eFN0MEJ1MUQ5NUhJMEpmeTdOT3VfOTREcmxpTQ?oc=5\" target=\"_blank\">메트로신문</a>)</li>\n        <li>[2026-09-20] 영양군의회, 풍력발전 상생모델 연구착수…주민 이익 공유 방안 모색 (<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFB5SUM3SzMzWUNiSUtBWXAzYWloZEFUWlBSclhVcDg1ZWE0SENrMUVWMEJUVEZ0eFBhandjLWlwdzFvUnNIVjE1Z0JmZ0cwYzh6MkJ0UktraXhHU21jMHVOSDctVC1QRENiSVp5SHV3?oc=5\" target=\"_blank\">gukjenews.com</a>)</li>\n        <li>[2026-09-20] 국내 최대 신안 우이 해상풍력...시작부터 주민과 갈등 (<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mSDlkX0dBVlpPR3ZJZi00bzB6U3hCNENrMHU1U3RyNUQzcjVySUFYb1NFMDAyU2x2eEdkYjBGbTZ0bGVfOXVCc295QnFZaldHRFdVamkxeHlhVDZCYXVkRGZR?oc=5\" target=\"_blank\">KBC광주방송</a>)</li>\n        <li>[2026-09-20] 13,000가구 쓸 친환경 전력 생산… 김천시, 풍력발전소 공사 현장 긴급 점검 (<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zWHBYQ1g0dWhKT3NmTUtFZjA5M2RkTEdFbF9oRG9RNHZQeUF1ekc5ZHhzQl9nRHJuS3JkZHExRDhHQWxZeFZCeE53MDE2SHAtVkF1T2JCUGpJN2dvTVVqTnFoLXktbEU?oc=5\" target=\"_blank\">영남경제</a>)</li>\n        <li>[2026-09-20] LS마린솔루션, 신안우이 해상풍력 1,569억원 수주…역대 최대 (<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHcGVvX0ZhcWVjak14bnZZZ3hEOFVxS28ybVo5R29OMFFMOHZkQ3JMOU0zY3pLWjB1bHBCSGhHcFpfaE9oOTlaSHAwLURHZV9mQmhqS29BNHJwMVU?oc=5\" target=\"_blank\">강원일보</a>)</li>\n        <li>[2026-09-20] 임직원 해상풍력사업 전문성 강화 (<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5YVXJaTUJEQWdReXFsNTk4MUlUX3FOVk52V25CcldlSHoyYlQ2OTRpM0NELTFFTmlvRzFRT0tDUW1CeC1nWG52Q1NnN2RYSGJPbURmYzZXTDM1SmtGeXBHOUFVUFRhWE1rUUE?oc=5\" target=\"_blank\">수산인신문</a>)</li>\n        <li>[2026-09-20] 김천시, 풍력발전소 공사 현장 안전점검 (<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1KMERBNDVwd051TVNwX0dGdEN5MFRpZ0EzZEdTMk5CNFgzSXBsUFZ4Qk5taWZFTER6YkhINWFnLXUtOE9HdHpyUTBFcVpDaE9RN0ktTVJPVFVLdDZxVmpBazRIR0dDVVF0eXc?oc=5\" target=\"_blank\">hidomin.com</a>)</li>\n        <li>[2026-09-20] LS마린솔루션, 신안우이 해상풍력 1,569억원 수주...역대 최대 (<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xQi1CY0lPbXBrNm9vX1gxSjIwRjJMcExKMGJ2aG5FUm94WHFYV2RsQkUyenBFa3JzbkJ1WVhBdjhPVmlqdjZYX2NjZnZ0WEcxeUJXdi1wd2RpOHQ3WWRHeDJRSnBXUQ?oc=5\" target=\"_blank\">뉴뉴스</a>)</li>\n        <li>[2026-09-20] 김천시 풍력발전소 공사현장 점검 (<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE83RHlqMWZ5YTZPNGpiUm5WcmJnOU5SbXFtYTd3QlFBTUVqYV9IaGhyUnVMeDZCVmVJT2NlTEYtV2VNWGlRR21nbDlpd1k?oc=5\" target=\"_blank\">hgnet.co.kr</a>)</li>\n    </ul>\n    <li><b>[해외 이슈]</b></li>\n    <ul>\n        <li>[2026-09-21] Rhode Island’s offshore wind turbines are attracting Jonah crabs, raising a bigger question about whether (<a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxQaXBvVEtHOTVpem5UcjhYOTBJbDNwZHliM2JyejA1OG9PcGNZNm9PWENpZTdHb0VVYk9TVFFqZUZIb1h1NF9OdU9jM3UwTUVQbWVrT0QtRUVNU2hFMDItbFc0R0xKRVJjNlZuRlNVNGVqdC1PMVh6SWQzbG9zVkFvbklvektNR3hoZUpLWjF1eUNpQzFweHJsdjU0anEtSlk1dVczSG5MdUExZ0l2ZUlEaEZVczlFSVdSSXF1eDZ0TWxMaU0tUVJJSzZkV1BlN1pWNTlwbFNmUDBhWGV4dGxpQk5CY2k3NWdpcVJzWFdyajc3TTZQcGNQWGctWndlYXdrZzRoOEw1dkJjVVRPNHh5Nl9WaE0zYklya2Q3WlVVYkFpc0tTbHRrdjhzSVFYcl9wZ0hzVEp3S2dTeU53S2fSAcMCQVVfeXFMTXZwY1JlV1Q1MElaX0ZDcGhUV201UHJjb1ZfLXBOZWJNVTJNaUdCbzJ4S3ZzV0ZRZDV4MTg4ZFozQmxNWkZVUVhvY0N0dUsyR196SjloZkNGcEFJNmpLcmNEUUMwX2hUUW9nNlFMelQ1T3l2UVhpZkduUDY5WWYzUFBhT1JNZHE1NG9nZkFmN0NMbGNfMHF0Vmc4dUtCZlc1NFF1eElzVEFvaWo3NHRVS2pHUVlJLTJoNEhvSndfSi1XQUVobTRZN1RFLWxWTnJTMWFMM3A4b2xXbE5YV1VtMVBZSlFhTjJnemdEeXFZOUloOTRPQUlTZEtLcU1oMW5BbUYzN3h0NXRZWVRDSTJwaE1vRF9JQUE5OFMxd3MxTkJzZ0xxV2xKVjNEb1UwbjQ2QWZoaUpoQk1RM0ZLTVNTbE96NHM?oc=5\" target=\"_blank\">The Times of India</a>)</li>\n        <li>[2026-09-21] Combination of companies selected to reduce costs of floating wind power (<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVd0RkZ5MXExanRoV0h0cm10OHREcWgwTTlhOGFBVERKaGRnejZDaVNRM0ZRekN2cWlHRE40SDlPTl9kc2FaM0VXeG43cnpqTm10dTFkZlRQVFp0TjI5WGpVRXM4VmlHbkFYR3NJcnZ6OThBaU5LRlg5UE1UOHVTZ0JrSXNBY3JOVGNMdlNhV1lVOFNpUENRMFB3NlpMQnRmcmFCT1d5M29ZTGxyckRfdmZYTTNhMm04Q1E?oc=5\" target=\"_blank\">Ocean Energy Resources</a>)</li>\n        <li>[2026-09-20] Canada Haunts Trump With New Offshore Wind Nightmare (<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUZZenk1TEY1bGdvTkZjaWRYeFRteWNYclJKdTdRUGl6eGJWTTBKUllfWE0tLVhfMHFqaWZrUzFOYVBDWFRfTU8zdTBGZkJ5UEZtdTBUeDRSenJ5TGJ1RUl2UF9SeU51bkhFQTJFNWtGVE9nOTAtZnYxRHR0dldUWVBrTl9GNGxQMU1GcmlRSlNyUXo1Nnc?oc=5\" target=\"_blank\">CleanTechnica</a>)</li>\n    </ul>\n</ul>\n\n<h2><b>3. 산업 시사점</b></h2>\n<ul>\n    <li>\n        신재생 에너지, 특히 풍력발전 산업은 <b>정책적 지원, 기술 혁신, 시장 확장</b>이라는 긍정적 흐름 속에 있으나, <b>주민 수용성 확보와 환경 영향 최소화</b>라는 근본적인 과제를 안고 있습니다. 국내 시장은 REC 가중치 변화 등 정책 불확실성 속에서 사업성을 재고해야 하는 시점이며, 해외 시장은 부유식 풍력과 같은 핵심 기술 발전을 통한 비용 절감과 함께 해양 생태계 영향과 같은 환경 이슈에 대한 깊이 있는 접근이 요구됩니다. 지속 가능한 성장을 위해서는 <b>지역사회와의 상생 모델 구축, 투명한 정보 공개, 선제적인 환경 영향 평가 및 리스크 관리</b>가 필수적입니다. 또한, 글로벌 경쟁력 강화를 위한 <b>핵심 기술 개발 및 전문 인력 양성 투자</b>를 지속해야 할 것입니다.\n    </li>\n</ul>",
+  "lastUpdated": "2026-09-21",
   "keywords": [
     {
       "sheetName": "국내",
